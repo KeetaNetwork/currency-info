@@ -58,7 +58,7 @@ interface IsoCodeEntry {
 
 interface IsoCodeEntryWithImage extends IsoCodeEntry {
     code: ISOCurrencyCode & CurrencyCode;
-    svg: string;
+    flag: string;
 }
 
 let isoCacheUpdated = false;
@@ -90,10 +90,11 @@ function formatIsoLookup(entry: IsoCodeEntry, addImage?: boolean): IsoCodeEntry 
         throw new Error(`Cannot get svg for currency code ${entry.code}`);
     }
 
-    return {
+    return({
         ...entry,
-        svg: Images[entry.code]
-    } as IsoCodeEntryWithImage
+        code: entry.code,
+        flag: Images[entry.code]
+    });
 }
 
 export function getByISOCode(code: ISOCurrencyCode, returnImage: true): IsoCodeEntryWithImage | null;
