@@ -1,4 +1,4 @@
-# Currency-Svg
+# Currency-Info
 
 ### Development
 
@@ -18,10 +18,10 @@ The Commit message must have the version number in it, ex `Release 1.0.2`
 ### Api
 ```js
 // You can import individiually
-import { Images, CurrencyCode, currencyNames } from '@keetapay/currency-svg';
+import { Images, CurrencyCode, currencyNames } from '@keetapay/currency-info';
 
 // Or you can import all exports together
-import * as CurrencySVG from '@keetapay/currency-svg';
+import * as CurrencySVG from '@keetapay/currency-info';
 
 /**
  * Exported Types

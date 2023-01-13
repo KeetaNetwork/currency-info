@@ -1,7 +1,7 @@
 {
-  "name": "@keetapay/currency-svg",
-  "version": "1.0.1",
-  "description": "Convert currency codes to SVGs",
+  "name": "@keetapay/currency-info",
+  "version": "1.0.2",
+  "description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
   "main": "dist/index.js",
   "scripts": {
     "compile": "webpack --progress",
