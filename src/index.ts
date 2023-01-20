@@ -5,6 +5,14 @@ export function isCurrencyCode(code: any): code is CurrencyCode {
     return currencyNames.includes(code);
 }
 
+export function assertCurrencyCode(code: any): CurrencyCode {
+	if (!isCurrencyCode(code)) {
+		throw(new Error(`Invalid currency code: ${code}`));
+	}
+
+	return(code);
+}
+
 // Convert usd.svg -> USD, eur.svg -> EUR, etc
 function fileNameToCurrencyCode(fileName: string): CurrencyCode {
     // Check if the currency code provided matches the CurrencyCode type
