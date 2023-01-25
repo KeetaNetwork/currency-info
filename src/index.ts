@@ -1,7 +1,7 @@
 import { CurrencyCode, currencyNames } from './types.generated'
 import ISOCurrencies from './isocurrencies';
 
-function deleteCurrencies(codes: CurrencyCode[]): void {
+export function deleteCurrencies(codes: CurrencyCode[]): void {
     codes.forEach((code) => {
         const index = currencyNames.indexOf(code as any);
         if (index > -1) {
