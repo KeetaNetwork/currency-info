@@ -3,7 +3,7 @@ import ISOCurrencies from './isocurrencies';
 
 export function deleteCurrencies(codes: CurrencyCode[]): void {
     codes.forEach((code) => {
-        const index = currencyNames.indexOf(code as any);
+        const index = currencyNames.indexOf(code);
         if (index > -1) {
             (currencyNames as unknown as string[]).splice(index, 1);
         }
