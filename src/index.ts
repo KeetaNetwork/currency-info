@@ -14,7 +14,7 @@ export function isCurrencyCode(code: any): code is CurrencyCode {
 	return currencyNames.includes(code);
 }
 
-export function isCurrencyNumber(number: any): number is ISOCurrencyNumber {
+export function isISOCurrencyNumber(number: any): number is ISOCurrencyNumber {
 	return ISOCurrencies.some((currency) => currency.isoNumber === String(number));
 }
 
