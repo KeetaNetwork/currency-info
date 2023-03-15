@@ -45,7 +45,7 @@ export function currencyNumberToCurrencyCode(isoNumber: ISOCurrencyNumber): Curr
 
 export function currencyCodeToCurrencyNumber(code: CurrencyCode): ISOCurrencyNumber {
 	const currency = getByISOCode(code);
-	if (!currency) {
+	if (!currency || !isCurrencyNumber(currency.isoNumber)) {
 		throw(new Error(`Invalid currency code: ${code}`));
 	}
 
