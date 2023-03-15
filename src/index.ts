@@ -26,12 +26,12 @@ export function assertCurrencyCode(code: any): CurrencyCode {
 	return(code);
 }
 
-export function assertCurrencyNumber(number: any): ISOCurrencyNumber {
-	if (!isCurrencyNumber(number)) {
+export function assertISOCurrencyNumber(isoNumber: any): ISOCurrencyNumber {
+	if (!isCurrencyNumber(isoNumber)) {
 		throw(new Error(`Invalid ISO number: ${number}`));
 	}
 
-	return(number);
+	return(isoNumber);
 }
 
 export function currencyNumberToCurrencyCode(isoNumber: ISOCurrencyNumber): CurrencyCode {
@@ -43,7 +43,7 @@ export function currencyNumberToCurrencyCode(isoNumber: ISOCurrencyNumber): Curr
 	return currency.code;
 }
 
-export function currencyCodeToCurrencyNumber(code: CurrencyCode): ISOCurrencyNumber {
+export function currencyCodeToISONumber(code: CurrencyCode): ISOCurrencyNumber {
 	const currency = getByISOCode(code);
 	if (!currency || !isCurrencyNumber(currency.isoNumber)) {
 		throw(new Error(`Invalid currency code: ${code}`));
