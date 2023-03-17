@@ -36,11 +36,11 @@ function writeTypes() {
     content.push(currencyType);
 
     // export const currencyNames = ['USD', 'EUR', ... 'GBP'] as const;
-    const joinedForArray = names.join(',');
+    const joinedForArray = names.join(', ');
     const currencyArray = `export const currencyNames = [${joinedForArray}] as const;`;
     content.push(currencyArray);
 
-    const contentStr = content.join('\n');
+    const contentStr = `${content.join('\n')}\n`;
 
     // Read the current generated type file, if it exists
     let currentContent = undefined;
