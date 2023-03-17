@@ -10,12 +10,12 @@
 	},
 	"author": "@ezraripps",
 	"license": "ISC",
-	"dependencies": {},
 	"devDependencies": {
 		"@keetapay/eslint-config-typescript": "1.0.2",
 		"@types/node": "18.11.9",
 		"@types/webpack-env": "1.18.0",
 		"eslint": "8.33.0",
+		"eslint-plugin-import": "2.27.5",
 		"file-loader": "6.2.0",
 		"svg-url-loader": "8.0.0",
 		"ts-loader": "9.4.1",
