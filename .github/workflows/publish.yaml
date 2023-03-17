@@ -1,10 +1,9 @@
-
 name: Package Publish
 
 on:
   push:
     branches:
-     - main
+      - main
 
 jobs:
   publish:
@@ -15,13 +14,16 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 14
-          registry-url: 'https://npm.pkg.github.com'
+          registry-url: "https://npm.pkg.github.com"
 
       - name: Install Packages
         run: npm ci
 
       - name: Build Files
         run: npm run compile
+
+      - name: Lint
+        run: npm run eslint
 
       - name: Check version changes
         uses: EndBug/version-check@v1
