@@ -4,7 +4,7 @@
 	"description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
 	"main": "dist/index.js",
 	"scripts": {
-		"eslint": "eslint",
+		"eslint": "eslint --ignore-path .gitignore --ext .ts src/",
 		"compile": "webpack --progress",
 		"compile:watch": "npm run compile -- -w --no-stats"
 	},
