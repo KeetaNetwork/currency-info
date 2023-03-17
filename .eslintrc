@@ -4,5 +4,6 @@
 	"parserOptions": {
 		"project": ["tsconfig.json"]
 	},
-	"extends": "@keetapay/eslint-config-typescript"
+	"extends": "@keetapay/eslint-config-typescript",
+	"ignorePatterns": ["**/generator/*.js"]
 }
