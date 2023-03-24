@@ -1,0 +1,9 @@
+{
+	"root": true,
+	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		"project": ["tsconfig.json"]
+	},
+	"extends": "@keetapay/eslint-config-typescript",
+	"ignorePatterns": ["**/generator/*.js"]
+}

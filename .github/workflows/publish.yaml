@@ -1,21 +1,29 @@
-
 name: Package Publish
 
 on:
   push:
     branches:
-     - main
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
     steps:
       - uses: actions/checkout@v1
 
       - uses: actions/setup-node@v1
         with:
           node-version: 14
-          registry-url: 'https://npm.pkg.github.com'
+          registry-url: "https://npm.pkg.github.com"
+
+      - name: Configure NPM
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc
 
       - name: Install Packages
         run: npm ci
@@ -23,7 +31,11 @@ jobs:
       - name: Build Files
         run: npm run compile
 
-      - name: Check version changes
+      - name: Lint
+        run: npm run eslint
+
+      - name: Check Version Changes
+        if: github.ref == 'refs/heads/main'
         uses: EndBug/version-check@v1
         id: check
         with:
@@ -31,7 +43,9 @@ jobs:
           diff-search: true
 
       - name: Publish Package
-        if: steps.check.outputs.changed == 'true'
+        if: |
+          steps.check.outputs.changed == 'true' &&
+          github.ref == 'refs/heads/main'
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
