@@ -128,7 +128,7 @@ class Country implements CountryInformation {
 			numericCode: this.numericCode,
 			dialCode: this.dialCode,
 			region: this.region,
-			flag: this.flag,
+			flag: this.flag
 		});
 	}
 
