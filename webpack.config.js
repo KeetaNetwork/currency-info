@@ -11,7 +11,6 @@ module.exports = {
                 use: {
                     loader: "svg-url-loader",
                     options: {
-                        iesafe: true,
                         encoding: "base64",
                     },
                 }

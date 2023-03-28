@@ -43,21 +43,25 @@ class Country implements CountryInformation {
 	#currencyCode: ISOCurrencyCode;
 
 	static #cacheSetup = false;
-	static #whitelist?: ISOCountryCode[];
+	static #allowedCountries?: ISOCountryCode[];
 	static #countryToCurrencyCache: UnionKeyObject<ISOCountryCode, ISOCurrencyCode> = {};
 	static #codeToIndex: UnionKeyObject<ISOCountryCode, number> = {};
 	static #longToShortCountryCode: UnionKeyObject<LongCountryCode, ISOCountryCode> = {};
 	static #currencyToCountriesCache: UnionKeyObject<ISOCurrencyCode, ISOCountryCode[]> = {};
 
 	static get allowedCountries(): ISOCountryCode[] {
-		if (this.#whitelist) {
-			return this.#whitelist;
+		if (this.#allowedCountries) {
+			return this.#allowedCountries;
 		}
 
 		Country.#updateCache();
 
 		// eslint-disable-next-line no-type-assertion/no-type-assertion
 		return Object.keys(this.#countryToCurrencyCache) as ISOCountryCode[];
+	}
+
+	static allowCountries(toWhitelist: ISOCountryCode[]) {
+		Country.#allowedCountries = toWhitelist;
 	}
 
 	constructor(countryCode: ISOCountryCode);
@@ -313,8 +317,14 @@ for (const filePath of allSvgFilePaths) {
 		continue;
 	}
 
+	const content = allSvgs(filePath);
+
+	if (typeof content !== 'string') {
+		throw new Error(`Invalid content for file: ${filePath}, content is not a string: ${content}`);
+	}
+
 	// Get content of specific file name from key
-	imageCache[countryCode] = allSvgs(filePath);
+	imageCache[countryCode] = content;
 }
 
 export { Currency, Country };

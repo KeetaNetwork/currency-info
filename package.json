@@ -1,6 +1,6 @@
 {
 	"name": "@keetapay/currency-info",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
 	"main": "dist/index.js",
 	"scripts": {
