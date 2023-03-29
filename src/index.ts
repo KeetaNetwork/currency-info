@@ -64,9 +64,15 @@ class Country implements CountryInformation {
 		Country.#allowedCountries = toWhitelist;
 	}
 
-	constructor(countryCode: ISOCountryCode);
-	constructor(longCountryCode: LongCountryCode);
-	constructor(longOrShortCode: ISOCountryCode | LongCountryCode) {
+	static assertWhitelisted(code: ISOCountryCode) {
+		if (!this.allowedCountries.includes(code)) {
+			throw new Error(`Country ${code} is not whitelisted`);
+		}
+	}
+
+	constructor(countryCode: ISOCountryCode, skipWhitelist?: boolean);
+	constructor(longCountryCode: LongCountryCode, skipWhitelist?: boolean);
+	constructor(longOrShortCode: ISOCountryCode | LongCountryCode, skipWhitelist?: boolean) {
 		let code;
 
 		if (Country.isCountryCode(longOrShortCode)) {
@@ -75,6 +81,10 @@ class Country implements CountryInformation {
 			code = Country.#longToShortCountryCode[longOrShortCode];
 		} else {
 			throw(new Error(`Invalid country code: ${longOrShortCode}`));
+		}
+
+		if (skipWhitelist !== true) {
+			Country.assertWhitelisted(code);
 		}
 
 		this.code = Country.assertCountryCode(code);
@@ -260,9 +270,9 @@ class Currency implements CurrencyInformation {
 		return Country.findByCurrencyCode(this.code);
 	}
 
-	constructor(currencyISONumber: ISOCurrencyNumber);
-	constructor(currencyCode: ISOCurrencyCode);
-	constructor(codeOrNumber: ISOCurrencyCode | ISOCurrencyNumber) {
+	constructor(currencyISONumber: ISOCurrencyNumber, skipWhitelist?: boolean);
+	constructor(currencyCode: ISOCurrencyCode, skipWhitelist?: boolean);
+	constructor(codeOrNumber: ISOCurrencyCode | ISOCurrencyNumber, skipWhitelist?: boolean) {
 		let code;
 		let isoNumber;
 
@@ -285,7 +295,7 @@ class Currency implements CurrencyInformation {
 			throw new Error(`Invalid currency code: ${code}`);
 		}
 
-		if (!Currency.allowedCurrencies.includes(code)) {
+		if (skipWhitelist !== true && !Currency.allowedCurrencies.includes(code)) {
 			throw new Error(`Currency code not allowed: ${code}`);
 		}
 
