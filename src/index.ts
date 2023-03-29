@@ -54,14 +54,14 @@ class Country implements CountryInformation {
 			return this.#allowedCountries;
 		}
 
-		Country.#updateCache();
+		this.#updateCache();
 
 		// eslint-disable-next-line no-type-assertion/no-type-assertion
 		return Object.keys(this.#countryToCurrencyCache) as ISOCountryCode[];
 	}
 
 	static allowCountries(toWhitelist: ISOCountryCode[]) {
-		Country.#allowedCountries = toWhitelist;
+		this.#allowedCountries = toWhitelist;
 	}
 
 	static assertWhitelisted(code: ISOCountryCode) {
@@ -107,26 +107,26 @@ class Country implements CountryInformation {
 	}
 
 	static #updateCache() {
-		if (Country.#cacheSetup) {
+		if (this.#cacheSetup) {
 			return;
 		}
 
 		for (let i = 0; i < countries.length; i++) {
 			const country = countries[i];
 			const { alpha2, alpha3, currency } = country;
-			Country.#countryToCurrencyCache[alpha2] = currency;
-			Country.#codeToIndex[alpha2] = i;
-			Country.#longToShortCountryCode[alpha3] = alpha2;
+			this.#countryToCurrencyCache[alpha2] = currency;
+			this.#codeToIndex[alpha2] = i;
+			this.#longToShortCountryCode[alpha3] = alpha2;
 
-			if (!Country.#currencyToCountriesCache[currency]) {
-				Country.#currencyToCountriesCache[currency] = [];
+			if (!this.#currencyToCountriesCache[currency]) {
+				this.#currencyToCountriesCache[currency] = [];
 			}
 
 			// @ts-ignore
-			Country.#currencyToCountriesCache[currency].push(alpha2);
+			this.#currencyToCountriesCache[currency].push(alpha2);
 		}
 
-		Country.#cacheSetup = true;
+		this.#cacheSetup = true;
 	}
 
 	get currency() {
@@ -147,12 +147,12 @@ class Country implements CountryInformation {
 	}
 
 	static isCountryCode(code: any): code is ISOCountryCode {
-		Country.#updateCache();
-		return(Object.keys(Country.#codeToIndex).includes(code));
+		this.#updateCache();
+		return(Object.keys(this.#codeToIndex).includes(code));
 	}
 
 	static assertCountryCode(code: any): ISOCountryCode {
-		if (!Country.isCountryCode(code)) {
+		if (!this.isCountryCode(code)) {
 			throw(new Error(`Invalid country code: ${code}`));
 		}
 
@@ -160,12 +160,12 @@ class Country implements CountryInformation {
 	}
 
 	static isLongCountryCode(code: any): code is ISOCountryCode {
-		Country.#updateCache();
-		return(Object.keys(Country.#longToShortCountryCode).includes(code));
+		this.#updateCache();
+		return(Object.keys(this.#longToShortCountryCode).includes(code));
 	}
 
 	static assertLongCOuntryCode(code: any): ISOCountryCode {
-		if (!Country.isLongCountryCode(code)) {
+		if (!this.isLongCountryCode(code)) {
 			throw(new Error(`Invalid long country code code: ${code}`));
 		}
 
@@ -173,12 +173,12 @@ class Country implements CountryInformation {
 	}
 
 	static findByCurrencyCode(currencyCode: ISOCurrencyCode): Country[] {
-		const countryCodes = Country.#currencyToCountriesCache[currencyCode];
+		const countryCodes = this.#currencyToCountriesCache[currencyCode];
 		if (!countryCodes) {
 			throw new Error(`No countries found for currency code: ${currencyCode}`);
 		}
 
-		return(countryCodes.map((code) => new Country(code)));
+		return(countryCodes.map((code) => new this(code)));
 	}
 }
 
@@ -197,45 +197,50 @@ class Currency implements CurrencyInformation {
 	static #byIsoNumberCodeCache: { [key: string]: ISOCurrencyCode } = {};
 
 	static #updateCache() {
-		if (Currency.#cacheSetup) {
+		if (this.#cacheSetup) {
 			return;
 		}
 
 		for (let i = 0; i < currencies.length; i++) {
 			const currency = currencies[i];
-			Currency.#byCodeCache[currency.code] = i;
-			Currency.#byIsoNumberCodeCache[currency.isoNumber] = currency.code;
+			this.#byCodeCache[currency.code] = i;
+			this.#byIsoNumberCodeCache[currency.isoNumber] = currency.code;
 		}
 
-		Currency.#cacheSetup = true;
+		this.#cacheSetup = true;
+	}
+
+	static get #allCurrencies(): ISOCurrencyCode[] {
+		// @ts-ignore
+		return Object.keys(this.#byCodeCache);
 	}
 
 	static get allowedCurrencies(): ISOCurrencyCode[] {
-		Currency.#updateCache();
+		this.#updateCache();
 
-		if (Currency.#allowedCurrencies) {
-			return Currency.#allowedCurrencies;
+		if (this.#allowedCurrencies) {
+			return this.#allowedCurrencies;
 		}
 
-		// @ts-ignore
-		return Object.keys(Currency.#byCodeCache);
+		return this.#allCurrencies;
 	}
 
-	static #getIndexFromCode(code: ISOCurrencyCode) {
-		Currency.#updateCache();
-		return currencies[Currency.#byCodeCache[code]];
+	static #getDataFromCode(code: ISOCurrencyCode) {
+		this.#updateCache();
+		return currencies[this.#byCodeCache[code]];
 	}
 
-	static updateAllowedCurrencies(codes?: ISOCurrencyCode[]): void {
-		Currency.#allowedCurrencies = codes;
+	static allowCurrencies(codes?: ISOCurrencyCode[]): void {
+		this.#allowedCurrencies = codes;
 	}
 
 	static isCurrencyCode(code: any): code is ISOCurrencyCode {
-		return Currency.allowedCurrencies.includes(code);
+		this.#updateCache();
+		return Object.keys(this.#byCodeCache).includes(code);
 	}
 
 	static assertCurrencyCode(currencyCode: any): ISOCurrencyCode {
-		if (!Currency.isCurrencyCode(currencyCode)) {
+		if (!this.isCurrencyCode(currencyCode)) {
 			throw(new Error(`Invalid ISO number: ${currencyCode}`));
 		}
 
@@ -243,18 +248,18 @@ class Currency implements CurrencyInformation {
 	}
 
 	static isISOCurrencyNumber(number: any): number is ISOCurrencyNumber {
-		Currency.#updateCache();
-		const currencyCode = Currency.#byIsoNumberCodeCache[number];
+		this.#updateCache();
+		const currencyCode = this.#byIsoNumberCodeCache[number];
 
 		if (!currencyCode) {
 			return false;
 		}
 
-		return Currency.allowedCurrencies.includes(currencyCode);
+		return this.#allCurrencies.includes(currencyCode);
 	}
 
 	static assertISOCurrencyNumber(isoNumber: any): ISOCurrencyNumber {
-		if (!Currency.isISOCurrencyNumber(isoNumber)) {
+		if (!this.isISOCurrencyNumber(isoNumber)) {
 			throw(new Error(`Invalid ISO number: ${isoNumber}`));
 		}
 
@@ -278,7 +283,7 @@ class Currency implements CurrencyInformation {
 
 		if (Currency.isCurrencyCode(codeOrNumber)) {
 			code = codeOrNumber;
-			isoNumber = Currency.#getIndexFromCode(code).isoNumber;
+			isoNumber = Currency.#getDataFromCode(code).isoNumber;
 		} else if (Currency.isISOCurrencyNumber(codeOrNumber)) {
 			isoNumber = codeOrNumber;
 			code = Currency.#byIsoNumberCodeCache[isoNumber];
@@ -286,17 +291,17 @@ class Currency implements CurrencyInformation {
 			throw new Error(`Invalid currency code or iso number: ${codeOrNumber}`);
 		}
 
+		if (skipWhitelist !== true && !Currency.allowedCurrencies.includes(code)) {
+			throw new Error(`Currency code not allowed: ${code}`);
+		}
+
 		this.code = Currency.assertCurrencyCode(code);
 		this.isoNumber = Currency.assertISOCurrencyNumber(isoNumber);
 
-		const currency = Currency.#getIndexFromCode(code);
+		const currency = Currency.#getDataFromCode(code);
 
 		if (!currency) {
 			throw new Error(`Invalid currency code: ${code}`);
-		}
-
-		if (skipWhitelist !== true && !Currency.allowedCurrencies.includes(code)) {
-			throw new Error(`Currency code not allowed: ${code}`);
 		}
 
 		this.name = currency.name;
