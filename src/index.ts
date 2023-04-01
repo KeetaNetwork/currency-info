@@ -43,6 +43,7 @@ class Country implements CountryInformation {
 	#currencyCode: ISOCurrencyCode;
 
 	static #cacheSetup = false;
+	static #allCountryCodes: ISOCountryCode[] = [];
 	static #allowedCountries?: ISOCountryCode[];
 	static #countryToCurrencyCache: UnionKeyObject<ISOCountryCode, ISOCurrencyCode> = {};
 	static #codeToIndex: UnionKeyObject<ISOCountryCode, number> = {};
@@ -56,8 +57,7 @@ class Country implements CountryInformation {
 
 		this.#updateCache();
 
-		// eslint-disable-next-line no-type-assertion/no-type-assertion
-		return Object.keys(this.#countryToCurrencyCache) as ISOCountryCode[];
+		return this.#allCountryCodes;
 	}
 
 	static allowCountries(toWhitelist: ISOCountryCode[]) {
@@ -148,7 +148,7 @@ class Country implements CountryInformation {
 
 	static isCountryCode(code: any): code is ISOCountryCode {
 		this.#updateCache();
-		return(Object.keys(this.#codeToIndex).includes(code));
+		return(this.#allCountryCodes.includes(code));
 	}
 
 	static assertCountryCode(code: any): ISOCountryCode {
@@ -193,6 +193,7 @@ class Currency implements CurrencyInformation {
 	static #cacheSetup = false;
 	static #allowedCurrencies?: ISOCurrencyCode[];
 
+	static #allCurrencies: ISOCurrencyCode[] = [];
 	static #byCodeCache: { [key: string]: number } = {};
 	static #byIsoNumberCodeCache: { [key: string]: ISOCurrencyCode } = {};
 
@@ -201,18 +202,14 @@ class Currency implements CurrencyInformation {
 			return;
 		}
 
-		for (let i = 0; i < currencies.length; i++) {
-			const currency = currencies[i];
-			this.#byCodeCache[currency.code] = i;
-			this.#byIsoNumberCodeCache[currency.isoNumber] = currency.code;
-		}
-
 		this.#cacheSetup = true;
-	}
 
-	static get #allCurrencies(): ISOCurrencyCode[] {
-		// @ts-ignore
-		return Object.keys(this.#byCodeCache);
+		for (let i = 0; i < currencies.length; i++) {
+			const { code, isoNumber } = currencies[i];
+			this.#byCodeCache[code] = i;
+			this.#byIsoNumberCodeCache[isoNumber] = code;
+			this.#allCurrencies.push(code);
+		}
 	}
 
 	static get allowedCurrencies(): ISOCurrencyCode[] {
@@ -236,7 +233,7 @@ class Currency implements CurrencyInformation {
 
 	static isCurrencyCode(code: any): code is ISOCurrencyCode {
 		this.#updateCache();
-		return Object.keys(this.#byCodeCache).includes(code);
+		return this.#allCurrencies.includes(code);
 	}
 
 	static assertCurrencyCode(currencyCode: any): ISOCurrencyCode {
