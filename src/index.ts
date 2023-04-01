@@ -202,8 +202,6 @@ class Currency implements CurrencyInformation {
 			return;
 		}
 
-		console.log('update cache');
-
 		this.#cacheSetup = true;
 
 		for (let i = 0; i < currencies.length; i++) {
@@ -215,7 +213,6 @@ class Currency implements CurrencyInformation {
 	}
 
 	static get allowedCurrencies(): ISOCurrencyCode[] {
-		console.log('allowedCurrencies');
 		this.#updateCache();
 
 		if (this.#allowedCurrencies) {
@@ -226,7 +223,6 @@ class Currency implements CurrencyInformation {
 	}
 
 	static #getDataFromCode(code: ISOCurrencyCode) {
-		console.log('getDataFromCode');
 		this.#updateCache();
 		return currencies[this.#byCodeCache[code]];
 	}
@@ -236,13 +232,11 @@ class Currency implements CurrencyInformation {
 	}
 
 	static isCurrencyCode(code: any): code is ISOCurrencyCode {
-		console.log('isCurrencyCode');
 		this.#updateCache();
 		return this.#allCurrencies.includes(code);
 	}
 
 	static assertCurrencyCode(currencyCode: any): ISOCurrencyCode {
-		console.log('assertCurrencyCode');
 		if (!this.isCurrencyCode(currencyCode)) {
 			throw(new Error(`Invalid ISO number: ${currencyCode}`));
 		}
@@ -251,7 +245,6 @@ class Currency implements CurrencyInformation {
 	}
 
 	static isISOCurrencyNumber(number: any): number is ISOCurrencyNumber {
-		console.log('isISOCurrencyNumber');
 		this.#updateCache();
 		const currencyCode = this.#byIsoNumberCodeCache[number];
 
@@ -263,7 +256,6 @@ class Currency implements CurrencyInformation {
 	}
 
 	static assertISOCurrencyNumber(isoNumber: any): ISOCurrencyNumber {
-		console.log('assertISOCurrencyNumber');
 		if (!this.isISOCurrencyNumber(isoNumber)) {
 			throw(new Error(`Invalid ISO number: ${isoNumber}`));
 		}
@@ -277,14 +269,12 @@ class Currency implements CurrencyInformation {
 	readonly isoNumber: ISOCurrencyNumber;
 
 	get country() {
-		console.log('get country');
 		return Country.findByCurrencyCode(this.code);
 	}
 
 	constructor(currencyISONumber: ISOCurrencyNumber, skipWhitelist?: boolean);
 	constructor(currencyCode: ISOCurrencyCode, skipWhitelist?: boolean);
 	constructor(codeOrNumber: ISOCurrencyCode | ISOCurrencyNumber, skipWhitelist?: boolean) {
-		console.log('constructor');
 		let code;
 		let isoNumber;
 
@@ -317,7 +307,6 @@ class Currency implements CurrencyInformation {
 	}
 
 	toJSON(): CurrencyInformation {
-		console.log('toJSON');
 		return({
 			code: this.code,
 			isoNumber: this.isoNumber,
