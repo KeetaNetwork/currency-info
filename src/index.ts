@@ -118,7 +118,9 @@ class Country implements CountryInformation {
 
 		for (let i = 0; i < countries.length; i++) {
 			const country = countries[i];
+
 			const { alpha2, alpha3, currency } = country;
+			this.#allCountryCodes.push(alpha2);
 			this.#countryToCurrencyCache[alpha2] = currency;
 			this.#codeToIndex[alpha2] = i;
 			this.#longToShortCountryCode[alpha3] = alpha2;
