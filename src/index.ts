@@ -60,6 +60,11 @@ class Country implements CountryInformation {
 		return this.#allCountryCodes;
 	}
 
+	static get allCountryCodes(): ISOCountryCode[] {
+		this.#updateCache();
+		return this.#allCountryCodes;
+	}
+
 	static allowCountries(toWhitelist: ISOCountryCode[]) {
 		this.#allowedCountries = toWhitelist;
 	}
@@ -193,7 +198,7 @@ class Currency implements CurrencyInformation {
 	static #cacheSetup = false;
 	static #allowedCurrencies?: ISOCurrencyCode[];
 
-	static #allCurrencies: ISOCurrencyCode[] = [];
+	static #allCurrencyCodes: ISOCurrencyCode[] = [];
 	static #byCodeCache: { [key: string]: number } = {};
 	static #byIsoNumberCodeCache: { [key: string]: ISOCurrencyCode } = {};
 
@@ -208,7 +213,7 @@ class Currency implements CurrencyInformation {
 			const { code, isoNumber } = currencies[i];
 			this.#byCodeCache[code] = i;
 			this.#byIsoNumberCodeCache[isoNumber] = code;
-			this.#allCurrencies.push(code);
+			this.#allCurrencyCodes.push(code);
 		}
 	}
 
@@ -219,7 +224,12 @@ class Currency implements CurrencyInformation {
 			return this.#allowedCurrencies;
 		}
 
-		return this.#allCurrencies;
+		return this.#allCurrencyCodes;
+	}
+
+	static get allCurrencyCodes(): ISOCurrencyCode[] {
+		this.#updateCache();
+		return this.#allCurrencyCodes;
 	}
 
 	static #getDataFromCode(code: ISOCurrencyCode) {
@@ -233,7 +243,7 @@ class Currency implements CurrencyInformation {
 
 	static isCurrencyCode(code: any): code is ISOCurrencyCode {
 		this.#updateCache();
-		return this.#allCurrencies.includes(code);
+		return this.#allCurrencyCodes.includes(code);
 	}
 
 	static assertCurrencyCode(currencyCode: any): ISOCurrencyCode {
@@ -252,7 +262,7 @@ class Currency implements CurrencyInformation {
 			return false;
 		}
 
-		return this.#allCurrencies.includes(currencyCode);
+		return this.#allCurrencyCodes.includes(currencyCode);
 	}
 
 	static assertISOCurrencyNumber(isoNumber: any): ISOCurrencyNumber {
