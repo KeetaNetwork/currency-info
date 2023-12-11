@@ -8,12 +8,7 @@ module.exports = {
         rules: [
             {
                 test: /\.svg/,
-                use: {
-                    loader: "svg-url-loader",
-                    options: {
-                        encoding: "base64",
-                    },
-                }
+                type: "asset/inline"
             },
             {
                 test: /\.ts$/,
