@@ -1,9 +1,25 @@
 import currencies from './data/currencies';
 import countries from './data/countries';
 
+/**
+ * ISO 4217 currency numbers
+ */
 export type ISOCurrencyNumber = typeof currencies[number]['isoNumber'];
+/**
+ * ISO 4217 currency codes
+ */
 export type ISOCurrencyCode = typeof currencies[any]['code'];
+/**
+ * ISO 3166-1 alpha-2 codes
+ */
 export type ISOCountryCode = typeof countries[any]['alpha2'];
+/**
+ * ISO 3166-1 numeric codes
+ */
+export type ISOCountryNumber = typeof countries[any]['numericCode'];
+/**
+ * ISO 3166-1 alpha-3 codes
+ */
 export type LongCountryCode = typeof countries[any]['alpha3'];
 
 type UnionKeyObject<U extends string, V> = { [K in U]?: V };
@@ -36,7 +52,7 @@ class Country implements CountryInformation {
 
 	name: string;
 	longCode: LongCountryCode;
-	numericCode: string;
+	numericCode: ISOCountryNumber;
 	dialCode: string;
 	region?: CountryRegionInformation;
 	flag?: string;
@@ -48,6 +64,7 @@ class Country implements CountryInformation {
 	static #countryToCurrencyCache: UnionKeyObject<ISOCountryCode, ISOCurrencyCode> = {};
 	static #codeToIndex: UnionKeyObject<ISOCountryCode, number> = {};
 	static #longToShortCountryCode: UnionKeyObject<LongCountryCode, ISOCountryCode> = {};
+	static #countryNumberToCountryCode: UnionKeyObject<ISOCountryNumber, ISOCountryCode> = {};
 	static #currencyToCountriesCache: UnionKeyObject<ISOCurrencyCode, ISOCountryCode[]> = {};
 
 	static get allowedCountries(): ISOCountryCode[] {
@@ -75,17 +92,26 @@ class Country implements CountryInformation {
 		}
 	}
 
+	/**
+	 * @param countryCode A valid ISO 3166-1 alpha-2/alpha-3/numeric code
+	 * @param skipWhitelist Whether to skip the whitelist check
+	 */
+	constructor(countryCode: ISOCountryNumber, skipWhitelist?: boolean);
 	constructor(countryCode: ISOCountryCode, skipWhitelist?: boolean);
 	constructor(longCountryCode: LongCountryCode, skipWhitelist?: boolean);
-	constructor(longOrShortCode: ISOCountryCode | LongCountryCode, skipWhitelist?: boolean) {
+	constructor(input: ISOCountryNumber | ISOCountryCode | LongCountryCode, skipWhitelist?: boolean) {
 		let code;
 
-		if (Country.isCountryCode(longOrShortCode)) {
-			code = longOrShortCode;
-		} else if (Country.isLongCountryCode(longOrShortCode)) {
-			code = Country.#longToShortCountryCode[longOrShortCode];
-		} else {
-			throw(new Error(`Invalid country code: ${longOrShortCode}`));
+		if (Country.isCountryCode(input)) {
+			code = input;
+		} else if (Country.isLongCountryCode(input)) {
+			code = Country.#longToShortCountryCode[input];
+		} else if (Country.isISOCountryNumber(input)) {
+			code = Country.#countryNumberToCountryCode[input];
+		}
+
+		if (!code) {
+			throw(new Error(`Invalid country code: ${input}`));
 		}
 
 		if (skipWhitelist !== true) {
@@ -124,6 +150,7 @@ class Country implements CountryInformation {
 			this.#countryToCurrencyCache[alpha2] = currency;
 			this.#codeToIndex[alpha2] = i;
 			this.#longToShortCountryCode[alpha3] = alpha2;
+			this.#countryNumberToCountryCode[country.numericCode] = alpha2;
 
 			if (!this.#currencyToCountriesCache[currency]) {
 				this.#currencyToCountriesCache[currency] = [];
@@ -171,7 +198,32 @@ class Country implements CountryInformation {
 		return(Object.keys(this.#longToShortCountryCode).includes(code));
 	}
 
-	static assertLongCOuntryCode(code: any): ISOCountryCode {
+	/**
+	 * @summary Check if a number is a valid ISO 3166-1 numeric code
+	 *
+	 * @param number A possible ISO 3166-1 numeric code
+	 * @returns Whether the number is a valid ISO 3166-1 numeric code
+	 */
+	static isISOCountryNumber(number: any): number is ISOCountryNumber {
+		this.#updateCache();
+		return(Object.keys(this.#countryNumberToCountryCode).includes(number));
+	}
+
+	/**
+	 * @summary Assert that a number is a valid ISO 3166-1 numeric code
+	 *
+	 * @param number A possible ISO 3166-1 numeric code
+	 * @returns The number as a ISO 3166-1 numeric code
+	 */
+	static assertISOCountryNumber(number: any): ISOCountryNumber {
+		if (!this.isISOCountryNumber(number)) {
+			throw(new Error(`Invalid ISO number: ${number}`));
+		}
+
+		return(number);
+	}
+
+	static assertLongCountryCode(code: any): ISOCountryCode {
 		if (!this.isLongCountryCode(code)) {
 			throw(new Error(`Invalid long country code code: ${code}`));
 		}
