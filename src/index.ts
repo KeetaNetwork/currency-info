@@ -223,7 +223,7 @@ class Country implements CountryInformation {
 		return(number);
 	}
 
-	static assertLongCOuntryCode(code: any): ISOCountryCode {
+	static assertLongCountryCode(code: any): ISOCountryCode {
 		if (!this.isLongCountryCode(code)) {
 			throw(new Error(`Invalid long country code code: ${code}`));
 		}
