@@ -1,6 +1,6 @@
 {
 	"name": "@keetanetwork/currency-info",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
 	"main": "dist/index.js",
 	"scripts": {
