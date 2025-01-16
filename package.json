@@ -1,5 +1,5 @@
 {
-	"name": "@keetapay/currency-info",
+	"name": "@keetanetwork/currency-info",
 	"version": "1.1.0",
 	"description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
 	"main": "dist/index.js",
@@ -11,7 +11,7 @@
 	"author": "@ezraripps",
 	"license": "ISC",
 	"devDependencies": {
-		"@keetapay/eslint-config-typescript": "1.0.2",
+		"@keetanetwork/eslint-config-typescript": "npm:@keetapay/eslint-config-typescript@1.0.2",
 		"@types/node": "18.11.9",
 		"@types/webpack-env": "1.18.0",
 		"eslint": "8.33.0",

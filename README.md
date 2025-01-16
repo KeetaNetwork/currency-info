@@ -18,10 +18,10 @@ The Commit message must have the version number in it, ex `Release 1.0.2`
 ### Api
 ```js
 // You can import individiually
-import { Images, CurrencyCode, currencyNames } from '@keetapay/currency-info';
+import { Images, CurrencyCode, currencyNames } from '@keetanetwork/currency-info';
 
 // Or you can import all exports together
-import * as CurrencySVG from '@keetapay/currency-info';
+import * as CurrencySVG from '@keetanetwork/currency-info';
 
 /**
  * Exported Types
