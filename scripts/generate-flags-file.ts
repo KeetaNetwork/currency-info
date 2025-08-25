@@ -8,31 +8,20 @@ const FLAGS_DIR = path.join(ROOT, "src", "data", "flags");
 const OUT_TS_FILE = path.join(FLAGS_DIR, "index.ts");
 const OUT_CSS_FILE = path.join(FLAGS_DIR, "flags.css");
 
-export async function svgFileToDataUrlBase64(filePath: string): Promise<string> {
-	const svg = await fs.readFileSync(filePath, "utf8");
-	const b64 = Buffer.from(svg, "utf8").toString("base64");
-	return `data:image/svg+xml;base64,${b64}`;
-}
-
 export async function svgFileToDataUrlURLEnc(filePath: string): Promise<string> {
 	let svg = await fs.readFileSync(filePath, "utf8");
-	// (optional) very light minify for smaller data URLs
 	svg = svg
 		.replace(/>\s+</g, "><")   // remove whitespace between tags
 		.replace(/\s{2,}/g, " ")   // collapse runs of spaces
 		.trim();
 
-	// URL-encode the SVG text. This is usually smaller than base64.
 	const encoded = encodeURIComponent(svg)
-		// Optional: slightly shorter output by decoding safe chars
 		.replace(/%20/g, " ")
 		.replace(/%2F/g, "/")
 		.replace(/%3A/g, ":")
 		.replace(/%2C/g, ",")
 		.replace(/%3D/g, "=")
 		.replace(/%3B/g, ";");
-
-	// charset is good practice for non-ASCII
 	return `data:image/svg+xml,${encoded}`;
 }
 

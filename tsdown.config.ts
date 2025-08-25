@@ -22,7 +22,7 @@ export default defineConfig({
 	platform: "neutral",
 	clean: true,
 	format: ['esm', 'cjs'],
-	minify: false,
+	minify: true,
 	dts: true,
 	outDir: './dist',
 	copy: [
