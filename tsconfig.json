@@ -1,20 +1,16 @@
 {
-	"compilerOptions": {
-		"target": "ES2016",
-		"removeComments": true,
-		"rootDir": "./src",
-		"moduleResolution": "node",
-		"esModuleInterop": true,
-		"strict": true,
-		"sourceMap": false,
-		"skipLibCheck": true,
-		"declaration": true,
-		"outDir": "./dist"
-	},
-	"include": [
-		"./src/**.ts"
-	],
-	"ignore": [
-		"./src/generator/**"
-	]
+  "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "declaration": true,
+    "exactOptionalPropertyTypes": true,
+    "lib": ["ESNext", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "ES2020",
+	"types": ["./vite-env.d.ts"]
+  },
+  "include": ["src"]
 }

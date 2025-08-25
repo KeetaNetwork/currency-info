@@ -1,4 +1,4 @@
-const ISOCurrencies = [
+const currencies = [
 	{
 		code: 'AFN',
 		name: 'Afghani',
@@ -1003,4 +1003,13 @@ const ISOCurrencies = [
 	}
 ] as const;
 
-export default ISOCurrencies;
+export default currencies;
+
+/**
+ * ISO 4217 currency numbers
+ */
+export type ISOCurrencyNumber = typeof currencies[number]['isoNumber'];
+/**
+ * ISO 4217 currency codes
+ */
+export type ISOCurrencyCode = typeof currencies[any]['code'];
