@@ -51,7 +51,7 @@ export async function generateFlagsFile() {
 	 */
 	const out = `/* AUTO-GENERATED. DO NOT EDIT. */
 export const FLAG_SVGS = Object.freeze({
-${countryCodes.map(code => `\t${code.toUpperCase()}: import("./${code}.svg?raw")`).join(",\n")}
+${countryCodes.map(code => `\t${code.toUpperCase()}: () => import("./${code}.svg?raw")`).join(",\n")}
 } as const);
 `;
 	fs.writeFileSync(OUT_TS_FILE, out, "utf8");
