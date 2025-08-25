@@ -2,31 +2,30 @@
 	"name": "@keetanetwork/currency-info",
 	"version": "1.2.0",
 	"description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
-	"main": "dist/index.js",
-	"scripts": {
-		"eslint": "eslint --ignore-path .gitignore --ext .ts src/",
-		"compile": "webpack --progress",
-		"compile:watch": "npm run compile -- -w --no-stats"
-	},
-	"author": "@ezraripps",
+	"author": "Keeta, Inc",
+	"repository": "https://github.com/keetanetwork/currency-info.git",
 	"license": "ISC",
 	"sideEffects": false,
 	"type": "module",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"exports": {
+		".": {
+			"import": "./dist/index.js",
+			"require": "./dist/index.cjs"
+		},
+		"./flags.css": "./dist/flags.css"
+	},
+	"scripts": {
+		"tsdown": "tsdown",
+		"eslint": "eslint",
+		"compile": "webpack --progress",
+		"compile:watch": "npm run compile -- -w --no-stats"
+	},
 	"devDependencies": {
 		"@keetanetwork/eslint-config-typescript": "1.4.7",
-		"@types/node": "18.11.9",
-		"@types/webpack-env": "1.18.0",
-		"eslint": "8.33.0",
-		"eslint-plugin-import": "2.27.5",
-		"ts-loader": "9.4.1",
-		"ts-node": "10.9.1",
 		"tsdown": "0.12.9",
 		"typescript": "5.6.3",
-		"unplugin-raw": "0.6.1",
-		"vite": "6.3.5",
-		"vite-plugin-svgr": "4.5.0",
-		"webpack": "5.89.0",
-		"webpack-cli": "4.10.0"
-	},
-	"types": "./dist/index.d.ts"
+		"unplugin-raw": "0.6.1"
+	}
 }

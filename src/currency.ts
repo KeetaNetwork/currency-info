@@ -36,32 +36,33 @@ export class Currency implements CurrencyInformation {
 		this.#updateCache();
 
 		if (this.#allowedCurrencies) {
-			return this.#allowedCurrencies;
+			return(this.#allowedCurrencies);
 		}
 
-		return this.#allCurrencyCodes;
+		return(this.#allCurrencyCodes);
 	}
 
 	static get allCurrencyCodes(): ISOCurrencyCode[] {
 		this.#updateCache();
-		return this.#allCurrencyCodes;
+		return(this.#allCurrencyCodes);
 	}
 
 	static #getDataFromCode(code: ISOCurrencyCode) {
 		this.#updateCache();
-		return currencies[this.#byCodeCache[code]];
+		return(currencies[this.#byCodeCache[code]]);
 	}
 
 	static allowCurrencies(codes: ISOCurrencyCode[]): void {
 		this.#allowedCurrencies = codes;
 	}
 
-	static isCurrencyCode(code: any): code is ISOCurrencyCode {
+	static isCurrencyCode(code: string): code is ISOCurrencyCode {
 		this.#updateCache();
-		return this.#allCurrencyCodes.includes(code);
+		// eslint-disable-next-line @typescript-eslint/consistent-type-assertions
+		return(this.#allCurrencyCodes.includes(code as ISOCurrencyCode));
 	}
 
-	static assertCurrencyCode(currencyCode: any): ISOCurrencyCode {
+	static assertCurrencyCode(currencyCode: string): ISOCurrencyCode {
 		if (!this.isCurrencyCode(currencyCode)) {
 			throw(new Error(`Invalid ISO number: ${currencyCode}`));
 		}
@@ -69,18 +70,18 @@ export class Currency implements CurrencyInformation {
 		return(currencyCode);
 	}
 
-	static isISOCurrencyNumber(number: any): number is ISOCurrencyNumber {
+	static isISOCurrencyNumber(number: string): number is ISOCurrencyNumber {
 		this.#updateCache();
 		const currencyCode = this.#byIsoNumberCodeCache[number];
 
 		if (!currencyCode) {
-			return false;
+			return(false);
 		}
 
-		return this.#allCurrencyCodes.includes(currencyCode);
+		return(this.#allCurrencyCodes.includes(currencyCode));
 	}
 
-	static assertISOCurrencyNumber(isoNumber: any): ISOCurrencyNumber {
+	static assertISOCurrencyNumber(isoNumber: string): ISOCurrencyNumber {
 		if (!this.isISOCurrencyNumber(isoNumber)) {
 			throw(new Error(`Invalid ISO number: ${isoNumber}`));
 		}
@@ -94,11 +95,9 @@ export class Currency implements CurrencyInformation {
 	readonly isoNumber: ISOCurrencyNumber;
 
 	get country(): Country[] {
-		return Country.findByCurrencyCode(this.code);
+		return(Country.findByCurrencyCode(this.code));
 	}
 
-	constructor(currencyISONumber: ISOCurrencyNumber, skipWhitelist?: boolean);
-	constructor(currencyCode: ISOCurrencyCode, skipWhitelist?: boolean);
 	constructor(codeOrNumber: ISOCurrencyCode | ISOCurrencyNumber, skipWhitelist?: boolean) {
 		let code;
 		let isoNumber;
@@ -110,11 +109,11 @@ export class Currency implements CurrencyInformation {
 			isoNumber = codeOrNumber;
 			code = Currency.#byIsoNumberCodeCache[isoNumber];
 		} else {
-			throw new Error(`Invalid currency code or iso number: ${codeOrNumber}`);
+			throw(new Error(`Invalid currency code or iso number: ${codeOrNumber}`));
 		}
 
 		if (skipWhitelist !== true && !Currency.allowedCurrencies.includes(code)) {
-			throw new Error(`Currency code not allowed: ${code}`);
+			throw(new Error(`Currency code not allowed: ${code}`));
 		}
 
 		this.code = Currency.assertCurrencyCode(code);
@@ -123,7 +122,7 @@ export class Currency implements CurrencyInformation {
 		const currency = Currency.#getDataFromCode(code);
 
 		if (!currency) {
-			throw new Error(`Invalid currency code: ${code}`);
+			throw(new Error(`Invalid currency code: ${code}`));
 		}
 
 		this.name = currency.name;

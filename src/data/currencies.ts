@@ -1012,4 +1012,4 @@ export type ISOCurrencyNumber = typeof currencies[number]['isoNumber'];
 /**
  * ISO 4217 currency codes
  */
-export type ISOCurrencyCode = typeof currencies[any]['code'];
+export type ISOCurrencyCode = typeof currencies[number]['code'];

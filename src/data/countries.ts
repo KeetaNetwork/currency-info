@@ -4908,12 +4908,12 @@ export default countries;
 /**
  * ISO 3166-1 alpha-2 codes
  */
-export type ISOCountryCode = typeof countries[any]['alpha2'];
+export type ISOCountryCode = typeof countries[number]['alpha2'];
 /**
  * ISO 3166-1 numeric codes
  */
-export type ISOCountryNumber = typeof countries[any]['numericCode'];
+export type ISOCountryNumber = typeof countries[number]['numericCode'];
 /**
  * ISO 3166-1 alpha-3 codes
  */
-export type LongCountryCode = typeof countries[any]['alpha3'];
+export type LongCountryCode = typeof countries[number]['alpha3'];
