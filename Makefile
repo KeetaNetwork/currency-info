@@ -42,7 +42,7 @@ do-npm-pack: dist
 
 clean:
 	rm -rf dist
-	rm keetanetwork-currency-info-*.tgz
+	-rm keetanetwork-currency-info-*.tgz
 
 distclean: clean
 	rm -rf node_modules

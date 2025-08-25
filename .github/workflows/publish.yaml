@@ -26,13 +26,16 @@ jobs:
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc
 
       - name: Install Packages
-        run: npm ci
+        run: make node_modules
 
       - name: Build Files
-        run: npm run compile
+        run: make dist
 
       - name: Lint
-        run: npm run eslint
+        run: make do-lint
+
+      - name: Pack Files
+        run: make do-npm-pack
 
       - name: Check Version Changes
         if: github.ref == 'refs/heads/main'
