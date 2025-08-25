@@ -3,6 +3,7 @@ import type { ISOCurrencyCode } from "./data/currencies";
 import type { UnionKeyObject } from "./utils/types";
 import { Currency } from "./currency";
 import countries from "./data/countries";
+import { getFlagSvg } from "./flags";
 
 interface SingleCountryRegionInformation {
 	name: string;
@@ -132,6 +133,10 @@ export class Country implements CountryInformation {
 		}
 
 		this.#cacheSetup = true;
+	}
+
+	async getFlag(): Promise<string> {
+		return(await getFlagSvg(this.code));
 	}
 
 	get currency(): Currency {
