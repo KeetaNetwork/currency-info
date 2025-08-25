@@ -149,13 +149,13 @@ export class Country implements CountryInformation {
 		});
 	}
 
-	static isCountryCode(code: string): code is ISOCountryCode {
+	static isCountryCode(code: unknown): code is ISOCountryCode {
 		this.#updateCache();
 		// eslint-disable-next-line @typescript-eslint/consistent-type-assertions
 		return(this.#allCountryCodes.includes(code as ISOCountryCode));
 	}
 
-	static assertCountryCode(code: string): ISOCountryCode {
+	static assertCountryCode(code: unknown): ISOCountryCode {
 		if (!this.isCountryCode(code)) {
 			throw(new Error(`Invalid country code: ${code}`));
 		}
@@ -163,9 +163,10 @@ export class Country implements CountryInformation {
 		return(code);
 	}
 
-	static isLongCountryCode(code: string): code is ISOCountryCode {
+	static isLongCountryCode(code: unknown): code is ISOCountryCode {
 		this.#updateCache();
-		return(Object.keys(this.#longToShortCountryCode).includes(code));
+		// eslint-disable-next-line @typescript-eslint/consistent-type-assertions
+		return(Object.keys(this.#longToShortCountryCode).includes(code as string));
 	}
 
 	/**
@@ -174,9 +175,10 @@ export class Country implements CountryInformation {
 	 * @param number A possible ISO 3166-1 numeric code
 	 * @returns Whether the number is a valid ISO 3166-1 numeric code
 	 */
-	static isISOCountryNumber(number: string): number is ISOCountryNumber {
+	static isISOCountryNumber(number: unknown): number is ISOCountryNumber {
 		this.#updateCache();
-		return(Object.keys(this.#countryNumberToCountryCode).includes(number));
+		// eslint-disable-next-line @typescript-eslint/consistent-type-assertions
+		return(Object.keys(this.#countryNumberToCountryCode).includes(number as string));
 	}
 
 	/**
@@ -185,7 +187,7 @@ export class Country implements CountryInformation {
 	 * @param number A possible ISO 3166-1 numeric code
 	 * @returns The number as a ISO 3166-1 numeric code
 	 */
-	static assertISOCountryNumber(number: string): ISOCountryNumber {
+	static assertISOCountryNumber(number: unknown): ISOCountryNumber {
 		if (!this.isISOCountryNumber(number)) {
 			throw(new Error(`Invalid ISO number: ${number}`));
 		}
@@ -193,7 +195,7 @@ export class Country implements CountryInformation {
 		return(number);
 	}
 
-	static assertLongCountryCode(code: string): ISOCountryCode {
+	static assertLongCountryCode(code: unknown): ISOCountryCode {
 		if (!this.isLongCountryCode(code)) {
 			throw(new Error(`Invalid long country code code: ${code}`));
 		}

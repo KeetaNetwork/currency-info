@@ -1,6 +1,6 @@
 {
 	"name": "@keetanetwork/currency-info",
-	"version": "1.2.0",
+	"version": "1.2.3",
 	"description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
 	"author": "Keeta, Inc",
 	"repository": "https://github.com/keetanetwork/currency-info.git",
@@ -16,6 +16,9 @@
 		},
 		"./flags.css": "./dist/flags.css"
 	},
+	"files": [
+		"dist"
+	],
 	"scripts": {
 		"tsdown": "tsdown",
 		"eslint": "eslint",

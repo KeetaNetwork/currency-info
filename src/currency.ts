@@ -56,13 +56,13 @@ export class Currency implements CurrencyInformation {
 		this.#allowedCurrencies = codes;
 	}
 
-	static isCurrencyCode(code: string): code is ISOCurrencyCode {
+	static isCurrencyCode(code: unknown): code is ISOCurrencyCode {
 		this.#updateCache();
 		// eslint-disable-next-line @typescript-eslint/consistent-type-assertions
 		return(this.#allCurrencyCodes.includes(code as ISOCurrencyCode));
 	}
 
-	static assertCurrencyCode(currencyCode: string): ISOCurrencyCode {
+	static assertCurrencyCode(currencyCode: unknown): ISOCurrencyCode {
 		if (!this.isCurrencyCode(currencyCode)) {
 			throw(new Error(`Invalid ISO number: ${currencyCode}`));
 		}
@@ -70,9 +70,10 @@ export class Currency implements CurrencyInformation {
 		return(currencyCode);
 	}
 
-	static isISOCurrencyNumber(number: string): number is ISOCurrencyNumber {
+	static isISOCurrencyNumber(number: unknown): number is ISOCurrencyNumber {
 		this.#updateCache();
-		const currencyCode = this.#byIsoNumberCodeCache[number];
+
+		const currencyCode = this.#byIsoNumberCodeCache[String(number)];
 
 		if (!currencyCode) {
 			return(false);
@@ -81,7 +82,7 @@ export class Currency implements CurrencyInformation {
 		return(this.#allCurrencyCodes.includes(currencyCode));
 	}
 
-	static assertISOCurrencyNumber(isoNumber: string): ISOCurrencyNumber {
+	static assertISOCurrencyNumber(isoNumber: unknown): ISOCurrencyNumber {
 		if (!this.isISOCurrencyNumber(isoNumber)) {
 			throw(new Error(`Invalid ISO number: ${isoNumber}`));
 		}
