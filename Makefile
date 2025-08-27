@@ -21,7 +21,7 @@ test:
 do-lint: node_modules
 	npm run eslint -- --config eslint.config.mjs src
 
-node_modules/.done: Makefile package.json npm-shrinkwrap.json
+node_modules/.done: Makefile package.json package-lock.json
 	rm -rf node_modules
 	npm clean-install
 	@touch node_modules/.done
