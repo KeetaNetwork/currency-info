@@ -1,3 +1,6 @@
+/src/data/flags/index.ts
+/src/data/flags/flags.css
+
 ### macOS ###
 # General
 .DS_Store
