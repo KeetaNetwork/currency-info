@@ -168,7 +168,7 @@ export class Country implements CountryInformation {
 		return(code);
 	}
 
-	static isLongCountryCode(code: unknown): code is ISOCountryCode {
+	static isLongCountryCode(code: unknown): code is LongCountryCode {
 		this.#updateCache();
 		// eslint-disable-next-line @typescript-eslint/consistent-type-assertions
 		return(Object.keys(this.#longToShortCountryCode).includes(code as string));
@@ -200,7 +200,7 @@ export class Country implements CountryInformation {
 		return(number);
 	}
 
-	static assertLongCountryCode(code: unknown): ISOCountryCode {
+	static assertLongCountryCode(code: unknown): LongCountryCode {
 		if (!this.isLongCountryCode(code)) {
 			throw(new Error(`Invalid long country code code: ${code}`));
 		}
