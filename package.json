@@ -1,35 +1,44 @@
 {
-	"name": "@keetanetwork/currency-info",
-	"version": "1.2.6",
-	"description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
-	"author": "Keeta, Inc",
-	"repository": "https://github.com/keetanetwork/currency-info.git",
-	"license": "ISC",
-	"sideEffects": false,
-	"type": "module",
-	"main": "./dist/index.js",
-	"types": "./dist/index.d.ts",
-	"exports": {
-		".": {
-			"import": "./dist/index.js",
-			"require": "./dist/index.cjs"
-		},
-		"./flags.css": "./dist/flags.css"
-	},
-	"files": [
-		"dist"
-	],
-	"scripts": {
-		"tsdown": "tsdown",
-		"eslint": "eslint",
-		"compile": "webpack --progress",
-		"compile:watch": "npm run compile -- -w --no-stats"
-	},
-	"devDependencies": {
-		"@keetanetwork/eslint-config-typescript": "1.4.7",
-		"@types/node": "24.3.0",
-		"tsdown": "0.12.9",
-		"typescript": "5.6.3",
-		"unplugin-raw": "0.6.1"
-	}
+  "name": "@keetanetwork/currency-info",
+  "version": "1.2.6",
+  "description": "Provides Information about currencies, ISO Codes (numeric/text), Names, and SVG Flags",
+  "author": "Keeta, Inc",
+  "repository": "https://github.com/keetanetwork/currency-info.git",
+  "license": "ISC",
+  "sideEffects": false,
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./flags.css": "./dist/flags.css"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "tsdown": "tsdown",
+    "eslint": "eslint",
+    "compile": "webpack --progress",
+    "compile:watch": "npm run compile -- -w --no-stats",
+    "make:all": "make all",
+    "make:dist": "make dist",
+    "make:test": "make test",
+    "make:do-lint": "make do-lint",
+    "make:clean": "make clean",
+    "make:distclean": "make distclean"
+  },
+  "devDependencies": {
+    "@keetanetwork/eslint-config-typescript": "1.4.7",
+    "@types/node": "24.3.0",
+    "tsdown": "0.12.9",
+    "typescript": "5.6.3",
+    "unplugin-raw": "0.6.1"
+  },
+  "engines": {
+    "node": "20.18.0"
+  }
 }
