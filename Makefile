@@ -19,7 +19,7 @@ test:
 	@exit 1
 
 do-lint: node_modules
-	npm run eslint -- --config eslint.config.mjs
+	npm run eslint -- --config eslint.config.mjs $(ESLINT_EXTRA_ARGS)
 
 node_modules/.done: Makefile package.json package-lock.json
 	rm -rf node_modules
