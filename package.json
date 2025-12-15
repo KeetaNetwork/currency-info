@@ -22,8 +22,6 @@
 	"scripts": {
 		"tsdown": "tsdown",
 		"eslint": "eslint",
-		"compile": "webpack --progress",
-		"compile:watch": "npm run compile -- -w --no-stats",
 		"make:all": "make all",
 		"make:dist": "make dist",
 		"make:test": "make test",
