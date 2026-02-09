@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Al Ahmadi",
+		"iso2": "AH",
+		"type": "governorate",
+		"timezone": "Asia/Kuwait"
+	},
+	{
+		"name": "Al Asimah",
+		"iso2": "KU",
+		"type": "governorate",
+		"timezone": "Asia/Kuwait"
+	},
+	{
+		"name": "Al Farwaniyah",
+		"iso2": "FA",
+		"type": "governorate",
+		"timezone": "Asia/Kuwait"
+	},
+	{
+		"name": "Al Jahra",
+		"iso2": "JA",
+		"type": "governorate",
+		"timezone": "Asia/Kuwait"
+	},
+	{
+		"name": "Hawalli",
+		"iso2": "HA",
+		"type": "governorate",
+		"timezone": "Asia/Kuwait"
+	},
+	{
+		"name": "Mubarak Al-Kabeer",
+		"iso2": "MU",
+		"type": "governorate",
+		"timezone": "Asia/Kuwait"
+	}
+]

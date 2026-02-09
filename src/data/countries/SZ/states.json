@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Hhohho",
+		"iso2": "HH",
+		"type": "region",
+		"timezone": "Africa/Mbabane"
+	},
+	{
+		"name": "Lubombo",
+		"iso2": "LU",
+		"type": "region",
+		"timezone": "Africa/Mbabane"
+	},
+	{
+		"name": "Manzini",
+		"iso2": "MA",
+		"type": "region",
+		"timezone": "Africa/Mbabane"
+	},
+	{
+		"name": "Shiselweni",
+		"iso2": "SH",
+		"type": "region",
+		"timezone": "Africa/Mbabane"
+	}
+]

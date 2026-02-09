@@ -1,0 +1,164 @@
+[
+	{
+		"name": "Alexandria",
+		"iso2": "ALX",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Aswan",
+		"iso2": "ASN",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Asyut",
+		"iso2": "AST",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Beheira",
+		"iso2": "BH",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Beni Suef",
+		"iso2": "BNS",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Cairo",
+		"iso2": "C",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Dakahlia",
+		"iso2": "DK",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Damietta",
+		"iso2": "DT",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Faiyum",
+		"iso2": "FYM",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Gharbia",
+		"iso2": "GH",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Giza",
+		"iso2": "GZ",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Ismailia",
+		"iso2": "IS",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Kafr El-Sheikh",
+		"iso2": "KFS",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Luxor",
+		"iso2": "LX",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Matrouh",
+		"iso2": "MT",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Minya",
+		"iso2": "MN",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Monufia",
+		"iso2": "MNF",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "New Valley",
+		"iso2": "WAD",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "North Sinai",
+		"iso2": "SIN",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Port Said",
+		"iso2": "PTS",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Qalyubia",
+		"iso2": "KB",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Qena",
+		"iso2": "KN",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Red Sea",
+		"iso2": "BA",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Sharqia",
+		"iso2": "SHR",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Sohag",
+		"iso2": "SHG",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "South Sinai",
+		"iso2": "JS",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	},
+	{
+		"name": "Suez",
+		"iso2": "SUZ",
+		"type": "governorate",
+		"timezone": "Africa/Cairo"
+	}
+]

@@ -1,0 +1,152 @@
+[
+	{
+		"name": "Amazonas",
+		"iso2": "Z",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Anzoátegui",
+		"iso2": "B",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Apure",
+		"iso2": "C",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Aragua",
+		"iso2": "D",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Barinas",
+		"iso2": "E",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Bolívar",
+		"iso2": "F",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Carabobo",
+		"iso2": "G",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Cojedes",
+		"iso2": "H",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Delta Amacuro",
+		"iso2": "Y",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Distrito Capital",
+		"iso2": "A",
+		"type": "capital district",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Falcón",
+		"iso2": "I",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Guárico",
+		"iso2": "J",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "La Guaira",
+		"iso2": "X",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Lara",
+		"iso2": "K",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Mérida",
+		"iso2": "L",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Miranda",
+		"iso2": "M",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Monagas",
+		"iso2": "N",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Nueva Esparta",
+		"iso2": "O",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Portuguesa",
+		"iso2": "P",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Sucre",
+		"iso2": "R",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Táchira",
+		"iso2": "S",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Trujillo",
+		"iso2": "T",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Venezuela",
+		"iso2": "W",
+		"type": "federal dependency",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Yaracuy",
+		"iso2": "U",
+		"type": "state",
+		"timezone": "America/Caracas"
+	},
+	{
+		"name": "Zulia",
+		"iso2": "V",
+		"type": "state",
+		"timezone": "America/Caracas"
+	}
+]

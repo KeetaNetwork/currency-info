@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Bjelovar-Bilogora",
+		"iso2": "07",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Brod-Posavina",
+		"iso2": "12",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Dubrovnik-Neretva",
+		"iso2": "19",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Istria",
+		"iso2": "18",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Karlovac",
+		"iso2": "04",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Koprivnica-Križevci",
+		"iso2": "06",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Krapina-Zagorje",
+		"iso2": "02",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Lika-Senj",
+		"iso2": "09",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Međimurje",
+		"iso2": "20",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Osijek-Baranja",
+		"iso2": "14",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Požega-Slavonia",
+		"iso2": "11",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Primorje-Gorski Kotar",
+		"iso2": "08",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Šibenik-Knin",
+		"iso2": "15",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Sisak-Moslavina",
+		"iso2": "03",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Split-Dalmatia",
+		"iso2": "17",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Varaždin",
+		"iso2": "05",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Virovitica-Podravina",
+		"iso2": "10",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Vukovar-Syrmia",
+		"iso2": "16",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Zadar",
+		"iso2": "13",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	},
+	{
+		"name": "Zagreb",
+		"iso2": "01",
+		"type": "county",
+		"timezone": "Europe/Zagreb"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Ajloun",
+		"iso2": "AJ",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Amman",
+		"iso2": "AM",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Aqaba",
+		"iso2": "AQ",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Balqa",
+		"iso2": "BA",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Irbid",
+		"iso2": "IR",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Jerash",
+		"iso2": "JA",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Karak",
+		"iso2": "KA",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Ma'an",
+		"iso2": "MN",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Madaba",
+		"iso2": "MD",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Mafraq",
+		"iso2": "MA",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Tafilah",
+		"iso2": "AT",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	},
+	{
+		"name": "Zarqa",
+		"iso2": "AZ",
+		"type": "governorate",
+		"timezone": "Asia/Amman"
+	}
+]

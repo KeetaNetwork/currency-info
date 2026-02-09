@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Funafuti",
+		"iso2": "FUN",
+		"type": "town council",
+		"timezone": "Pacific/Funafuti"
+	},
+	{
+		"name": "Nanumanga",
+		"iso2": "NMG",
+		"type": "island council",
+		"timezone": "Pacific/Funafuti"
+	},
+	{
+		"name": "Nanumea",
+		"iso2": "NMA",
+		"type": "island council",
+		"timezone": "Pacific/Funafuti"
+	},
+	{
+		"name": "Niutao Island Council",
+		"iso2": "NIT",
+		"type": "island council",
+		"timezone": "Pacific/Funafuti"
+	},
+	{
+		"name": "Nui",
+		"iso2": "NUI",
+		"type": "island council",
+		"timezone": "Pacific/Funafuti"
+	},
+	{
+		"name": "Nukufetau",
+		"iso2": "NKF",
+		"type": "island council",
+		"timezone": "Pacific/Funafuti"
+	},
+	{
+		"name": "Nukulaelae",
+		"iso2": "NKL",
+		"type": "island council",
+		"timezone": "Pacific/Funafuti"
+	},
+	{
+		"name": "Vaitupu",
+		"iso2": "VAI",
+		"type": "island council",
+		"timezone": "Pacific/Funafuti"
+	}
+]

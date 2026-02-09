@@ -1,0 +1,350 @@
+[
+	{
+		"name": "Balé",
+		"iso2": "BAL",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Bam",
+		"iso2": "BAM",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Banwa",
+		"iso2": "BAN",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Bazèga",
+		"iso2": "BAZ",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Boucle du Mouhoun",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Bougouriba",
+		"iso2": "BGR",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Boulgou",
+		"iso2": "BLG",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Boulkiemde",
+		"iso2": "BLK",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Cascades",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Centre",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Centre-Est",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Centre-Nord",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Centre-Ouest",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Centre-Sud",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Comoé",
+		"iso2": "COM",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Est",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Ganzourgou",
+		"iso2": "GAN",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Gnagna",
+		"iso2": "GNA",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Gourma",
+		"iso2": "GOU",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Hauts-Bassins",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Houet",
+		"iso2": "HOU",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Ioba",
+		"iso2": "IOB",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Kadiogo",
+		"iso2": "KAD",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Kénédougou",
+		"iso2": "KEN",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Komondjari",
+		"iso2": "KMD",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Kompienga",
+		"iso2": "KMP",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Kossi",
+		"iso2": "KOS",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Koulpélogo",
+		"iso2": "KOP",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Kouritenga",
+		"iso2": "KOT",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Kourwéogo",
+		"iso2": "KOW",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Léraba",
+		"iso2": "LER",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Loroum",
+		"iso2": "LOR",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Mouhoun",
+		"iso2": "MOU",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Nahouri",
+		"iso2": "NAO",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Namentenga",
+		"iso2": "NAM",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Nayala",
+		"iso2": "NAY",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Nord",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Noumbiel",
+		"iso2": "NOU",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Oubritenga",
+		"iso2": "OUB",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Oudalan",
+		"iso2": "OUD",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Passoré",
+		"iso2": "PAS",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Plateau-Central",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Poni",
+		"iso2": "PON",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Sahel",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Sanguié",
+		"iso2": "SNG",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Sanmatenga",
+		"iso2": "SMT",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Séno",
+		"iso2": "SEN",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Sissili",
+		"iso2": "SIS",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Soum",
+		"iso2": "SOM",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Sourou",
+		"iso2": "SOR",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Sud-Ouest",
+		"iso2": "13",
+		"type": "region",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Tapoa",
+		"iso2": "TAP",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Tuy",
+		"iso2": "TUI",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Yagha",
+		"iso2": "YAG",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Yatenga",
+		"iso2": "YAT",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Ziro",
+		"iso2": "ZIR",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Zondoma",
+		"iso2": "ZON",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	},
+	{
+		"name": "Zoundwéogo",
+		"iso2": "ZOU",
+		"type": "province",
+		"timezone": "Africa/Ouagadougou"
+	}
+]

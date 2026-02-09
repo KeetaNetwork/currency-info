@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Ahuachapán",
+		"iso2": "AH",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "Cabañas",
+		"iso2": "CA",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "Chalatenango",
+		"iso2": "CH",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "Cuscatlán",
+		"iso2": "CU",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "La Libertad",
+		"iso2": "LI",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "La Paz",
+		"iso2": "PA",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "La Unión ",
+		"iso2": "UN",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "Morazán",
+		"iso2": "MO",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "San Miguel",
+		"iso2": "SM",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "San Salvador",
+		"iso2": "SS",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "San Vicente",
+		"iso2": "SV",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "Santa Ana",
+		"iso2": "SA",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "Sonsonate",
+		"iso2": "SO",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	},
+	{
+		"name": "Usulután",
+		"iso2": "US",
+		"type": "department",
+		"timezone": "America/El_Salvador"
+	}
+]

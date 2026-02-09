@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Eastern",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Africa/Kigali"
+	},
+	{
+		"name": "Kigali",
+		"iso2": "01",
+		"type": "city",
+		"timezone": "Africa/Kigali"
+	},
+	{
+		"name": "Northern",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Africa/Kigali"
+	},
+	{
+		"name": "Southern",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Africa/Kigali"
+	},
+	{
+		"name": "Western",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Africa/Kigali"
+	}
+]

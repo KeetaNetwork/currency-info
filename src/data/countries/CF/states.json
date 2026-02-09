@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Bamingui-Bangoran",
+		"iso2": "BB",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Bangui",
+		"iso2": "BGF",
+		"type": "commune",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Basse-Kotto",
+		"iso2": "BK",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Haut-Mbomou",
+		"iso2": "HM",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Haute-Kotto",
+		"iso2": "HK",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Kémo",
+		"iso2": "KG",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Lobaye",
+		"iso2": "LB",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Mambéré-Kadéï",
+		"iso2": "HS",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Mbomou",
+		"iso2": "MB",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Nana-Grébizi",
+		"iso2": "KB",
+		"type": "economic prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Nana-Mambéré",
+		"iso2": "NM",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Ombella-M'Poko",
+		"iso2": "MP",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Ouaka",
+		"iso2": "UK",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Ouham",
+		"iso2": "AC",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Ouham-Pendé",
+		"iso2": "OP",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Sangha-Mbaéré",
+		"iso2": "SE",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	},
+	{
+		"name": "Vakaga",
+		"iso2": "VK",
+		"type": "prefecture",
+		"timezone": "Africa/Bangui"
+	}
+]

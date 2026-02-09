@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Brest",
+		"iso2": "BR",
+		"type": "oblast",
+		"timezone": "Europe/Minsk"
+	},
+	{
+		"name": "Gomel",
+		"iso2": "HO",
+		"type": "oblast",
+		"timezone": "Europe/Minsk"
+	},
+	{
+		"name": "Grodno",
+		"iso2": "HR",
+		"type": "oblast",
+		"timezone": "Europe/Minsk"
+	},
+	{
+		"name": "Minsk",
+		"iso2": "MI",
+		"type": "oblast",
+		"timezone": "Europe/Minsk"
+	},
+	{
+		"name": "Minsk",
+		"iso2": "HM",
+		"type": "city",
+		"timezone": "Europe/Minsk"
+	},
+	{
+		"name": "Mogilev",
+		"iso2": "MA",
+		"type": "oblast",
+		"timezone": "Europe/Minsk"
+	},
+	{
+		"name": "Vitebsk",
+		"iso2": "VI",
+		"type": "oblast",
+		"timezone": "Europe/Minsk"
+	}
+]

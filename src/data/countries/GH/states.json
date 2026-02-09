@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Ahafo",
+		"iso2": "AF",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Ashanti",
+		"iso2": "AH",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Bono",
+		"iso2": "BO",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Bono East",
+		"iso2": "BE",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Central",
+		"iso2": "CP",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Eastern",
+		"iso2": "EP",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Greater Accra",
+		"iso2": "AA",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "North East",
+		"iso2": "NE",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Northern",
+		"iso2": "NP",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Oti",
+		"iso2": "OT",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Savannah",
+		"iso2": "SV",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Upper East",
+		"iso2": "UE",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Upper West",
+		"iso2": "UW",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Volta",
+		"iso2": "TV",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Western",
+		"iso2": "WP",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	},
+	{
+		"name": "Western North",
+		"iso2": "WN",
+		"type": "region",
+		"timezone": "Africa/Accra"
+	}
+]

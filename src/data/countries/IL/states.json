@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Central",
+		"iso2": "M",
+		"type": "district",
+		"timezone": "Asia/Jerusalem"
+	},
+	{
+		"name": "Haifa",
+		"iso2": "HA",
+		"type": "district",
+		"timezone": "Asia/Jerusalem"
+	},
+	{
+		"name": "Jerusalem",
+		"iso2": "JM",
+		"type": "district",
+		"timezone": "Asia/Jerusalem"
+	},
+	{
+		"name": "Northern",
+		"iso2": "Z",
+		"type": "district",
+		"timezone": "Asia/Jerusalem"
+	},
+	{
+		"name": "Southern",
+		"iso2": "D",
+		"type": "district",
+		"timezone": "Asia/Jerusalem"
+	},
+	{
+		"name": "Tel Aviv",
+		"iso2": "TA",
+		"type": "district",
+		"timezone": "Asia/Jerusalem"
+	}
+]

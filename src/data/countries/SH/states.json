@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Alarm Forest",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	},
+	{
+		"name": "Blue Hill",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	},
+	{
+		"name": "Half Tree Hollow",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	},
+	{
+		"name": "Jamestown",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	},
+	{
+		"name": "Levelwood",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	},
+	{
+		"name": "Longwood",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	},
+	{
+		"name": "Saint Paul's",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	},
+	{
+		"name": "Sandy Bay",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "Atlantic/St_Helena"
+	}
+]

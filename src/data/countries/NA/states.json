@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Erongo",
+		"iso2": "ER",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Hardap",
+		"iso2": "HA",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Karas",
+		"iso2": "KA",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Kavango East",
+		"iso2": "KE",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Kavango West",
+		"iso2": "KW",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Khomas",
+		"iso2": "KH",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Kunene",
+		"iso2": "KU",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Ohangwena",
+		"iso2": "OW",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Omaheke",
+		"iso2": "OH",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Omusati",
+		"iso2": "OS",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Oshana",
+		"iso2": "ON",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Oshikoto",
+		"iso2": "OT",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Otjozondjupa",
+		"iso2": "OD",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	},
+	{
+		"name": "Zambezi",
+		"iso2": "CA",
+		"type": "region",
+		"timezone": "Africa/Windhoek"
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Central",
+		"iso2": "CE",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Choiseul",
+		"iso2": "CH",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Guadalcanal",
+		"iso2": "GU",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Honiara",
+		"iso2": "CT",
+		"type": "capital territory",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Isabel",
+		"iso2": "IS",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Makira-Ulawa",
+		"iso2": "MK",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Malaita",
+		"iso2": "ML",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Rennell and Bellona",
+		"iso2": "RB",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Temotu",
+		"iso2": "TE",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	},
+	{
+		"name": "Western",
+		"iso2": "WE",
+		"type": "province",
+		"timezone": "Pacific/Guadalcanal"
+	}
+]

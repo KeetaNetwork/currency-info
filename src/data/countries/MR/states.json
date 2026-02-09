@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Adrar",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Assaba",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Brakna",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Dakhlet Nouadhibou",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Gorgol",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Guidimaka",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Hodh Ech Chargui",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Hodh El Gharbi",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Inchiri",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Nouakchott-Nord",
+		"iso2": "14",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Nouakchott-Ouest",
+		"iso2": "13",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Nouakchott-Sud",
+		"iso2": "15",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Tagant",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Tiris Zemmour",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	},
+	{
+		"name": "Trarza",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Africa/Nouakchott"
+	}
+]

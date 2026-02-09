@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Alajuela",
+		"iso2": "A",
+		"type": "province",
+		"timezone": "America/Costa_Rica"
+	},
+	{
+		"name": "Cartago",
+		"iso2": "C",
+		"type": "province",
+		"timezone": "America/Costa_Rica"
+	},
+	{
+		"name": "Guanacaste",
+		"iso2": "G",
+		"type": "province",
+		"timezone": "America/Costa_Rica"
+	},
+	{
+		"name": "Heredia",
+		"iso2": "H",
+		"type": "province",
+		"timezone": "America/Costa_Rica"
+	},
+	{
+		"name": "Limón",
+		"iso2": "L",
+		"type": "province",
+		"timezone": "America/Costa_Rica"
+	},
+	{
+		"name": "Puntarenas",
+		"iso2": "P",
+		"type": "province",
+		"timezone": "America/Costa_Rica"
+	},
+	{
+		"name": "San José",
+		"iso2": "SJ",
+		"type": "province",
+		"timezone": "America/Costa_Rica"
+	}
+]

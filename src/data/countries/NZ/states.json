@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Auckland",
+		"iso2": "AUK",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Bay of Plenty",
+		"iso2": "BOP",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Canterbury",
+		"iso2": "CAN",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Chatham Islands",
+		"iso2": "CIT",
+		"type": "special island authority",
+		"timezone": "Pacific/Chatham"
+	},
+	{
+		"name": "Gisborne",
+		"iso2": "GIS",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Hawke's Bay",
+		"iso2": "HKB",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Manawatu-Whanganui",
+		"iso2": "MWT",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Marlborough",
+		"iso2": "MBH",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Nelson",
+		"iso2": "NSN",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Northland",
+		"iso2": "NTL",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Otago",
+		"iso2": "OTA",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Southland",
+		"iso2": "STL",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Taranaki",
+		"iso2": "TKI",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Tasman",
+		"iso2": "TAS",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Waikato",
+		"iso2": "WKO",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "Wellington",
+		"iso2": "WGN",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	},
+	{
+		"name": "West Coast",
+		"iso2": "WTC",
+		"type": "region",
+		"timezone": "Pacific/Auckland"
+	}
+]

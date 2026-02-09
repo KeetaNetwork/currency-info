@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Alberta",
+		"iso2": "AB",
+		"type": "province",
+		"timezone": "America/Edmonton"
+	},
+	{
+		"name": "British Columbia",
+		"iso2": "BC",
+		"type": "province",
+		"timezone": "America/Vancouver"
+	},
+	{
+		"name": "Manitoba",
+		"iso2": "MB",
+		"type": "province",
+		"timezone": "America/Winnipeg"
+	},
+	{
+		"name": "New Brunswick",
+		"iso2": "NB",
+		"type": "province",
+		"timezone": "America/Moncton"
+	},
+	{
+		"name": "Newfoundland and Labrador",
+		"iso2": "NL",
+		"type": "province",
+		"timezone": "America/St_Johns"
+	},
+	{
+		"name": "Northwest Territories",
+		"iso2": "NT",
+		"type": "territory",
+		"timezone": "America/Yellowknife"
+	},
+	{
+		"name": "Nova Scotia",
+		"iso2": "NS",
+		"type": "province",
+		"timezone": "America/Halifax"
+	},
+	{
+		"name": "Nunavut",
+		"iso2": "NU",
+		"type": "territory",
+		"timezone": "America/Iqaluit"
+	},
+	{
+		"name": "Ontario",
+		"iso2": "ON",
+		"type": "province",
+		"timezone": "America/Toronto"
+	},
+	{
+		"name": "Prince Edward Island",
+		"iso2": "PE",
+		"type": "province",
+		"timezone": "America/Halifax"
+	},
+	{
+		"name": "Quebec",
+		"iso2": "QC",
+		"type": "province",
+		"timezone": "America/Toronto"
+	},
+	{
+		"name": "Saskatchewan",
+		"iso2": "SK",
+		"type": "province",
+		"timezone": "America/Regina"
+	},
+	{
+		"name": "Yukon",
+		"iso2": "YT",
+		"type": "territory",
+		"timezone": "America/Whitehorse"
+	}
+]

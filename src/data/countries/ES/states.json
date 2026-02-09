@@ -1,0 +1,416 @@
+[
+	{
+		"name": "A Coruña",
+		"iso2": "C",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Albacete",
+		"iso2": "AB",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Alicante",
+		"iso2": "A",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Almeria",
+		"iso2": "AL",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Andalusia",
+		"iso2": "AN",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Araba",
+		"iso2": "VI",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Aragon",
+		"iso2": "AR",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Asturias",
+		"iso2": "O",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Asturias, Principality of",
+		"iso2": "AS",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Ávila",
+		"iso2": "AV",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Badajoz",
+		"iso2": "BA",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Balearic Islands",
+		"iso2": "IB",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Barcelona",
+		"iso2": "B",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Basque Country",
+		"iso2": "PV",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Bizkaia",
+		"iso2": "BI",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Burgos",
+		"iso2": "BU",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Caceres",
+		"iso2": "CC",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Cádiz",
+		"iso2": "CA",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Canary Islands",
+		"iso2": "CN",
+		"type": "autonomous community",
+		"timezone": "Atlantic/Canary"
+	},
+	{
+		"name": "Cantabria",
+		"iso2": "S",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Cantabria",
+		"iso2": "CB",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Castellón",
+		"iso2": "CS",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Castile and Leon",
+		"iso2": "CL",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Castilla-La Mancha",
+		"iso2": "CM",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Catalonia",
+		"iso2": "CT",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Ceuta",
+		"iso2": "CE",
+		"type": "autonomous city",
+		"timezone": "Africa/Ceuta"
+	},
+	{
+		"name": "Ciudad Real",
+		"iso2": "CR",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Community of Madrid",
+		"iso2": "MD",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Córdoba",
+		"iso2": "CO",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Cuenca",
+		"iso2": "CU",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Estremadura",
+		"iso2": "EX",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Galicia",
+		"iso2": "GA",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Gipuzkoa",
+		"iso2": "SS",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Girona",
+		"iso2": "GI",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Granada",
+		"iso2": "GR",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Guadalajara",
+		"iso2": "GU",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Huelva",
+		"iso2": "H",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Huesca",
+		"iso2": "HU",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Islas Baleares",
+		"iso2": "PM",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Jaén",
+		"iso2": "J",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "La Rioja",
+		"iso2": "RI",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "La Rioja",
+		"iso2": "LO",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Las Palmas",
+		"iso2": "GC",
+		"type": "province",
+		"timezone": "Atlantic/Canary"
+	},
+	{
+		"name": "León",
+		"iso2": "LE",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Lleida",
+		"iso2": "L",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Lugo",
+		"iso2": "LU",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Madrid",
+		"iso2": "M",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Málaga",
+		"iso2": "MA",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Melilla",
+		"iso2": "ML",
+		"type": "autonomous city",
+		"timezone": "Africa/Ceuta"
+	},
+	{
+		"name": "Murcia",
+		"iso2": "MU",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Navarra",
+		"iso2": "NA",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Navarre",
+		"iso2": "NC",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Ourense",
+		"iso2": "OR",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Palencia",
+		"iso2": "P",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Pontevedra",
+		"iso2": "PO",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Region of Murcia",
+		"iso2": "MC",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Salamanca",
+		"iso2": "SA",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Santa Cruz de Tenerife",
+		"iso2": "TF",
+		"type": "province",
+		"timezone": "Atlantic/Canary"
+	},
+	{
+		"name": "Segovia",
+		"iso2": "SG",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Sevilla",
+		"iso2": "SE",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Soria",
+		"iso2": "SO",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Tarragona",
+		"iso2": "T",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Teruel",
+		"iso2": "TE",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Toledo",
+		"iso2": "TO",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Valencia",
+		"iso2": "V",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Valencian Community",
+		"iso2": "VC",
+		"type": "autonomous community",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Valladolid",
+		"iso2": "VA",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Zamora",
+		"iso2": "ZA",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	},
+	{
+		"name": "Zaragoza",
+		"iso2": "Z",
+		"type": "province",
+		"timezone": "Europe/Madrid"
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Agalega Islands",
+		"iso2": "AG",
+		"type": "dependency",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Black River",
+		"iso2": "BL",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Flacq",
+		"iso2": "FL",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Grand Port",
+		"iso2": "GP",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Moka",
+		"iso2": "MO",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Pamplemousses",
+		"iso2": "PA",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Plaines Wilhems",
+		"iso2": "PW",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Port Louis",
+		"iso2": "PL",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Rivière du Rempart",
+		"iso2": "RR",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Rodrigues Island",
+		"iso2": "RO",
+		"type": "dependency",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Saint Brandon Islands",
+		"iso2": "CC",
+		"type": "dependency",
+		"timezone": "Indian/Mauritius"
+	},
+	{
+		"name": "Savanne",
+		"iso2": "SA",
+		"type": "district",
+		"timezone": "Indian/Mauritius"
+	}
+]

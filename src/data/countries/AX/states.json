@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Brändö",
+		"iso2": "12",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Eckerö",
+		"iso2": "08",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Finström",
+		"iso2": "03",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Föglö",
+		"iso2": "09",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Geta",
+		"iso2": "10",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Hammarland",
+		"iso2": "06",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Jomala",
+		"iso2": "02",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Kökar",
+		"iso2": "15",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Kumlinge",
+		"iso2": "14",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Lemland",
+		"iso2": "04",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Lumparland",
+		"iso2": "13",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Mariehamn",
+		"iso2": "01",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Saltvik",
+		"iso2": "05",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Sottunga",
+		"iso2": "16",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Sund",
+		"iso2": "07",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	},
+	{
+		"name": "Vårdö",
+		"iso2": "11",
+		"type": "municipality",
+		"timezone": "Europe/Mariehamn"
+	}
+]

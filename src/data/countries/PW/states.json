@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Aimeliik",
+		"iso2": "002",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Airai",
+		"iso2": "004",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Angaur",
+		"iso2": "010",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Hatohobei",
+		"iso2": "050",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Kayangel",
+		"iso2": "100",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Koror",
+		"iso2": "150",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Melekeok",
+		"iso2": "212",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Ngaraard",
+		"iso2": "214",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Ngarchelong",
+		"iso2": "218",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Ngardmau",
+		"iso2": "222",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Ngatpang",
+		"iso2": "224",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Ngchesar",
+		"iso2": "226",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Ngeremlengui",
+		"iso2": "227",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Ngiwal",
+		"iso2": "228",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Peleliu",
+		"iso2": "350",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	},
+	{
+		"name": "Sonsorol",
+		"iso2": "370",
+		"type": "state",
+		"timezone": "Pacific/Palau"
+	}
+]

@@ -1,0 +1,158 @@
+[
+	{
+		"name": "Ailinglaplap",
+		"iso2": "ALL",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Ailuk",
+		"iso2": "ALK",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Arno",
+		"iso2": "ARN",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Aur",
+		"iso2": "AUR",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Bikini & Kili",
+		"iso2": "KIL",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Ebon",
+		"iso2": "EBO",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Enewetak & Ujelang",
+		"iso2": "ENI",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Jabat",
+		"iso2": "JAB",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Jaluit",
+		"iso2": "JAL",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Kwajalein",
+		"iso2": "KWA",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Lae",
+		"iso2": "LAE",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Lib",
+		"iso2": "LIB",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Likiep",
+		"iso2": "LIK",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Majuro",
+		"iso2": "MAJ",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Maloelap",
+		"iso2": "MAL",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Mejit",
+		"iso2": "MEJ",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Mili",
+		"iso2": "MIL",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Namdrik",
+		"iso2": "NMK",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Namu",
+		"iso2": "NMU",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Ralik",
+		"iso2": "L",
+		"type": "chain",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Ratak",
+		"iso2": "T",
+		"type": "chain",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Rongelap",
+		"iso2": "RON",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Ujae",
+		"iso2": "UJA",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Utrik",
+		"iso2": "UTI",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Wotho",
+		"iso2": "WTH",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	},
+	{
+		"name": "Wotje",
+		"iso2": "WTJ",
+		"type": "municipality",
+		"timezone": "Pacific/Kwajalein"
+	}
+]

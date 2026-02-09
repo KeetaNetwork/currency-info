@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Avannaata",
+		"iso2": "AV",
+		"type": "municipality",
+		"timezone": "America/Nuuk"
+	},
+	{
+		"name": "Kujalleq",
+		"iso2": "KU",
+		"type": "municipality",
+		"timezone": "America/Nuuk"
+	},
+	{
+		"name": "Qeqertalik",
+		"iso2": "QT",
+		"type": "municipality",
+		"timezone": "America/Danmarkshavn"
+	},
+	{
+		"name": "Qeqqata",
+		"iso2": "QE",
+		"type": "municipality",
+		"timezone": "America/Nuuk"
+	},
+	{
+		"name": "Sermersooq",
+		"iso2": "SM",
+		"type": "municipality",
+		"timezone": "America/Nuuk"
+	}
+]

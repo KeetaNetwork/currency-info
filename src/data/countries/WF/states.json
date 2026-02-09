@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Alo",
+		"iso2": "AL",
+		"type": "administrative precinct",
+		"timezone": "Pacific/Wallis"
+	},
+	{
+		"name": "Sigave",
+		"iso2": "SG",
+		"type": "administrative precinct",
+		"timezone": "Pacific/Wallis"
+	},
+	{
+		"name": "Uvea",
+		"iso2": "UV",
+		"type": "administrative precinct",
+		"timezone": "Pacific/Wallis"
+	}
+]

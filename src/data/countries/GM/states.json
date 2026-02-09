@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Banjul",
+		"iso2": "B",
+		"type": "city",
+		"timezone": "Africa/Banjul"
+	},
+	{
+		"name": "Central River",
+		"iso2": "M",
+		"type": "division",
+		"timezone": "Africa/Banjul"
+	},
+	{
+		"name": "Lower River",
+		"iso2": "L",
+		"type": "division",
+		"timezone": "Africa/Banjul"
+	},
+	{
+		"name": "North Bank",
+		"iso2": "N",
+		"type": "division",
+		"timezone": "Africa/Banjul"
+	},
+	{
+		"name": "Upper River",
+		"iso2": "U",
+		"type": "division",
+		"timezone": "Africa/Banjul"
+	},
+	{
+		"name": "West Coast",
+		"iso2": "W",
+		"type": "division",
+		"timezone": "Africa/Banjul"
+	}
+]

@@ -1,0 +1,158 @@
+[
+	{
+		"name": "Aargau",
+		"iso2": "AG",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Appenzell Ausserrhoden",
+		"iso2": "AR",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Appenzell Innerrhoden",
+		"iso2": "AI",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Basel-Land",
+		"iso2": "BL",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Basel-Stadt",
+		"iso2": "BS",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Bern",
+		"iso2": "BE",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Fribourg",
+		"iso2": "FR",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Geneva",
+		"iso2": "GE",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Glarus",
+		"iso2": "GL",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Graubünden",
+		"iso2": "GR",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Jura",
+		"iso2": "JU",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Lucerne",
+		"iso2": "LU",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Neuchâtel",
+		"iso2": "NE",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Nidwalden",
+		"iso2": "NW",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Obwalden",
+		"iso2": "OW",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Schaffhausen",
+		"iso2": "SH",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Schwyz",
+		"iso2": "SZ",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Solothurn",
+		"iso2": "SO",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "St. Gallen",
+		"iso2": "SG",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Thurgau",
+		"iso2": "TG",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Ticino",
+		"iso2": "TI",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Uri",
+		"iso2": "UR",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Valais",
+		"iso2": "VS",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Vaud",
+		"iso2": "VD",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Zug",
+		"iso2": "ZG",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	},
+	{
+		"name": "Zürich",
+		"iso2": "ZH",
+		"type": "canton",
+		"timezone": "Europe/Zurich"
+	}
+]

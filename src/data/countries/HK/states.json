@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Central and Western",
+		"iso2": "HCW",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Eastern",
+		"iso2": "HEA",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Islands",
+		"iso2": "NIS",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Kowloon City",
+		"iso2": "KKC",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Kwai Tsing",
+		"iso2": "NKT",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Kwun Tong",
+		"iso2": "KKT",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "North",
+		"iso2": "NNO",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Sai Kung",
+		"iso2": "NSK",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Sha Tin",
+		"iso2": "NST",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Sham Shui Po",
+		"iso2": "KSS",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Southern",
+		"iso2": "HSO",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Tai Po",
+		"iso2": "NTP",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Tsuen Wan",
+		"iso2": "NTW",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Tuen Mun",
+		"iso2": "NTM",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Wan Chai",
+		"iso2": "HWC",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Wong Tai Sin",
+		"iso2": "KWT",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Yau Tsim Mong",
+		"iso2": "KYT",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	},
+	{
+		"name": "Yuen Long",
+		"iso2": "NYL",
+		"type": "district",
+		"timezone": "Asia/Hong_Kong"
+	}
+]

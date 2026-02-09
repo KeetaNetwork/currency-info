@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Barlavento Islands",
+		"iso2": "B",
+		"type": "geographical region",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Boa Vista",
+		"iso2": "BV",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Brava",
+		"iso2": "BR",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Maio",
+		"iso2": "MA",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Mosteiros",
+		"iso2": "MO",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Paul",
+		"iso2": "PA",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Porto Novo",
+		"iso2": "PN",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Praia",
+		"iso2": "PR",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Ribeira Brava",
+		"iso2": "RB",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Ribeira Grande",
+		"iso2": "RG",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Ribeira Grande de Santiago",
+		"iso2": "RS",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Sal",
+		"iso2": "SL",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Santa Catarina",
+		"iso2": "CA",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Santa Catarina do Fogo",
+		"iso2": "CF",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Santa Cruz",
+		"iso2": "CR",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "São Domingos",
+		"iso2": "SD",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "São Filipe",
+		"iso2": "SF",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "São Lourenço dos Órgãos",
+		"iso2": "SO",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "São Miguel",
+		"iso2": "SM",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "São Salvador do Mundo",
+		"iso2": "SS",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "São Vicente",
+		"iso2": "SV",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Sotavento Islands",
+		"iso2": "S",
+		"type": "geographical region",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Tarrafal",
+		"iso2": "TA",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	},
+	{
+		"name": "Tarrafal de São Nicolau",
+		"iso2": "TS",
+		"type": "municipality",
+		"timezone": "Atlantic/Cape_Verde"
+	}
+]

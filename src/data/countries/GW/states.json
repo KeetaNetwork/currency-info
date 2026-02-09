@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Bafatá",
+		"iso2": "BA",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Biombo",
+		"iso2": "BM",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Bissau",
+		"iso2": "BS",
+		"type": "autonomous sector",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Bolama",
+		"iso2": "BL",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Cacheu",
+		"iso2": "CA",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Gabú",
+		"iso2": "GA",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Leste",
+		"iso2": "L",
+		"type": "province",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Norte",
+		"iso2": "N",
+		"type": "province",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Oio",
+		"iso2": "OI",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Quinara",
+		"iso2": "QU",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Sul",
+		"iso2": "S",
+		"type": "province",
+		"timezone": "Africa/Bissau"
+	},
+	{
+		"name": "Tombali",
+		"iso2": "TO",
+		"type": "region",
+		"timezone": "Africa/Bissau"
+	}
+]

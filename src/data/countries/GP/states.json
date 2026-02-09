@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Basse-Terre",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "America/Guadeloupe"
+	},
+	{
+		"name": "Pointe-à-Pitre",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "America/Guadeloupe"
+	}
+]

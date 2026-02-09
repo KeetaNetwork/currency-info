@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Central Denmark",
+		"iso2": "82",
+		"type": "region",
+		"timezone": "Europe/Copenhagen"
+	},
+	{
+		"name": "Denmark",
+		"iso2": "84",
+		"type": "region",
+		"timezone": "Europe/Copenhagen"
+	},
+	{
+		"name": "North Denmark",
+		"iso2": "81",
+		"type": "region",
+		"timezone": "Europe/Copenhagen"
+	},
+	{
+		"name": "Southern Denmark",
+		"iso2": "83",
+		"type": "region",
+		"timezone": "Europe/Copenhagen"
+	},
+	{
+		"name": "Zealand",
+		"iso2": "85",
+		"type": "region",
+		"timezone": "Europe/Copenhagen"
+	}
+]

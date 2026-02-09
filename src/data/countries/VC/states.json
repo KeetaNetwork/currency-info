@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Charlotte",
+		"iso2": "01",
+		"type": "parish",
+		"timezone": "America/St_Vincent"
+	},
+	{
+		"name": "Grenadines",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "America/St_Vincent"
+	},
+	{
+		"name": "Saint Andrew",
+		"iso2": "02",
+		"type": "parish",
+		"timezone": "America/St_Vincent"
+	},
+	{
+		"name": "Saint David",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "America/St_Vincent"
+	},
+	{
+		"name": "Saint George",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "America/St_Vincent"
+	},
+	{
+		"name": "Saint Patrick",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "America/St_Vincent"
+	}
+]

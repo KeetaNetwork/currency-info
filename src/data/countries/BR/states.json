@@ -1,0 +1,164 @@
+[
+	{
+		"name": "Acre",
+		"iso2": "AC",
+		"type": "state",
+		"timezone": "America/Rio_Branco"
+	},
+	{
+		"name": "Alagoas",
+		"iso2": "AL",
+		"type": "state",
+		"timezone": "America/Maceio"
+	},
+	{
+		"name": "Amapá",
+		"iso2": "AP",
+		"type": "state",
+		"timezone": "America/Belem"
+	},
+	{
+		"name": "Amazonas",
+		"iso2": "AM",
+		"type": "state",
+		"timezone": "America/Manaus"
+	},
+	{
+		"name": "Bahia",
+		"iso2": "BA",
+		"type": "state",
+		"timezone": "America/Bahia"
+	},
+	{
+		"name": "Ceará",
+		"iso2": "CE",
+		"type": "state",
+		"timezone": "America/Fortaleza"
+	},
+	{
+		"name": "Distrito Federal",
+		"iso2": "DF",
+		"type": "federal district",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Espírito Santo",
+		"iso2": "ES",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Goiás",
+		"iso2": "GO",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Maranhão",
+		"iso2": "MA",
+		"type": "state",
+		"timezone": "America/Fortaleza"
+	},
+	{
+		"name": "Mato Grosso",
+		"iso2": "MT",
+		"type": "state",
+		"timezone": "America/Cuiaba"
+	},
+	{
+		"name": "Mato Grosso do Sul",
+		"iso2": "MS",
+		"type": "state",
+		"timezone": "America/Campo_Grande"
+	},
+	{
+		"name": "Minas Gerais",
+		"iso2": "MG",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Pará",
+		"iso2": "PA",
+		"type": "state",
+		"timezone": "America/Belem"
+	},
+	{
+		"name": "Paraíba",
+		"iso2": "PB",
+		"type": "state",
+		"timezone": "America/Fortaleza"
+	},
+	{
+		"name": "Paraná",
+		"iso2": "PR",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Pernambuco",
+		"iso2": "PE",
+		"type": "state",
+		"timezone": "America/Recife"
+	},
+	{
+		"name": "Piauí",
+		"iso2": "PI",
+		"type": "state",
+		"timezone": "America/Fortaleza"
+	},
+	{
+		"name": "Rio de Janeiro",
+		"iso2": "RJ",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Rio Grande do Norte",
+		"iso2": "RN",
+		"type": "state",
+		"timezone": "America/Fortaleza"
+	},
+	{
+		"name": "Rio Grande do Sul",
+		"iso2": "RS",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Rondônia",
+		"iso2": "RO",
+		"type": "state",
+		"timezone": "America/Porto_Velho"
+	},
+	{
+		"name": "Roraima",
+		"iso2": "RR",
+		"type": "state",
+		"timezone": "America/Boa_Vista"
+	},
+	{
+		"name": "Santa Catarina",
+		"iso2": "SC",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "São Paulo",
+		"iso2": "SP",
+		"type": "state",
+		"timezone": "America/Sao_Paulo"
+	},
+	{
+		"name": "Sergipe",
+		"iso2": "SE",
+		"type": "state",
+		"timezone": "America/Maceio"
+	},
+	{
+		"name": "Tocantins",
+		"iso2": "TO",
+		"type": "state",
+		"timezone": "America/Araguaina"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Malampa",
+		"iso2": "MAP",
+		"type": "province",
+		"timezone": "Pacific/Efate"
+	},
+	{
+		"name": "Penama",
+		"iso2": "PAM",
+		"type": "province",
+		"timezone": "Pacific/Efate"
+	},
+	{
+		"name": "Sanma",
+		"iso2": "SAM",
+		"type": "province",
+		"timezone": "Pacific/Efate"
+	},
+	{
+		"name": "Shefa",
+		"iso2": "SEE",
+		"type": "province",
+		"timezone": "Pacific/Efate"
+	},
+	{
+		"name": "Tafea",
+		"iso2": "TAE",
+		"type": "province",
+		"timezone": "Pacific/Efate"
+	},
+	{
+		"name": "Torba",
+		"iso2": "TOB",
+		"type": "province",
+		"timezone": "Pacific/Efate"
+	}
+]

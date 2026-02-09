@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Azad Kashmir",
+		"iso2": "JK",
+		"type": "administered area",
+		"timezone": "Asia/Karachi"
+	},
+	{
+		"name": "Balochistan",
+		"iso2": "BA",
+		"type": "province",
+		"timezone": "Asia/Karachi"
+	},
+	{
+		"name": "Gilgit-Baltistan",
+		"iso2": "GB",
+		"type": "administered area",
+		"timezone": "Asia/Karachi"
+	},
+	{
+		"name": "Islamabad",
+		"iso2": "IS",
+		"type": "federal capital territory",
+		"timezone": "Asia/Karachi"
+	},
+	{
+		"name": "Khyber Pakhtunkhwa",
+		"iso2": "KP",
+		"type": "province",
+		"timezone": "Asia/Karachi"
+	},
+	{
+		"name": "Punjab",
+		"iso2": "PB",
+		"type": "province",
+		"timezone": "Asia/Karachi"
+	},
+	{
+		"name": "Sindh",
+		"iso2": "SD",
+		"type": "province",
+		"timezone": "Asia/Karachi"
+	}
+]

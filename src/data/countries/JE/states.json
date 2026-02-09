@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Grouville",
+		"iso2": "01",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Brelade",
+		"iso2": "02",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Clement",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Helier",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St John",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Lawrence",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Martin",
+		"iso2": "07",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Mary",
+		"iso2": "08",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Ouen",
+		"iso2": "09",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Peter",
+		"iso2": "10",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "St Saviour",
+		"iso2": "11",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	},
+	{
+		"name": "Trinity",
+		"iso2": "12",
+		"type": "parish",
+		"timezone": "Europe/Jersey"
+	}
+]

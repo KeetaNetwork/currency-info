@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Al Butnan",
+		"iso2": "BU",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Al Wahat",
+		"iso2": "WA",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Benghazi",
+		"iso2": "BA",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Derna",
+		"iso2": "DR",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Ghat",
+		"iso2": "GT",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Jabal al Akhdar",
+		"iso2": "JA",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Jabal al Gharbi",
+		"iso2": "JG",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Jafara",
+		"iso2": "JI",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Jufra",
+		"iso2": "JU",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Kufra",
+		"iso2": "KF",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Marj",
+		"iso2": "MJ",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Misrata",
+		"iso2": "MI",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Murqub",
+		"iso2": "MB",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Murzuq",
+		"iso2": "MQ",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Nalut",
+		"iso2": "NL",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Nuqat al Khams",
+		"iso2": "NQ",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Sabha",
+		"iso2": "SB",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Sirte",
+		"iso2": "SR",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Tripoli",
+		"iso2": "TB",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Wadi al Hayaa",
+		"iso2": "WD",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Wadi al Shatii",
+		"iso2": "WS",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	},
+	{
+		"name": "Zawiya",
+		"iso2": "ZA",
+		"type": "popularate",
+		"timezone": "Africa/Tripoli"
+	}
+]

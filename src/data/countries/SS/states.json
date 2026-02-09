@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Central Equatoria",
+		"iso2": "EC",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Eastern Equatoria",
+		"iso2": "EE",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Jonglei State",
+		"iso2": "JG",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Lakes",
+		"iso2": "LK",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Northern Bahr el Ghazal",
+		"iso2": "BN",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Unity",
+		"iso2": "UY",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Upper Nile",
+		"iso2": "NU",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Warrap",
+		"iso2": "WR",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Western Bahr el Ghazal",
+		"iso2": "BW",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	},
+	{
+		"name": "Western Equatoria",
+		"iso2": "EW",
+		"type": "state",
+		"timezone": "Africa/Juba"
+	}
+]

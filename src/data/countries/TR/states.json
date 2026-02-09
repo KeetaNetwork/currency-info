@@ -1,0 +1,488 @@
+[
+	{
+		"name": "Adana",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Adıyaman",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Afyonkarahisar",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Ağrı",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Aksaray",
+		"iso2": "68",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Amasya",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Ankara",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Antalya",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Ardahan",
+		"iso2": "75",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Artvin",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Aydın",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Balıkesir",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Bartın",
+		"iso2": "74",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Batman",
+		"iso2": "72",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Bayburt",
+		"iso2": "69",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Bilecik",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Bingöl",
+		"iso2": "12",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Bitlis",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Bolu",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Burdur",
+		"iso2": "15",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Bursa",
+		"iso2": "16",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Çanakkale",
+		"iso2": "17",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Çankırı",
+		"iso2": "18",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Çorum",
+		"iso2": "19",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Denizli",
+		"iso2": "20",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Diyarbakır",
+		"iso2": "21",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Düzce",
+		"iso2": "81",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Edirne",
+		"iso2": "22",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Elazığ",
+		"iso2": "23",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Erzincan",
+		"iso2": "24",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Erzurum",
+		"iso2": "25",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Eskişehir",
+		"iso2": "26",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Gaziantep",
+		"iso2": "27",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Giresun",
+		"iso2": "28",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Gümüşhane",
+		"iso2": "29",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Hakkâri",
+		"iso2": "30",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Hatay",
+		"iso2": "31",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Iğdır",
+		"iso2": "76",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Isparta",
+		"iso2": "32",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "İstanbul",
+		"iso2": "34",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "İzmir",
+		"iso2": "35",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kahramanmaraş",
+		"iso2": "46",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Karabük",
+		"iso2": "78",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Karaman",
+		"iso2": "70",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kars",
+		"iso2": "36",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kastamonu",
+		"iso2": "37",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kayseri",
+		"iso2": "38",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kilis",
+		"iso2": "79",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kırıkkale",
+		"iso2": "71",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kırklareli",
+		"iso2": "39",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kırşehir",
+		"iso2": "40",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kocaeli",
+		"iso2": "41",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Konya",
+		"iso2": "42",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Kütahya",
+		"iso2": "43",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Malatya",
+		"iso2": "44",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Manisa",
+		"iso2": "45",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Mardin",
+		"iso2": "47",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Mersin",
+		"iso2": "33",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Muğla",
+		"iso2": "48",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Muş",
+		"iso2": "49",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Nevşehir",
+		"iso2": "50",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Niğde",
+		"iso2": "51",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Ordu",
+		"iso2": "52",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Osmaniye",
+		"iso2": "80",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Rize",
+		"iso2": "53",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Sakarya",
+		"iso2": "54",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Samsun",
+		"iso2": "55",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Şanlıurfa",
+		"iso2": "63",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Siirt",
+		"iso2": "56",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Sinop",
+		"iso2": "57",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Sivas",
+		"iso2": "58",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Şırnak",
+		"iso2": "73",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Tekirdağ",
+		"iso2": "59",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Tokat",
+		"iso2": "60",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Trabzon",
+		"iso2": "61",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Tunceli",
+		"iso2": "62",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Uşak",
+		"iso2": "64",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Van",
+		"iso2": "65",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Yalova",
+		"iso2": "77",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Yozgat",
+		"iso2": "66",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	},
+	{
+		"name": "Zonguldak",
+		"iso2": "67",
+		"type": "province",
+		"timezone": "Europe/Istanbul"
+	}
+]

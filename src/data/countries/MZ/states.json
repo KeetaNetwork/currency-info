@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Cabo Delgado",
+		"iso2": "P",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Gaza",
+		"iso2": "G",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Inhambane",
+		"iso2": "I",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Manica",
+		"iso2": "B",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Maputo",
+		"iso2": "L",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Maputo",
+		"iso2": "MPM",
+		"type": "city",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Nampula",
+		"iso2": "N",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Niassa",
+		"iso2": "A",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Sofala",
+		"iso2": "S",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Tete",
+		"iso2": "T",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	},
+	{
+		"name": "Zambezia",
+		"iso2": "Q",
+		"type": "province",
+		"timezone": "Africa/Maputo"
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Bocas del Toro",
+		"iso2": "1",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Chiriquí Province",
+		"iso2": "4",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Coclé",
+		"iso2": "2",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Colón",
+		"iso2": "3",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Darién",
+		"iso2": "5",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Emberá-Wounaan Comarca",
+		"iso2": "EM",
+		"type": "indigenous region",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Guna",
+		"iso2": "KY",
+		"type": "indigenous region",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Herrera",
+		"iso2": "6",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Los Santos",
+		"iso2": "7",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Naso Tjër Di",
+		"iso2": "NT",
+		"type": "indigenous region",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Ngöbe-Buglé Comarca",
+		"iso2": "NB",
+		"type": "indigenous region",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Panamá",
+		"iso2": "8",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Panamá Oeste",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "America/Panama"
+	},
+	{
+		"name": "Veraguas",
+		"iso2": "9",
+		"type": "province",
+		"timezone": "America/Panama"
+	}
+]

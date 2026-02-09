@@ -1,0 +1,260 @@
+[
+	{
+		"name": "Ādaži",
+		"iso2": "011",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Aizkraukle",
+		"iso2": "002",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Alūksne",
+		"iso2": "007",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Augšdaugava",
+		"iso2": "111",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Balvi",
+		"iso2": "015",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Bauska",
+		"iso2": "016",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Cēsis",
+		"iso2": "022",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Daugavpils",
+		"iso2": "DGV",
+		"type": "state city",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Dienvidkurzemes",
+		"iso2": "112",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Dobele",
+		"iso2": "026",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Gulbene",
+		"iso2": "033",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Jēkabpils",
+		"iso2": "042",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Jelgava",
+		"iso2": "041",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Jelgava",
+		"iso2": "JEL",
+		"type": "state city",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Jūrmala",
+		"iso2": "JUR",
+		"type": "state city",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Ķekava",
+		"iso2": "052",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Krāslava",
+		"iso2": "047",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Kuldīga",
+		"iso2": "050",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Liepāja",
+		"iso2": "LPX",
+		"type": "state city",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Limbaži",
+		"iso2": "054",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Līvāni",
+		"iso2": "056",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Ludza",
+		"iso2": "058",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Madona",
+		"iso2": "059",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Mārupe",
+		"iso2": "062",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Ogre",
+		"iso2": "067",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Olaine",
+		"iso2": "068",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Preiļi",
+		"iso2": "073",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Rēzekne",
+		"iso2": "REZ",
+		"type": "state city",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Rēzekne",
+		"iso2": "077",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Riga",
+		"iso2": "RIX",
+		"type": "state city",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Ropaži",
+		"iso2": "080",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Salaspils",
+		"iso2": "087",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Saldus",
+		"iso2": "088",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Saulkrasti",
+		"iso2": "089",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Sigulda",
+		"iso2": "091",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Smiltene",
+		"iso2": "094",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Talsi",
+		"iso2": "097",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Tukums",
+		"iso2": "099",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Valka",
+		"iso2": "101",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Valmiera",
+		"iso2": "113",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Varakļāni",
+		"iso2": "102",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Ventspils",
+		"iso2": "VEN",
+		"type": "state city",
+		"timezone": "Europe/Riga"
+	},
+	{
+		"name": "Ventspils",
+		"iso2": "106",
+		"type": "municipality",
+		"timezone": "Europe/Riga"
+	}
+]

@@ -1,0 +1,224 @@
+[
+	{
+		"name": "Abia",
+		"iso2": "AB",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Abuja Federal Capital Territory",
+		"iso2": "FC",
+		"type": "capital territory",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Adamawa",
+		"iso2": "AD",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Akwa Ibom",
+		"iso2": "AK",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Anambra",
+		"iso2": "AN",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Bauchi",
+		"iso2": "BA",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Bayelsa",
+		"iso2": "BY",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Benue",
+		"iso2": "BE",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Borno",
+		"iso2": "BO",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Cross River",
+		"iso2": "CR",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Delta",
+		"iso2": "DE",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Ebonyi",
+		"iso2": "EB",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Edo",
+		"iso2": "ED",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Ekiti",
+		"iso2": "EK",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Enugu",
+		"iso2": "EN",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Gombe",
+		"iso2": "GO",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Imo",
+		"iso2": "IM",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Jigawa",
+		"iso2": "JI",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Kaduna",
+		"iso2": "KD",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Kano",
+		"iso2": "KN",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Katsina",
+		"iso2": "KT",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Kebbi",
+		"iso2": "KE",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Kogi",
+		"iso2": "KO",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Kwara",
+		"iso2": "KW",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Lagos",
+		"iso2": "LA",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Nasarawa",
+		"iso2": "NA",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Niger",
+		"iso2": "NI",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Ogun",
+		"iso2": "OG",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Ondo",
+		"iso2": "ON",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Osun",
+		"iso2": "OS",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Oyo",
+		"iso2": "OY",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Plateau",
+		"iso2": "PL",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Rivers",
+		"iso2": "RI",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Sokoto",
+		"iso2": "SO",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Taraba",
+		"iso2": "TA",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Yobe",
+		"iso2": "YO",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	},
+	{
+		"name": "Zamfara",
+		"iso2": "ZA",
+		"type": "state",
+		"timezone": "Africa/Lagos"
+	}
+]

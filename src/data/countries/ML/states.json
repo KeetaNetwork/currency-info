@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Bamako",
+		"iso2": "BKO",
+		"type": "district",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Gao",
+		"iso2": "7",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Kayes",
+		"iso2": "1",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Kidal",
+		"iso2": "8",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Koulikoro",
+		"iso2": "2",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Ménaka",
+		"iso2": "9",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Mopti",
+		"iso2": "5",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Ségou",
+		"iso2": "4",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Sikasso",
+		"iso2": "3",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Taoudénit",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	},
+	{
+		"name": "Tombouctou",
+		"iso2": "6",
+		"type": "region",
+		"timezone": "Africa/Bamako"
+	}
+]

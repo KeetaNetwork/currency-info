@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Australian Capital Territory",
+		"iso2": "ACT",
+		"type": "territory",
+		"timezone": "Australia/Sydney"
+	},
+	{
+		"name": "New South Wales",
+		"iso2": "NSW",
+		"type": "state",
+		"timezone": "Australia/Sydney"
+	},
+	{
+		"name": "Northern Territory",
+		"iso2": "NT",
+		"type": "territory",
+		"timezone": "Australia/Darwin"
+	},
+	{
+		"name": "Queensland",
+		"iso2": "QLD",
+		"type": "state",
+		"timezone": "Australia/Brisbane"
+	},
+	{
+		"name": "South Australia",
+		"iso2": "SA",
+		"type": "state",
+		"timezone": "Australia/Adelaide"
+	},
+	{
+		"name": "Tasmania",
+		"iso2": "TAS",
+		"type": "state",
+		"timezone": "Australia/Hobart"
+	},
+	{
+		"name": "Victoria",
+		"iso2": "VIC",
+		"type": "state",
+		"timezone": "Australia/Melbourne"
+	},
+	{
+		"name": "Western Australia",
+		"iso2": "WA",
+		"type": "state",
+		"timezone": "Australia/Perth"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Eastern",
+		"iso2": "E",
+		"type": "province",
+		"timezone": "Africa/Freetown"
+	},
+	{
+		"name": "North Western",
+		"iso2": "NW",
+		"type": "province",
+		"timezone": "Africa/Freetown"
+	},
+	{
+		"name": "Northern",
+		"iso2": "N",
+		"type": "province",
+		"timezone": "Africa/Freetown"
+	},
+	{
+		"name": "Southern",
+		"iso2": "S",
+		"type": "province",
+		"timezone": "Africa/Freetown"
+	},
+	{
+		"name": "Western",
+		"iso2": "W",
+		"type": "area",
+		"timezone": "Africa/Freetown"
+	}
+]

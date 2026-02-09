@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Barima-Waini",
+		"iso2": "BA",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Cuyuni-Mazaruni",
+		"iso2": "CU",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Demerara-Mahaica",
+		"iso2": "DE",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "East Berbice-Corentyne",
+		"iso2": "EB",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Essequibo Islands-West Demerara",
+		"iso2": "ES",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Mahaica-Berbice",
+		"iso2": "MA",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Pomeroon-Supenaam",
+		"iso2": "PM",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Potaro-Siparuni",
+		"iso2": "PT",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Upper Demerara-Berbice",
+		"iso2": "UD",
+		"type": "region",
+		"timezone": "America/Guyana"
+	},
+	{
+		"name": "Upper Takutu-Upper Essequibo",
+		"iso2": "UT",
+		"type": "region",
+		"timezone": "America/Guyana"
+	}
+]

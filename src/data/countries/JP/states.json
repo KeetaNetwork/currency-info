@@ -1,0 +1,284 @@
+[
+	{
+		"name": "Aichi",
+		"iso2": "23",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Akita",
+		"iso2": "05",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Aomori",
+		"iso2": "02",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Chiba",
+		"iso2": "12",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Ehime",
+		"iso2": "38",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Fukui",
+		"iso2": "18",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Fukuoka",
+		"iso2": "40",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Fukushima",
+		"iso2": "07",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Gifu",
+		"iso2": "21",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Gunma",
+		"iso2": "10",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Hiroshima",
+		"iso2": "34",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Hokkaidō",
+		"iso2": "01",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Hyōgo",
+		"iso2": "28",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Ibaraki",
+		"iso2": "08",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Ishikawa",
+		"iso2": "17",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Iwate",
+		"iso2": "03",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Kagawa",
+		"iso2": "37",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Kagoshima",
+		"iso2": "46",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Kanagawa",
+		"iso2": "14",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Kōchi",
+		"iso2": "39",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Kumamoto",
+		"iso2": "43",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Kyōto",
+		"iso2": "26",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Mie",
+		"iso2": "24",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Miyagi",
+		"iso2": "04",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Miyazaki",
+		"iso2": "45",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Nagano",
+		"iso2": "20",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Nagasaki",
+		"iso2": "42",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Nara",
+		"iso2": "29",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Niigata",
+		"iso2": "15",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Ōita",
+		"iso2": "44",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Okayama",
+		"iso2": "33",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Okinawa",
+		"iso2": "47",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Ōsaka",
+		"iso2": "27",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Saga",
+		"iso2": "41",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Saitama",
+		"iso2": "11",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Shiga",
+		"iso2": "25",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Shimane",
+		"iso2": "32",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Shizuoka",
+		"iso2": "22",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Tochigi",
+		"iso2": "09",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Tokushima",
+		"iso2": "36",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Tokyo",
+		"iso2": "13",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Tottori",
+		"iso2": "31",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Toyama",
+		"iso2": "16",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Wakayama",
+		"iso2": "30",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Yamagata",
+		"iso2": "06",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Yamaguchi",
+		"iso2": "35",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	},
+	{
+		"name": "Yamanashi",
+		"iso2": "19",
+		"type": "prefecture",
+		"timezone": "Asia/Tokyo"
+	}
+]

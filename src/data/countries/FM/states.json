@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Chuuk",
+		"iso2": "TRK",
+		"type": "state",
+		"timezone": "Pacific/Chuuk"
+	},
+	{
+		"name": "Kosrae",
+		"iso2": "KSA",
+		"type": "state",
+		"timezone": "Pacific/Chuuk"
+	},
+	{
+		"name": "Pohnpei",
+		"iso2": "PNI",
+		"type": "state",
+		"timezone": "Pacific/Chuuk"
+	},
+	{
+		"name": "Yap",
+		"iso2": "YAP",
+		"type": "state",
+		"timezone": "Pacific/Chuuk"
+	}
+]

@@ -1,0 +1,188 @@
+[
+	{
+		"name": "Alborz",
+		"iso2": "30",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Ardabil",
+		"iso2": "24",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Bushehr",
+		"iso2": "18",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Chaharmahal and Bakhtiari",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "East Azerbaijan",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Fars",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Gilan",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Golestan",
+		"iso2": "27",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Hamadan",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Hormozgan",
+		"iso2": "22",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Ilam",
+		"iso2": "16",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Isfahan",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Kerman",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Kermanshah",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Khuzestan",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Kohgiluyeh and Boyer-Ahmad",
+		"iso2": "17",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Kurdistan",
+		"iso2": "12",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Lorestan",
+		"iso2": "15",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Markazi",
+		"iso2": "00",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Mazandaran",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "North Khorasan",
+		"iso2": "28",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Qazvin",
+		"iso2": "26",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Qom",
+		"iso2": "25",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Razavi Khorasan",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Semnan",
+		"iso2": "20",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Sistan and Baluchestan",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "South Khorasan",
+		"iso2": "29",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Tehran",
+		"iso2": "23",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "West Azarbaijan",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Yazd",
+		"iso2": "21",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	},
+	{
+		"name": "Zanjan",
+		"iso2": "19",
+		"type": "province",
+		"timezone": "Asia/Tehran"
+	}
+]

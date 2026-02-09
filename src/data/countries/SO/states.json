@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Awdal",
+		"iso2": "AW",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Bakool",
+		"iso2": "BK",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Banaadir",
+		"iso2": "BN",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Bari",
+		"iso2": "BR",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Bay",
+		"iso2": "BY",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Galguduud",
+		"iso2": "GA",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Gedo",
+		"iso2": "GE",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Hiran",
+		"iso2": "HI",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Lower Juba",
+		"iso2": "JH",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Lower Shebelle",
+		"iso2": "SH",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Middle Juba",
+		"iso2": "JD",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Middle Shebelle",
+		"iso2": "SD",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Mudug",
+		"iso2": "MU",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Nugal",
+		"iso2": "NU",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Sanaag",
+		"iso2": "SA",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Sool",
+		"iso2": "SO",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Togdheer",
+		"iso2": "TO",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	},
+	{
+		"name": "Woqooyi Galbeed",
+		"iso2": "WO",
+		"type": "region",
+		"timezone": "Africa/Mogadishu"
+	}
+]

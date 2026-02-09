@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Boaco",
+		"iso2": "BO",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Carazo",
+		"iso2": "CA",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Chinandega",
+		"iso2": "CI",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Chontales",
+		"iso2": "CO",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Estelí",
+		"iso2": "ES",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Granada",
+		"iso2": "GR",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Jinotega",
+		"iso2": "JI",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "León",
+		"iso2": "LE",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Madriz",
+		"iso2": "MD",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Managua",
+		"iso2": "MN",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Masaya",
+		"iso2": "MS",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Matagalpa",
+		"iso2": "MT",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "North Caribbean Coast",
+		"iso2": "AN",
+		"type": "autonomous region",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Nueva Segovia",
+		"iso2": "NS",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Río San Juan",
+		"iso2": "SJ",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "Rivas",
+		"iso2": "RI",
+		"type": "department",
+		"timezone": "America/Managua"
+	},
+	{
+		"name": "South Caribbean Coast",
+		"iso2": "AS",
+		"type": "autonomous region",
+		"timezone": "America/Managua"
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Burgenland",
+		"iso2": "1",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Carinthia",
+		"iso2": "2",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Lower Austria",
+		"iso2": "3",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Salzburg",
+		"iso2": "5",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Styria",
+		"iso2": "6",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Tyrol",
+		"iso2": "7",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Upper Austria",
+		"iso2": "4",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Vienna",
+		"iso2": "9",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	},
+	{
+		"name": "Vorarlberg",
+		"iso2": "8",
+		"type": "state",
+		"timezone": "Europe/Vienna"
+	}
+]

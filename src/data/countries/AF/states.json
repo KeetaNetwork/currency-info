@@ -1,0 +1,206 @@
+[
+	{
+		"name": "Badakhshan",
+		"iso2": "BDS",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Badghis",
+		"iso2": "BDG",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Baghlan",
+		"iso2": "BGL",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Balkh",
+		"iso2": "BAL",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Bamyan",
+		"iso2": "BAM",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Daykundi",
+		"iso2": "DAY",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Farah",
+		"iso2": "FRA",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Faryab",
+		"iso2": "FYB",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Ghazni",
+		"iso2": "GHA",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Ghōr",
+		"iso2": "GHO",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Helmand",
+		"iso2": "HEL",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Herat",
+		"iso2": "HER",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Jowzjan",
+		"iso2": "JOW",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Kabul",
+		"iso2": "KAB",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Kandahar",
+		"iso2": "KAN",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Kapisa",
+		"iso2": "KAP",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Khost",
+		"iso2": "KHO",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Kunar",
+		"iso2": "KNR",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Kunduz Province",
+		"iso2": "KDZ",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Laghman",
+		"iso2": "LAG",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Logar",
+		"iso2": "LOG",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Nangarhar",
+		"iso2": "NAN",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Nimruz",
+		"iso2": "NIM",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Nuristan",
+		"iso2": "NUR",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Paktia",
+		"iso2": "PIA",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Paktika",
+		"iso2": "PKA",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Panjshir",
+		"iso2": "PAN",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Parwan",
+		"iso2": "PAR",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Samangan",
+		"iso2": "SAM",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Sar-e Pol",
+		"iso2": "SAR",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Takhar",
+		"iso2": "TAK",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Urozgan",
+		"iso2": "URU",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Wardak",
+		"iso2": "WAR",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	},
+	{
+		"name": "Zabul",
+		"iso2": "ZAB",
+		"type": "province",
+		"timezone": "Asia/Kabul"
+	}
+]

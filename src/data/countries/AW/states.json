@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Noord",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "Oranjestad",
+		"iso2": "09",
+		"type": "capital city",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "Oranjestad East",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "Oranjestad West",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "Paradera",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "San Nicolaas Noord",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "San Nicolaas Zuid",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "Santa Cruz",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "America/Aruba"
+	},
+	{
+		"name": "Savaneta",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "America/Aruba"
+	}
+]

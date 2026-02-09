@@ -1,0 +1,524 @@
+[
+	{
+		"name": "Agadir-Ida-Ou-Tanane",
+		"iso2": "AGD",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Al Haouz",
+		"iso2": "HAO",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Al Hoceïma",
+		"iso2": "HOC",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Aousserd (EH)",
+		"iso2": "AOU",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Assa-Zag (EH-partial)",
+		"iso2": "ASZ",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Azilal",
+		"iso2": "AZI",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Béni Mellal",
+		"iso2": "BEM",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Béni Mellal-Khénifra",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Benslimane",
+		"iso2": "BES",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Berkane",
+		"iso2": "BER",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Berrechid",
+		"iso2": "BRR",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Boujdour (EH)",
+		"iso2": "BOD",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Boulemane",
+		"iso2": "BOM",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Casablanca",
+		"iso2": "CAS",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Casablanca-Settat",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Chefchaouen",
+		"iso2": "CHE",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Chichaoua",
+		"iso2": "CHI",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Chtouka-Ait Baha",
+		"iso2": "CHT",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Dakhla-Oued Ed-Dahab (EH)",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Drâa-Tafilalet",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Driouch",
+		"iso2": "DRI",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "El Hajeb",
+		"iso2": "HAJ",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "El Jadida",
+		"iso2": "JDI",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "El Kelâa des Sraghna",
+		"iso2": "KES",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Errachidia",
+		"iso2": "ERR",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Es-Semara (EH-partial)",
+		"iso2": "ESM",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Essaouira",
+		"iso2": "ESI",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Fahs-Anjra",
+		"iso2": "FAH",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Fès",
+		"iso2": "FES",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Fès-Meknès",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Figuig",
+		"iso2": "FIG",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Fquih Ben Salah",
+		"iso2": "FQH",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Guelmim",
+		"iso2": "GUE",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Guelmim-Oued Noun (EH-partial)",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Guercif",
+		"iso2": "GUF",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Ifrane",
+		"iso2": "IFR",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Inezgane-Ait Melloul",
+		"iso2": "INE",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Jerada",
+		"iso2": "JRA",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Kénitra",
+		"iso2": "KEN",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Khémisset",
+		"iso2": "KHE",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Khénifra",
+		"iso2": "KHN",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Khouribga",
+		"iso2": "KHO",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "L'Oriental",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Laâyoune (EH)",
+		"iso2": "LAA",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Laâyoune-Sakia El Hamra (EH-partial)",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Larache",
+		"iso2": "LAR",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "M’diq-Fnideq",
+		"iso2": "MDF",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Marrakech",
+		"iso2": "MAR",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Marrakesh-Safi",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Médiouna",
+		"iso2": "MED",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Meknès",
+		"iso2": "MEK",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Midelt",
+		"iso2": "MID",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Mohammadia",
+		"iso2": "MOH",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Moulay Yacoub",
+		"iso2": "MOU",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Nador",
+		"iso2": "NAD",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Nouaceur",
+		"iso2": "NOU",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Ouarzazate",
+		"iso2": "OUA",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Oued Ed-Dahab (EH)",
+		"iso2": "OUD",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Ouezzane",
+		"iso2": "OUZ",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Oujda-Angad",
+		"iso2": "OUJ",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Rabat",
+		"iso2": "RAB",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Rabat-Salé-Kénitra",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Rehamna",
+		"iso2": "REH",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Safi",
+		"iso2": "SAF",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Salé",
+		"iso2": "SAL",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Sefrou",
+		"iso2": "SEF",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Settat",
+		"iso2": "SET",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Sidi Bennour",
+		"iso2": "SIB",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Sidi Ifni",
+		"iso2": "SIF",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Sidi Kacem",
+		"iso2": "SIK",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Sidi Slimane",
+		"iso2": "SIL",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Skhirate-Témara",
+		"iso2": "SKH",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Souss-Massa",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tan-Tan (EH-partial)",
+		"iso2": "TNT",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tanger-Assilah",
+		"iso2": "TNG",
+		"type": "prefecture",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tanger-Tétouan-Al Hoceïma",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Taounate",
+		"iso2": "TAO",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Taourirt",
+		"iso2": "TAI",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tarfaya (EH-partial)",
+		"iso2": "TAF",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Taroudannt",
+		"iso2": "TAR",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tata",
+		"iso2": "TAT",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Taza",
+		"iso2": "TAZ",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tétouan",
+		"iso2": "TET",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tinghir",
+		"iso2": "TIN",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Tiznit",
+		"iso2": "TIZ",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Youssoufia",
+		"iso2": "YUS",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	},
+	{
+		"name": "Zagora",
+		"iso2": "ZAG",
+		"type": "province",
+		"timezone": "Africa/Casablanca"
+	}
+]

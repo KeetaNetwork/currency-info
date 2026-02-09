@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Eastern Cape",
+		"iso2": "EC",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "Free State",
+		"iso2": "FS",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "Gauteng",
+		"iso2": "GP",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "KwaZulu-Natal",
+		"iso2": "KZN",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "Limpopo",
+		"iso2": "LP",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "Mpumalanga",
+		"iso2": "MP",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "North West",
+		"iso2": "NW",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "Northern Cape",
+		"iso2": "NC",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	},
+	{
+		"name": "Western Cape",
+		"iso2": "WC",
+		"type": "province",
+		"timezone": "Africa/Johannesburg"
+	}
+]

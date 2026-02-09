@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Alibori",
+		"iso2": "AL",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Atakora",
+		"iso2": "AK",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Atlantique",
+		"iso2": "AQ",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Borgou",
+		"iso2": "BO",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Collines",
+		"iso2": "CO",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Donga",
+		"iso2": "DO",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Kouffo",
+		"iso2": "KO",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Littoral",
+		"iso2": "LI",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Mono",
+		"iso2": "MO",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Ouémé",
+		"iso2": "OU",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Plateau",
+		"iso2": "PL",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	},
+	{
+		"name": "Zou",
+		"iso2": "ZO",
+		"type": "department",
+		"timezone": "Africa/Porto-Novo"
+	}
+]

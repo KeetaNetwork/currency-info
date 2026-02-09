@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Bougainville",
+		"iso2": "NSB",
+		"type": "autonomous region",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Central",
+		"iso2": "CPM",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Chimbu",
+		"iso2": "CPK",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "East New Britain",
+		"iso2": "EBR",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "East Sepik",
+		"iso2": "ESW",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Eastern Highlands",
+		"iso2": "EHG",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Enga",
+		"iso2": "EPW",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Gulf",
+		"iso2": "GPK",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Hela",
+		"iso2": "HLA",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Jiwaka",
+		"iso2": "JWK",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Madang",
+		"iso2": "MPM",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Manus",
+		"iso2": "MRL",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Milne Bay",
+		"iso2": "MBA",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Morobe",
+		"iso2": "MPL",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "New Ireland",
+		"iso2": "NIK",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Oro",
+		"iso2": "NPP",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Port Moresby",
+		"iso2": "NCD",
+		"type": "district",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Sandaun",
+		"iso2": "SAN",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Southern Highlands",
+		"iso2": "SHM",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "West New Britain",
+		"iso2": "WBK",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Western",
+		"iso2": "WPD",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	},
+	{
+		"name": "Western Highlands",
+		"iso2": "WHM",
+		"type": "province",
+		"timezone": "Pacific/Bougainville"
+	}
+]

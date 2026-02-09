@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Artibonite",
+		"iso2": "AR",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Centre",
+		"iso2": "CE",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Grand'Anse",
+		"iso2": "GA",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Nippes",
+		"iso2": "NI",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Nord",
+		"iso2": "ND",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Nord-Est",
+		"iso2": "NE",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Nord-Ouest",
+		"iso2": "NO",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Ouest",
+		"iso2": "OU",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Sud",
+		"iso2": "SD",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	},
+	{
+		"name": "Sud-Est",
+		"iso2": "SE",
+		"type": "department",
+		"timezone": "America/Port-au-Prince"
+	}
+]

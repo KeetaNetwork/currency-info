@@ -1,0 +1,1274 @@
+[
+	{
+		"name": "Ajdovščina",
+		"iso2": "001",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ankaran",
+		"iso2": "213",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Apače",
+		"iso2": "195",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Beltinci",
+		"iso2": "002",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Benedikt",
+		"iso2": "148",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Bistrica ob Sotli",
+		"iso2": "149",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Bled",
+		"iso2": "003",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Bloke",
+		"iso2": "150",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Bohinj",
+		"iso2": "004",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Borovnica",
+		"iso2": "005",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Bovec",
+		"iso2": "006",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Braslovče",
+		"iso2": "151",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Brda",
+		"iso2": "007",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Brežice",
+		"iso2": "009",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Brezovica",
+		"iso2": "008",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Cankova",
+		"iso2": "152",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Celje",
+		"iso2": "011",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Cerklje na Gorenjskem",
+		"iso2": "012",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Cerknica",
+		"iso2": "013",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Cerkno",
+		"iso2": "014",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Cerkvenjak",
+		"iso2": "153",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Cirkulane",
+		"iso2": "196",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Črenšovci",
+		"iso2": "015",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Črna na Koroškem",
+		"iso2": "016",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Črnomelj",
+		"iso2": "017",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Destrnik",
+		"iso2": "018",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Divača",
+		"iso2": "019",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dobje",
+		"iso2": "154",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dobrepolje",
+		"iso2": "020",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dobrna",
+		"iso2": "155",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dobrova–Polhov Gradec",
+		"iso2": "021",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dobrovnik",
+		"iso2": "156",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dol pri Ljubljani",
+		"iso2": "022",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dolenjske Toplice",
+		"iso2": "157",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Domžale",
+		"iso2": "023",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dornava",
+		"iso2": "024",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Dravograd",
+		"iso2": "025",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Duplek",
+		"iso2": "026",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Gorenja Vas–Poljane",
+		"iso2": "027",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Gorišnica",
+		"iso2": "028",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Gorje",
+		"iso2": "207",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Gornja Radgona",
+		"iso2": "029",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Gornji Grad",
+		"iso2": "030",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Gornji Petrovci",
+		"iso2": "031",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Grad",
+		"iso2": "158",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Grosuplje",
+		"iso2": "032",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Hajdina",
+		"iso2": "159",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Hoče–Slivnica",
+		"iso2": "160",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Hodoš",
+		"iso2": "161",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Horjul",
+		"iso2": "162",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Hrastnik",
+		"iso2": "034",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Hrpelje–Kozina",
+		"iso2": "035",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Idrija",
+		"iso2": "036",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ig",
+		"iso2": "037",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ilirska Bistrica",
+		"iso2": "038",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ivančna Gorica",
+		"iso2": "039",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Izola",
+		"iso2": "040",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Jesenice",
+		"iso2": "041",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Jezersko",
+		"iso2": "163",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Juršinci",
+		"iso2": "042",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kamnik",
+		"iso2": "043",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kanal ob Soči",
+		"iso2": "044",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kidričevo",
+		"iso2": "045",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kobarid",
+		"iso2": "046",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kobilje",
+		"iso2": "047",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kočevje",
+		"iso2": "048",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Komen",
+		"iso2": "049",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Komenda",
+		"iso2": "164",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Koper",
+		"iso2": "050",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kostanjevica na Krki",
+		"iso2": "197",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kostel",
+		"iso2": "165",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kozje",
+		"iso2": "051",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kranj",
+		"iso2": "052",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kranjska Gora",
+		"iso2": "053",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Križevci",
+		"iso2": "166",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Krško",
+		"iso2": "054",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kungota",
+		"iso2": "055",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Kuzma",
+		"iso2": "056",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Laško",
+		"iso2": "057",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Lenart",
+		"iso2": "058",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Lendava",
+		"iso2": "059",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Litija",
+		"iso2": "060",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ljubljana",
+		"iso2": "061",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ljubno",
+		"iso2": "062",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ljutomer",
+		"iso2": "063",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Log–Dragomer",
+		"iso2": "208",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Logatec",
+		"iso2": "064",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Loška Dolina",
+		"iso2": "065",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Loški Potok",
+		"iso2": "066",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Lovrenc na Pohorju",
+		"iso2": "167",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Luče",
+		"iso2": "067",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Lukovica",
+		"iso2": "068",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Majšperk",
+		"iso2": "069",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Makole",
+		"iso2": "198",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Maribor",
+		"iso2": "070",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Markovci",
+		"iso2": "168",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Medvode",
+		"iso2": "071",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Mengeš",
+		"iso2": "072",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Metlika",
+		"iso2": "073",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Mežica",
+		"iso2": "074",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Miklavž na Dravskem Polju",
+		"iso2": "169",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Miren–Kostanjevica",
+		"iso2": "075",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Mirna",
+		"iso2": "212",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Mirna Peč",
+		"iso2": "170",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Mislinja",
+		"iso2": "076",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Mokronog–Trebelno",
+		"iso2": "199",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Moravče",
+		"iso2": "077",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Moravske Toplice",
+		"iso2": "078",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Mozirje",
+		"iso2": "079",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Murska Sobota",
+		"iso2": "080",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Muta",
+		"iso2": "081",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Naklo",
+		"iso2": "082",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Nazarje",
+		"iso2": "083",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Nova Gorica",
+		"iso2": "084",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Novo Mesto",
+		"iso2": "085",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Odranci",
+		"iso2": "086",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Oplotnica",
+		"iso2": "171",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ormož",
+		"iso2": "087",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Osilnica",
+		"iso2": "088",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Pesnica",
+		"iso2": "089",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Piran",
+		"iso2": "090",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Pivka",
+		"iso2": "091",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Podčetrtek",
+		"iso2": "092",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Podlehnik",
+		"iso2": "172",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Podvelka",
+		"iso2": "093",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Poljčane",
+		"iso2": "200",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Polzela",
+		"iso2": "173",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Postojna",
+		"iso2": "094",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Prebold",
+		"iso2": "174",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Preddvor",
+		"iso2": "095",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Prevalje",
+		"iso2": "175",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ptuj",
+		"iso2": "096",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Puconci",
+		"iso2": "097",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Rače–Fram",
+		"iso2": "098",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Radeče",
+		"iso2": "099",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Radenci",
+		"iso2": "100",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Radlje ob Dravi",
+		"iso2": "101",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Radovljica",
+		"iso2": "102",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ravne na Koroškem",
+		"iso2": "103",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Razkrižje",
+		"iso2": "176",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Rečica ob Savinji",
+		"iso2": "209",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Renče–Vogrsko",
+		"iso2": "201",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ribnica",
+		"iso2": "104",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ribnica na Pohorju",
+		"iso2": "177",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Rogaška Slatina",
+		"iso2": "106",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Rogašovci",
+		"iso2": "105",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Rogatec",
+		"iso2": "107",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Ruše",
+		"iso2": "108",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šalovci",
+		"iso2": "033",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Selnica ob Dravi",
+		"iso2": "178",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Semič",
+		"iso2": "109",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šempeter–Vrtojba",
+		"iso2": "183",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šenčur",
+		"iso2": "117",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šentilj",
+		"iso2": "118",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šentjernej",
+		"iso2": "119",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šentjur",
+		"iso2": "120",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šentrupert",
+		"iso2": "211",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sevnica",
+		"iso2": "110",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sežana",
+		"iso2": "111",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Škocjan",
+		"iso2": "121",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Škofja Loka",
+		"iso2": "122",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Škofljica",
+		"iso2": "123",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Slovenj Gradec",
+		"iso2": "112",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Slovenska Bistrica",
+		"iso2": "113",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Slovenske Konjice",
+		"iso2": "114",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šmarje pri Jelšah",
+		"iso2": "124",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šmarješke Toplice",
+		"iso2": "206",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šmartno ob Paki",
+		"iso2": "125",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šmartno pri Litiji",
+		"iso2": "194",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sodražica",
+		"iso2": "179",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Solčava",
+		"iso2": "180",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Šoštanj",
+		"iso2": "126",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Središče ob Dravi",
+		"iso2": "202",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Starše",
+		"iso2": "115",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Štore",
+		"iso2": "127",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Straža",
+		"iso2": "203",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sveta Ana",
+		"iso2": "181",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sveta Trojica v Slovenskih Goricah",
+		"iso2": "204",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sveti Andraž v Slovenskih Goricah",
+		"iso2": "182",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sveti Jurij ob Ščavnici",
+		"iso2": "116",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sveti Jurij v Slovenskih Goricah",
+		"iso2": "210",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Sveti Tomaž",
+		"iso2": "205",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Tabor",
+		"iso2": "184",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Tišina",
+		"iso2": "010",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Tolmin",
+		"iso2": "128",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Trbovlje",
+		"iso2": "129",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Trebnje",
+		"iso2": "130",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Trnovska Vas",
+		"iso2": "185",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Tržič",
+		"iso2": "131",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Trzin",
+		"iso2": "186",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Turnišče",
+		"iso2": "132",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Velenje",
+		"iso2": "133",
+		"type": "urban municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Velika Polana",
+		"iso2": "187",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Velike Lašče",
+		"iso2": "134",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Veržej",
+		"iso2": "188",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Videm",
+		"iso2": "135",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Vipava",
+		"iso2": "136",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Vitanje",
+		"iso2": "137",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Vodice",
+		"iso2": "138",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Vojnik",
+		"iso2": "139",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Vransko",
+		"iso2": "189",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Vrhnika",
+		"iso2": "140",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Vuzenica",
+		"iso2": "141",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Zagorje ob Savi",
+		"iso2": "142",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Žalec",
+		"iso2": "190",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Zavrč",
+		"iso2": "143",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Železniki",
+		"iso2": "146",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Žetale",
+		"iso2": "191",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Žiri",
+		"iso2": "147",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Žirovnica",
+		"iso2": "192",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Zreče",
+		"iso2": "144",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	},
+	{
+		"name": "Žužemberk",
+		"iso2": "193",
+		"type": "municipality",
+		"timezone": "Europe/Ljubljana"
+	}
+]

@@ -1,0 +1,140 @@
+[
+	{
+		"name": "Bahr el Gazel",
+		"iso2": "BG",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Batha",
+		"iso2": "BA",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Borkou",
+		"iso2": "BO",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Chari-Baguirmi",
+		"iso2": "CB",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Ennedi-Est",
+		"iso2": "EE",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Ennedi-Ouest",
+		"iso2": "EO",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Guéra",
+		"iso2": "GR",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Hadjer-Lamis",
+		"iso2": "HL",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Kanem",
+		"iso2": "KA",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Lac",
+		"iso2": "LC",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Logone Occidental",
+		"iso2": "LO",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Logone Oriental",
+		"iso2": "LR",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Mandoul",
+		"iso2": "MA",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Mayo-Kebbi Est",
+		"iso2": "ME",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Mayo-Kebbi Ouest",
+		"iso2": "MO",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Moyen-Chari",
+		"iso2": "MC",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "N'Djamena",
+		"iso2": "ND",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Ouaddaï",
+		"iso2": "OD",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Salamat",
+		"iso2": "SA",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Sila",
+		"iso2": "SI",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Tandjilé",
+		"iso2": "TA",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Tibesti",
+		"iso2": "TI",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	},
+	{
+		"name": "Wadi Fira",
+		"iso2": "WF",
+		"type": "province",
+		"timezone": "Africa/Ndjamena"
+	}
+]

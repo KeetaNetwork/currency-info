@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Saint-Benoît",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Indian/Reunion"
+	},
+	{
+		"name": "Saint-Denis",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Indian/Reunion"
+	},
+	{
+		"name": "Saint-Paul",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Indian/Reunion"
+	},
+	{
+		"name": "Saint-Pierre",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Indian/Reunion"
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Saint Andrew",
+		"iso2": "02",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint David",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint George",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint John",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint Joseph",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint Luke",
+		"iso2": "07",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint Mark",
+		"iso2": "08",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint Patrick",
+		"iso2": "09",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint Paul",
+		"iso2": "10",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	},
+	{
+		"name": "Saint Peter",
+		"iso2": "11",
+		"type": "parish",
+		"timezone": "America/Dominica"
+	}
+]

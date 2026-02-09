@@ -1,5 +1,6 @@
 import { defineConfig } from 'tsdown';
 import { generateFlagsFile } from './scripts/generate-flags-file';
+import { generateStatesFile } from './scripts/generate-states-file';
 import Raw from "unplugin-raw/rollup";
 import path from "node:path";
 import fs from "node:fs";
@@ -17,6 +18,20 @@ function genFlagsPlugin() {
 	};
 }
 
+function genStatesPlugin() {
+	return {
+		name: "gen-states",
+		async buildStart() {
+			const dir = path.join(__dirname, "src", "data", "countries");
+			for (const f of fs.readdirSync(dir)) {
+				const statesFile = path.join(dir, f, "states.json");
+				if (fs.existsSync(statesFile)) this.addWatchFile(statesFile);
+			}
+			generateStatesFile();
+		},
+	};
+}
+
 export default defineConfig({
 	entry: ['./src/index.ts'],
 	platform: "neutral",
@@ -30,6 +45,7 @@ export default defineConfig({
 	],
 	plugins: [
 		genFlagsPlugin(),
+		genStatesPlugin(),
 		Raw({ include: ["**/*.svg"] }),
 	],
 	outputOptions: {

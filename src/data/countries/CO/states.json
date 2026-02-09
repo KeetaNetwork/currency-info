@@ -1,0 +1,200 @@
+[
+	{
+		"name": "Amazonas",
+		"iso2": "AMA",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Antioquia",
+		"iso2": "ANT",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Arauca",
+		"iso2": "ARA",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Atlántico",
+		"iso2": "ATL",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Bogotá D.C.",
+		"iso2": "DC",
+		"type": "capital district",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Bolívar",
+		"iso2": "BOL",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Boyacá",
+		"iso2": "BOY",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Caldas",
+		"iso2": "CAL",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Caquetá",
+		"iso2": "CAQ",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Casanare",
+		"iso2": "CAS",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Cauca",
+		"iso2": "CAU",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Cesar",
+		"iso2": "CES",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Chocó",
+		"iso2": "CHO",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Córdoba",
+		"iso2": "COR",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Cundinamarca",
+		"iso2": "CUN",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Guainía",
+		"iso2": "GUA",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Guaviare",
+		"iso2": "GUV",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Huila",
+		"iso2": "HUI",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "La Guajira",
+		"iso2": "LAG",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Magdalena",
+		"iso2": "MAG",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Meta",
+		"iso2": "MET",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Nariño",
+		"iso2": "NAR",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Norte de Santander",
+		"iso2": "NSA",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Putumayo",
+		"iso2": "PUT",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Quindío",
+		"iso2": "QUI",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Risaralda",
+		"iso2": "RIS",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "San Andrés, Providencia y Santa Catalina",
+		"iso2": "SAP",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Santander",
+		"iso2": "SAN",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Sucre",
+		"iso2": "SUC",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Tolima",
+		"iso2": "TOL",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Valle del Cauca",
+		"iso2": "VAC",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Vaupés",
+		"iso2": "VAU",
+		"type": "department",
+		"timezone": "America/Bogota"
+	},
+	{
+		"name": "Vichada",
+		"iso2": "VID",
+		"type": "department",
+		"timezone": "America/Bogota"
+	}
+]

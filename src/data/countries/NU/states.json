@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Alofi North",
+		"iso2": "14",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Alofi South",
+		"iso2": "13",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Avatele",
+		"iso2": "11",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Hakupu",
+		"iso2": "09",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Hikutavake",
+		"iso2": "04",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Lakepa",
+		"iso2": "07",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Liku",
+		"iso2": "08",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Makefu",
+		"iso2": "01",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Mutalau",
+		"iso2": "06",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Namukulu",
+		"iso2": "03",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Tamakautoga",
+		"iso2": "12",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Toi",
+		"iso2": "05",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Tuapa",
+		"iso2": "02",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	},
+	{
+		"name": "Vaiea",
+		"iso2": "10",
+		"type": "village",
+		"timezone": "Pacific/Niue"
+	}
+]

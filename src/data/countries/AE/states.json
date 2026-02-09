@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Abu Dhabi",
+		"iso2": "AZ",
+		"type": "emirate",
+		"timezone": "Asia/Dubai"
+	},
+	{
+		"name": "Ajman",
+		"iso2": "AJ",
+		"type": "emirate",
+		"timezone": "Asia/Dubai"
+	},
+	{
+		"name": "Dubai",
+		"iso2": "DU",
+		"type": "emirate",
+		"timezone": "Asia/Dubai"
+	},
+	{
+		"name": "Fujairah",
+		"iso2": "FU",
+		"type": "emirate",
+		"timezone": "Asia/Dubai"
+	},
+	{
+		"name": "Ras Al Khaimah",
+		"iso2": "RK",
+		"type": "emirate",
+		"timezone": "Asia/Dubai"
+	},
+	{
+		"name": "Sharjah",
+		"iso2": "SH",
+		"type": "emirate",
+		"timezone": "Asia/Dubai"
+	},
+	{
+		"name": "Umm Al Quwain",
+		"iso2": "UQ",
+		"type": "emirate",
+		"timezone": "Asia/Dubai"
+	}
+]

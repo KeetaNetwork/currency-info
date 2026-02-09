@@ -1,0 +1,284 @@
+[
+	{
+		"name": "Baringo",
+		"iso2": "01",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Bomet",
+		"iso2": "02",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Bungoma",
+		"iso2": "03",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Busia",
+		"iso2": "04",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Elgeyo-Marakwet",
+		"iso2": "05",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Embu",
+		"iso2": "06",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Garissa",
+		"iso2": "07",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Homa Bay",
+		"iso2": "08",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Isiolo",
+		"iso2": "09",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kajiado",
+		"iso2": "10",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kakamega",
+		"iso2": "11",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kericho",
+		"iso2": "12",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kiambu",
+		"iso2": "13",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kilifi",
+		"iso2": "14",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kirinyaga",
+		"iso2": "15",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kisii",
+		"iso2": "16",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kisumu",
+		"iso2": "17",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kitui",
+		"iso2": "18",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Kwale",
+		"iso2": "19",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Laikipia",
+		"iso2": "20",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Lamu",
+		"iso2": "21",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Machakos",
+		"iso2": "22",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Makueni",
+		"iso2": "23",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Mandera",
+		"iso2": "24",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Marsabit",
+		"iso2": "25",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Meru",
+		"iso2": "26",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Migori",
+		"iso2": "27",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Mombasa",
+		"iso2": "28",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Murang'a",
+		"iso2": "29",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Nairobi City",
+		"iso2": "30",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Nakuru",
+		"iso2": "31",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Nandi",
+		"iso2": "32",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Narok",
+		"iso2": "33",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Nyamira",
+		"iso2": "34",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Nyandarua",
+		"iso2": "35",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Nyeri",
+		"iso2": "36",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Samburu",
+		"iso2": "37",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Siaya",
+		"iso2": "38",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Taita–Taveta",
+		"iso2": "39",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Tana River",
+		"iso2": "40",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Tharaka-Nithi",
+		"iso2": "41",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Trans Nzoia",
+		"iso2": "42",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Turkana",
+		"iso2": "43",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Uasin Gishu",
+		"iso2": "44",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Vihiga",
+		"iso2": "45",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "Wajir",
+		"iso2": "46",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	},
+	{
+		"name": "West Pokot",
+		"iso2": "47",
+		"type": "county",
+		"timezone": "Africa/Nairobi"
+	}
+]

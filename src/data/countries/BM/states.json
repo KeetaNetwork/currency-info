@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Devonshire",
+		"iso2": "DEV",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Hamilton",
+		"iso2": "HA",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Paget",
+		"iso2": "PAG",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Pembroke",
+		"iso2": "PEM",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Saint George's",
+		"iso2": "SGE",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Sandys",
+		"iso2": "SAN",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Smith's",
+		"iso2": "SMI",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Southampton",
+		"iso2": "SOU",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	},
+	{
+		"name": "Warwick",
+		"iso2": "WAR",
+		"type": "municipality",
+		"timezone": "Atlantic/Bermuda"
+	}
+]

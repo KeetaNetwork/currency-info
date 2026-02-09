@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Autonomous City of Buenos Aires",
+		"iso2": "C",
+		"type": "city",
+		"timezone": "America/Argentina/Buenos_Aires"
+	},
+	{
+		"name": "Buenos Aires",
+		"iso2": "B",
+		"type": "province",
+		"timezone": "America/Argentina/Buenos_Aires"
+	},
+	{
+		"name": "Catamarca",
+		"iso2": "K",
+		"type": "province",
+		"timezone": "America/Argentina/Catamarca"
+	},
+	{
+		"name": "Chaco",
+		"iso2": "H",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Chubut",
+		"iso2": "U",
+		"type": "province",
+		"timezone": "America/Argentina/Catamarca"
+	},
+	{
+		"name": "Córdoba",
+		"iso2": "X",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Corrientes",
+		"iso2": "W",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Entre Ríos",
+		"iso2": "E",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Formosa",
+		"iso2": "P",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Jujuy",
+		"iso2": "Y",
+		"type": "province",
+		"timezone": "America/Argentina/Jujuy"
+	},
+	{
+		"name": "La Pampa",
+		"iso2": "L",
+		"type": "province",
+		"timezone": "America/Argentina/Buenos_Aires"
+	},
+	{
+		"name": "La Rioja",
+		"iso2": "F",
+		"type": "province",
+		"timezone": "America/Argentina/La_Rioja"
+	},
+	{
+		"name": "Mendoza",
+		"iso2": "M",
+		"type": "province",
+		"timezone": "America/Argentina/Mendoza"
+	},
+	{
+		"name": "Misiones",
+		"iso2": "N",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Neuquén",
+		"iso2": "Q",
+		"type": "province",
+		"timezone": "America/Argentina/Salta"
+	},
+	{
+		"name": "Río Negro",
+		"iso2": "R",
+		"type": "province",
+		"timezone": "America/Argentina/Salta"
+	},
+	{
+		"name": "Salta",
+		"iso2": "A",
+		"type": "province",
+		"timezone": "America/Argentina/Salta"
+	},
+	{
+		"name": "San Juan",
+		"iso2": "J",
+		"type": "province",
+		"timezone": "America/Argentina/San_Juan"
+	},
+	{
+		"name": "San Luis",
+		"iso2": "D",
+		"type": "province",
+		"timezone": "America/Argentina/San_Luis"
+	},
+	{
+		"name": "Santa Cruz",
+		"iso2": "Z",
+		"type": "province",
+		"timezone": "America/Argentina/Rio_Gallegos"
+	},
+	{
+		"name": "Santa Fe",
+		"iso2": "S",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Santiago del Estero",
+		"iso2": "G",
+		"type": "province",
+		"timezone": "America/Argentina/Cordoba"
+	},
+	{
+		"name": "Tierra del Fuego",
+		"iso2": "V",
+		"type": "province",
+		"timezone": "America/Argentina/Ushuaia"
+	},
+	{
+		"name": "Tucumán",
+		"iso2": "T",
+		"type": "province",
+		"timezone": "America/Argentina/Tucuman"
+	}
+]

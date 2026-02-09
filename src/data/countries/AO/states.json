@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Bengo",
+		"iso2": "BGO",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Benguela",
+		"iso2": "BGU",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Bié",
+		"iso2": "BIE",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Cabinda",
+		"iso2": "CAB",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Cuando Cubango",
+		"iso2": "CCU",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Cuanza",
+		"iso2": "CUS",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Cuanza Norte",
+		"iso2": "CNO",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Cunene",
+		"iso2": "CNN",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Huambo",
+		"iso2": "HUA",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Huíla",
+		"iso2": "HUI",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Luanda",
+		"iso2": "LUA",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Lunda Norte",
+		"iso2": "LNO",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Lunda Sul",
+		"iso2": "LSU",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Malanje",
+		"iso2": "MAL",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Moxico",
+		"iso2": "MOX",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Namibe",
+		"iso2": "NAM",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Uíge",
+		"iso2": "UIG",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	},
+	{
+		"name": "Zaire",
+		"iso2": "ZAI",
+		"type": "province",
+		"timezone": "Africa/Luanda"
+	}
+]

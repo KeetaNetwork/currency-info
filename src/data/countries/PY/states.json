@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Alto Paraguay",
+		"iso2": "16",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Alto Paraná",
+		"iso2": "10",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Amambay",
+		"iso2": "13",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Asuncion",
+		"iso2": "ASU",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Boquerón",
+		"iso2": "19",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Caaguazú",
+		"iso2": "5",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Caazapá",
+		"iso2": "6",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Canindeyú",
+		"iso2": "14",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Central",
+		"iso2": "11",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Concepción",
+		"iso2": "1",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Cordillera",
+		"iso2": "3",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Guairá",
+		"iso2": "4",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Itapúa",
+		"iso2": "7",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Misiones",
+		"iso2": "8",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Ñeembucú",
+		"iso2": "12",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Paraguarí",
+		"iso2": "9",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "Presidente Hayes",
+		"iso2": "15",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	},
+	{
+		"name": "San Pedro",
+		"iso2": "2",
+		"type": "department",
+		"timezone": "America/Asuncion"
+	}
+]

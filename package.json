@@ -26,6 +26,7 @@
 		"compile:watch": "npm run compile -- -w --no-stats"
 	},
 	"devDependencies": {
+		"@countrystatecity/countries": "1.0.5",
 		"@keetanetwork/eslint-config-typescript": "1.4.7",
 		"@types/node": "24.3.0",
 		"tsdown": "0.12.9",

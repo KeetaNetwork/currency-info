@@ -1,0 +1,164 @@
+[
+	{
+		"name": "Autonomous Republic of Crimea",
+		"iso2": "43",
+		"type": "republic",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Cherkaska",
+		"iso2": "71",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Chernihivska",
+		"iso2": "74",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Chernivetska",
+		"iso2": "77",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Dnipropetrovska",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Donetska",
+		"iso2": "14",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Ivano-Frankivska",
+		"iso2": "26",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Kharkivska",
+		"iso2": "63",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Khersonska",
+		"iso2": "65",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Khmelnytska",
+		"iso2": "68",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Kirovohradska",
+		"iso2": "35",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Kyiv",
+		"iso2": "30",
+		"type": "city",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Kyivska",
+		"iso2": "32",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Luhanska",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Lvivska",
+		"iso2": "46",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Mykolaivska",
+		"iso2": "48",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Odeska",
+		"iso2": "51",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Poltavska",
+		"iso2": "53",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Rivnenska",
+		"iso2": "56",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Sevastopol",
+		"iso2": "40",
+		"type": "city",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Sumska",
+		"iso2": "59",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Ternopilska",
+		"iso2": "61",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Vinnytska",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Volynska",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Zakarpatska",
+		"iso2": "21",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Zaporizka",
+		"iso2": "23",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	},
+	{
+		"name": "Zhytomyrska",
+		"iso2": "18",
+		"type": "region",
+		"timezone": "Europe/Kiev"
+	}
+]

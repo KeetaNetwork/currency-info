@@ -1,0 +1,596 @@
+[
+	{
+		"name": "Abra",
+		"iso2": "ABR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Agusan del Norte",
+		"iso2": "AGN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Agusan del Sur",
+		"iso2": "AGS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Aklan",
+		"iso2": "AKL",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Albay",
+		"iso2": "ALB",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Antique",
+		"iso2": "ANT",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Apayao",
+		"iso2": "APA",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Aurora",
+		"iso2": "AUR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Autonomous Region in Muslim Mindanao",
+		"iso2": "14",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Basilan",
+		"iso2": "BAS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Bataan",
+		"iso2": "BAN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Batanes",
+		"iso2": "BTN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Batangas",
+		"iso2": "BTG",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Benguet",
+		"iso2": "BEN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Bicol",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Biliran",
+		"iso2": "BIL",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Bohol",
+		"iso2": "BOH",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Bukidnon",
+		"iso2": "BUK",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Bulacan",
+		"iso2": "BUL",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Cagayan",
+		"iso2": "CAG",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Cagayan Valley",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Calabarzon",
+		"iso2": "40",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Camarines Norte",
+		"iso2": "CAN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Camarines Sur",
+		"iso2": "CAS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Camiguin",
+		"iso2": "CAM",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Capiz",
+		"iso2": "CAP",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Caraga",
+		"iso2": "13",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Catanduanes",
+		"iso2": "CAT",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Cavite",
+		"iso2": "CAV",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Cebu",
+		"iso2": "CEB",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Central Luzon",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Central Visayas",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Cordillera Administrative",
+		"iso2": "15",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Cotabato",
+		"iso2": "NCO",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Davao",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Davao de Oro",
+		"iso2": "COM",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Davao del Norte",
+		"iso2": "DAV",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Davao del Sur",
+		"iso2": "DAS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Davao Occidental",
+		"iso2": "DVO",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Davao Oriental",
+		"iso2": "DAO",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Dinagat Islands",
+		"iso2": "DIN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Eastern Samar",
+		"iso2": "EAS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Eastern Visayas",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Guimaras",
+		"iso2": "GUI",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Ifugao",
+		"iso2": "IFU",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Ilocos",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Ilocos Norte",
+		"iso2": "ILN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Ilocos Sur",
+		"iso2": "ILS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Iloilo",
+		"iso2": "ILI",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Isabela",
+		"iso2": "ISA",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Kalinga",
+		"iso2": "KAL",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "La Union",
+		"iso2": "LUN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Laguna",
+		"iso2": "LAG",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Lanao del Norte",
+		"iso2": "LAN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Lanao del Sur",
+		"iso2": "LAS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Leyte",
+		"iso2": "LEY",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Maguindanao del Norte",
+		"iso2": "MGN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Maguindanao del Sur",
+		"iso2": "MGS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Marinduque",
+		"iso2": "MAD",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Masbate",
+		"iso2": "MAS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Mimaropa",
+		"iso2": "41",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Misamis Occidental",
+		"iso2": "MSC",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Misamis Oriental",
+		"iso2": "MSR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Mountain Province",
+		"iso2": "MOU",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "National Capital Region (Metro Manila)",
+		"iso2": "00",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Negros Occidental",
+		"iso2": "NEC",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Negros Oriental",
+		"iso2": "NER",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Northern Mindanao",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Northern Samar",
+		"iso2": "NSA",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Nueva Ecija",
+		"iso2": "NUE",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Nueva Vizcaya",
+		"iso2": "NUV",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Occidental Mindoro",
+		"iso2": "MDC",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Oriental Mindoro",
+		"iso2": "MDR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Palawan",
+		"iso2": "PLW",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Pampanga",
+		"iso2": "PAM",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Pangasinan",
+		"iso2": "PAN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Quezon",
+		"iso2": "QUE",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Quirino",
+		"iso2": "QUI",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Rizal",
+		"iso2": "RIZ",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Romblon",
+		"iso2": "ROM",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Sarangani",
+		"iso2": "SAR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Siquijor",
+		"iso2": "SIG",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Soccsksargen",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Sorsogon",
+		"iso2": "SOR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "South Cotabato",
+		"iso2": "SCO",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Southern Leyte",
+		"iso2": "SLE",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Sultan Kudarat",
+		"iso2": "SUK",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Sulu",
+		"iso2": "SLU",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Surigao del Norte",
+		"iso2": "SUN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Surigao del Sur",
+		"iso2": "SUR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Tarlac",
+		"iso2": "TAR",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Tawi-Tawi",
+		"iso2": "TAW",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Western Samar",
+		"iso2": "WSA",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Western Visayas",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Zambales",
+		"iso2": "ZMB",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Zamboanga del Norte",
+		"iso2": "ZAN",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Zamboanga del Sur",
+		"iso2": "ZAS",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Zamboanga Peninsula",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Asia/Manila"
+	},
+	{
+		"name": "Zamboanga Sibugay",
+		"iso2": "ZSI",
+		"type": "province",
+		"timezone": "Asia/Manila"
+	}
+]

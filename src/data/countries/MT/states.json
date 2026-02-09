@@ -1,0 +1,410 @@
+[
+	{
+		"name": "Attard",
+		"iso2": "01",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Balzan",
+		"iso2": "02",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Birgu",
+		"iso2": "03",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Birkirkara",
+		"iso2": "04",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Birżebbuġa",
+		"iso2": "05",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Cospicua",
+		"iso2": "06",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Dingli",
+		"iso2": "07",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Fgura",
+		"iso2": "08",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Floriana",
+		"iso2": "09",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Fontana",
+		"iso2": "10",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Għajnsielem",
+		"iso2": "13",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Għarb",
+		"iso2": "14",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Għargħur",
+		"iso2": "15",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Għasri",
+		"iso2": "16",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Għaxaq",
+		"iso2": "17",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Gudja",
+		"iso2": "11",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Gżira",
+		"iso2": "12",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Ħamrun",
+		"iso2": "18",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Iklin",
+		"iso2": "19",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Kalkara",
+		"iso2": "21",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Kerċem",
+		"iso2": "22",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Kirkop",
+		"iso2": "23",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Lija",
+		"iso2": "24",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Luqa",
+		"iso2": "25",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Marsa",
+		"iso2": "26",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Marsaskala",
+		"iso2": "27",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Marsaxlokk",
+		"iso2": "28",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Mdina",
+		"iso2": "29",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Mellieħa",
+		"iso2": "30",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Mġarr",
+		"iso2": "31",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Mosta",
+		"iso2": "32",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Mqabba",
+		"iso2": "33",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Msida",
+		"iso2": "34",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Mtarfa",
+		"iso2": "35",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Munxar",
+		"iso2": "36",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Nadur",
+		"iso2": "37",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Naxxar",
+		"iso2": "38",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Paola",
+		"iso2": "39",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Pembroke",
+		"iso2": "40",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Pietà",
+		"iso2": "41",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Qala",
+		"iso2": "42",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Qormi",
+		"iso2": "43",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Qrendi",
+		"iso2": "44",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Rabat",
+		"iso2": "46",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Safi",
+		"iso2": "47",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "San Ġwann",
+		"iso2": "49",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "San Lawrenz",
+		"iso2": "50",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Sannat",
+		"iso2": "52",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Santa Luċija",
+		"iso2": "53",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Santa Venera",
+		"iso2": "54",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Senglea",
+		"iso2": "20",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Siġġiewi",
+		"iso2": "55",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Sliema",
+		"iso2": "56",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "St. Julian's",
+		"iso2": "48",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "St. Paul's Bay",
+		"iso2": "51",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Swieqi",
+		"iso2": "57",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Ta' Xbiex",
+		"iso2": "58",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Tarxien",
+		"iso2": "59",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Valletta",
+		"iso2": "60",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Victoria",
+		"iso2": "45",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Xagħra",
+		"iso2": "61",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Xewkija",
+		"iso2": "62",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Xgħajra",
+		"iso2": "63",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Żabbar",
+		"iso2": "64",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Żebbuġ Gozo",
+		"iso2": "65",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Żebbuġ Malta",
+		"iso2": "66",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Żejtun",
+		"iso2": "67",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	},
+	{
+		"name": "Żurrieq",
+		"iso2": "68",
+		"type": "local council",
+		"timezone": "Europe/Malta"
+	}
+]

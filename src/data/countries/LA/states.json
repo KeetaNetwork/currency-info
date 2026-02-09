@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Attapeu",
+		"iso2": "AT",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Bokeo",
+		"iso2": "BK",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Bolikhamsai",
+		"iso2": "BL",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Champasak",
+		"iso2": "CH",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Houaphanh",
+		"iso2": "HO",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Khammouane",
+		"iso2": "KH",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Luang Namtha",
+		"iso2": "LM",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Luang Prabang",
+		"iso2": "LP",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Oudomxay",
+		"iso2": "OU",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Phongsaly",
+		"iso2": "PH",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Sainyabuli",
+		"iso2": "XA",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Salavan",
+		"iso2": "SL",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Savannakhet",
+		"iso2": "SV",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Sekong",
+		"iso2": "XE",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Vientiane",
+		"iso2": "VI",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Vientiane",
+		"iso2": "VT",
+		"type": "prefecture",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Xaisomboun",
+		"iso2": "XS",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	},
+	{
+		"name": "Xiangkhouang",
+		"iso2": "XI",
+		"type": "province",
+		"timezone": "Asia/Vientiane"
+	}
+]

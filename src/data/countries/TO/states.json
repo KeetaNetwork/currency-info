@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Haʻapai",
+		"iso2": "02",
+		"type": "division",
+		"timezone": "Pacific/Tongatapu"
+	},
+	{
+		"name": "ʻEua",
+		"iso2": "01",
+		"type": "division",
+		"timezone": "Pacific/Tongatapu"
+	},
+	{
+		"name": "Niuas",
+		"iso2": "03",
+		"type": "division",
+		"timezone": "Pacific/Tongatapu"
+	},
+	{
+		"name": "Tongatapu",
+		"iso2": "04",
+		"type": "division",
+		"timezone": "Pacific/Tongatapu"
+	},
+	{
+		"name": "Vavaʻu",
+		"iso2": "05",
+		"type": "division",
+		"timezone": "Pacific/Tongatapu"
+	}
+]

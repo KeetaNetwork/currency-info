@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Açores",
+		"iso2": "20",
+		"type": "autonomous region",
+		"timezone": "Atlantic/Azores"
+	},
+	{
+		"name": "Aveiro",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Beja",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Braga",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Bragança",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Castelo Branco",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Coimbra",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Évora",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Faro",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Guarda",
+		"iso2": "09",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Leiria",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Lisbon",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Madeira",
+		"iso2": "30",
+		"type": "autonomous region",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Portalegre",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Porto",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Santarém",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Setúbal",
+		"iso2": "15",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Viana do Castelo",
+		"iso2": "16",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Vila Real",
+		"iso2": "17",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	},
+	{
+		"name": "Viseu",
+		"iso2": "18",
+		"type": "district",
+		"timezone": "Europe/Lisbon"
+	}
+]

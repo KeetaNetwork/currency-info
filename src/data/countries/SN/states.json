@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Dakar",
+		"iso2": "DK",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Diourbel Region",
+		"iso2": "DB",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Fatick",
+		"iso2": "FK",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Kaffrine",
+		"iso2": "KA",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Kaolack",
+		"iso2": "KL",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Kédougou",
+		"iso2": "KE",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Kolda",
+		"iso2": "KD",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Louga",
+		"iso2": "LG",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Matam",
+		"iso2": "MT",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Saint-Louis",
+		"iso2": "SL",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Sédhiou",
+		"iso2": "SE",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Tambacounda Region",
+		"iso2": "TC",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Thiès Region",
+		"iso2": "TH",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	},
+	{
+		"name": "Ziguinchor",
+		"iso2": "ZG",
+		"type": "region",
+		"timezone": "Africa/Dakar"
+	}
+]

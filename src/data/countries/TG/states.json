@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Centrale",
+		"iso2": "C",
+		"type": "region",
+		"timezone": "Africa/Lome"
+	},
+	{
+		"name": "Kara",
+		"iso2": "K",
+		"type": "region",
+		"timezone": "Africa/Lome"
+	},
+	{
+		"name": "Maritime",
+		"iso2": "M",
+		"type": "region",
+		"timezone": "Africa/Lome"
+	},
+	{
+		"name": "Plateaux",
+		"iso2": "P",
+		"type": "region",
+		"timezone": "Africa/Lome"
+	},
+	{
+		"name": "Savanes",
+		"iso2": "S",
+		"type": "region",
+		"timezone": "Africa/Lome"
+	}
+]

@@ -1,0 +1,194 @@
+[
+	{
+		"name": "Belgrade",
+		"iso2": "00",
+		"type": "city",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Bor",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Braničevo",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Central Banat",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Jablanica",
+		"iso2": "23",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Kolubara",
+		"iso2": "09",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Kosovo",
+		"iso2": "25",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Kosovo-Metohija",
+		"iso2": "KM",
+		"type": "province",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Kosovo-Pomoravlje",
+		"iso2": "29",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Kosovska Mitrovica",
+		"iso2": "28",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Mačva",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Moravica",
+		"iso2": "17",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Nišava",
+		"iso2": "20",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "North Bačka",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "North Banat",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Pčinja",
+		"iso2": "24",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Peć",
+		"iso2": "26",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Pirot",
+		"iso2": "22",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Podunavlje",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Pomoravlje",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Prizren",
+		"iso2": "27",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Rasina",
+		"iso2": "19",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Raška",
+		"iso2": "18",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "South Bačka",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "South Banat",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Srem",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Šumadija",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Toplica",
+		"iso2": "21",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Vojvodina",
+		"iso2": "VO",
+		"type": "province",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "West Bačka",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Zaječar",
+		"iso2": "15",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	},
+	{
+		"name": "Zlatibor",
+		"iso2": "16",
+		"type": "district",
+		"timezone": "Europe/Belgrade"
+	}
+]

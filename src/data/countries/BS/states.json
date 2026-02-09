@@ -1,0 +1,194 @@
+[
+	{
+		"name": "Acklins",
+		"iso2": "AK",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Berry Islands",
+		"iso2": "BY",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Bimini",
+		"iso2": "BI",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Black Point",
+		"iso2": "BP",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Cat Island",
+		"iso2": "CI",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Central Abaco",
+		"iso2": "CO",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Central Andros",
+		"iso2": "CS",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Central Eleuthera",
+		"iso2": "CE",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Crooked Island",
+		"iso2": "CK",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "East Grand Bahama",
+		"iso2": "EG",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Exuma",
+		"iso2": "EX",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Freeport",
+		"iso2": "FP",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Grand Cay",
+		"iso2": "GC",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Harbour Island",
+		"iso2": "HI",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Hope Town",
+		"iso2": "HT",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Inagua",
+		"iso2": "IN",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Long Island",
+		"iso2": "LI",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Mangrove Cay",
+		"iso2": "MC",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Mayaguana",
+		"iso2": "MG",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Moore's Island",
+		"iso2": "MI",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "New Providence",
+		"iso2": "NP",
+		"type": "island",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "North Abaco",
+		"iso2": "NO",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "North Andros",
+		"iso2": "NS",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "North Eleuthera",
+		"iso2": "NE",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Ragged Island",
+		"iso2": "RI",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Rum Cay",
+		"iso2": "RC",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "San Salvador Island",
+		"iso2": "SS",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "South Abaco",
+		"iso2": "SO",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "South Andros",
+		"iso2": "SA",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "South Eleuthera",
+		"iso2": "SE",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "Spanish Wells",
+		"iso2": "SW",
+		"type": "district",
+		"timezone": "America/Nassau"
+	},
+	{
+		"name": "West Grand Bahama",
+		"iso2": "WG",
+		"type": "district",
+		"timezone": "America/Nassau"
+	}
+]

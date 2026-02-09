@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Abyan",
+		"iso2": "AB",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Ad Dali'",
+		"iso2": "DA",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Adan",
+		"iso2": "AD",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Al Bayda'",
+		"iso2": "BA",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Al Hudaydah",
+		"iso2": "HU",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Al Jawf",
+		"iso2": "JA",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Al Mahrah",
+		"iso2": "MR",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Al Mahwit",
+		"iso2": "MW",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Amanat Al Asimah",
+		"iso2": "SA",
+		"type": "municipality",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Amran",
+		"iso2": "AM",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Dhamar",
+		"iso2": "DH",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Hadhramaut",
+		"iso2": "HD",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Hajjah",
+		"iso2": "HJ",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Ibb",
+		"iso2": "IB",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Lahij",
+		"iso2": "LA",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Ma'rib",
+		"iso2": "MA",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Raymah",
+		"iso2": "RA",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Saada",
+		"iso2": "SD",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Sana'a",
+		"iso2": "SN",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Shabwah",
+		"iso2": "SH",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Socotra",
+		"iso2": "SU",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	},
+	{
+		"name": "Ta'izz",
+		"iso2": "TA",
+		"type": "governorate",
+		"timezone": "Asia/Aden"
+	}
+]

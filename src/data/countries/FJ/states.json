@@ -1,0 +1,116 @@
+[
+	{
+		"name": "Ba",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Bua",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Cakaudrove",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Central",
+		"iso2": "C",
+		"type": "division",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Eastern",
+		"iso2": "E",
+		"type": "division",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Kadavu",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Lau",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Lomaiviti",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Macuata",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Nadroga-Navosa",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Naitasiri",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Namosi",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Northern",
+		"iso2": "N",
+		"type": "division",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Ra",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Rewa",
+		"iso2": "12",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Rotuma",
+		"iso2": "R",
+		"type": "dependency",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Serua",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Tailevu",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "Pacific/Fiji"
+	},
+	{
+		"name": "Western",
+		"iso2": "W",
+		"type": "division",
+		"timezone": "Pacific/Fiji"
+	}
+]

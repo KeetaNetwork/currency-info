@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Central Finland",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Central Ostrobothnia",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Finland Proper",
+		"iso2": "19",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Kainuu",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Kymenlaakso",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Lapland",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "North Karelia",
+		"iso2": "13",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Northern Ostrobothnia",
+		"iso2": "14",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Northern Savonia",
+		"iso2": "15",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Ostrobothnia",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Päijänne Tavastia",
+		"iso2": "16",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Pirkanmaa",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Satakunta",
+		"iso2": "17",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "South Karelia",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Southern Ostrobothnia",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Southern Savonia",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Tavastia Proper",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	},
+	{
+		"name": "Uusimaa",
+		"iso2": "18",
+		"type": "region",
+		"timezone": "Europe/Helsinki"
+	}
+]

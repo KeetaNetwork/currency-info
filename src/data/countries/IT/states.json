@@ -1,0 +1,758 @@
+[
+	{
+		"name": "Abruzzo",
+		"iso2": "65",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Agrigento",
+		"iso2": "AG",
+		"type": "free municipal consortium",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Alessandria",
+		"iso2": "AL",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Ancona",
+		"iso2": "AN",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Aosta Valley",
+		"iso2": "23",
+		"type": "autonomous region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Apulia",
+		"iso2": "75",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Arezzo",
+		"iso2": "AR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Ascoli Piceno",
+		"iso2": "AP",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Asti",
+		"iso2": "AT",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Avellino",
+		"iso2": "AV",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Bari",
+		"iso2": "BA",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Barletta-Andria-Trani",
+		"iso2": "BT",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Basilicata",
+		"iso2": "77",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Belluno",
+		"iso2": "BL",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Benevento",
+		"iso2": "BN",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Bergamo",
+		"iso2": "BG",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Biella",
+		"iso2": "BI",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Bologna",
+		"iso2": "BO",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Brescia",
+		"iso2": "BS",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Brindisi",
+		"iso2": "BR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Cagliari",
+		"iso2": "CA",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Calabria",
+		"iso2": "78",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Caltanissetta",
+		"iso2": "CL",
+		"type": "free municipal consortium",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Campania",
+		"iso2": "72",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Campobasso",
+		"iso2": "CB",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Caserta",
+		"iso2": "CE",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Catania",
+		"iso2": "CT",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Catanzaro",
+		"iso2": "CZ",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Chieti",
+		"iso2": "CH",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Como",
+		"iso2": "CO",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Cosenza",
+		"iso2": "CS",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Cremona",
+		"iso2": "CR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Crotone",
+		"iso2": "KR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Cuneo",
+		"iso2": "CN",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Emilia-Romagna",
+		"iso2": "45",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Enna",
+		"iso2": "EN",
+		"type": "free municipal consortium",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Fermo",
+		"iso2": "FM",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Ferrara",
+		"iso2": "FE",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Florence",
+		"iso2": "FI",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Foggia",
+		"iso2": "FG",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Forlì-Cesena",
+		"iso2": "FC",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Friuli–Venezia Giulia",
+		"iso2": "36",
+		"type": "autonomous region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Frosinone",
+		"iso2": "FR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Genoa",
+		"iso2": "GE",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Gorizia",
+		"iso2": "GO",
+		"type": "decentralized regional entity",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Grosseto",
+		"iso2": "GR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Imperia",
+		"iso2": "IM",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Isernia",
+		"iso2": "IS",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "L'Aquila",
+		"iso2": "AQ",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "La Spezia",
+		"iso2": "SP",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Latina",
+		"iso2": "LT",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Lazio",
+		"iso2": "62",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Lecce",
+		"iso2": "LE",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Lecco",
+		"iso2": "LC",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Liguria",
+		"iso2": "42",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Livorno",
+		"iso2": "LI",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Lodi",
+		"iso2": "LO",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Lombardy",
+		"iso2": "25",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Lucca",
+		"iso2": "LU",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Macerata",
+		"iso2": "MC",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Mantua",
+		"iso2": "MN",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Marche",
+		"iso2": "57",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Massa and Carrara",
+		"iso2": "MS",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Matera",
+		"iso2": "MT",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Messina",
+		"iso2": "ME",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Milan",
+		"iso2": "MI",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Modena",
+		"iso2": "MO",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Molise",
+		"iso2": "67",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Monza and Brianza",
+		"iso2": "MB",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Naples",
+		"iso2": "NA",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Novara",
+		"iso2": "NO",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Nuoro",
+		"iso2": "NU",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Oristano",
+		"iso2": "OR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Padua",
+		"iso2": "PD",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Palermo",
+		"iso2": "PA",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Parma",
+		"iso2": "PR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Pavia",
+		"iso2": "PV",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Perugia",
+		"iso2": "PG",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Pesaro and Urbino",
+		"iso2": "PU",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Pescara",
+		"iso2": "PE",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Piacenza",
+		"iso2": "PC",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Piedmont",
+		"iso2": "21",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Pisa",
+		"iso2": "PI",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Pistoia",
+		"iso2": "PT",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Pordenone",
+		"iso2": "PN",
+		"type": "decentralized regional entity",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Potenza",
+		"iso2": "PZ",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Prato",
+		"iso2": "PO",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Ragusa",
+		"iso2": "RG",
+		"type": "free municipal consortium",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Ravenna",
+		"iso2": "RA",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Reggio Calabria",
+		"iso2": "RC",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Reggio Emilia",
+		"iso2": "RE",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Rieti",
+		"iso2": "RI",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Rimini",
+		"iso2": "RN",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Rome",
+		"iso2": "RM",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Rovigo",
+		"iso2": "RO",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Salerno",
+		"iso2": "SA",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Sardinia",
+		"iso2": "88",
+		"type": "autonomous region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Sassari",
+		"iso2": "SS",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Savona",
+		"iso2": "SV",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Sicily",
+		"iso2": "82",
+		"type": "autonomous region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Siena",
+		"iso2": "SI",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Siracusa",
+		"iso2": "SR",
+		"type": "free municipal consortium",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Sondrio",
+		"iso2": "SO",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "South Sardinia",
+		"iso2": "SU",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "South Tyrol",
+		"iso2": "BZ",
+		"type": "autonomous province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Taranto",
+		"iso2": "TA",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Teramo",
+		"iso2": "TE",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Terni",
+		"iso2": "TR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Trapani",
+		"iso2": "TP",
+		"type": "free municipal consortium",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Trentino",
+		"iso2": "TN",
+		"type": "autonomous province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Trentino-South Tyrol",
+		"iso2": "32",
+		"type": "autonomous region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Treviso",
+		"iso2": "TV",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Trieste",
+		"iso2": "TS",
+		"type": "decentralized regional entity",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Turin",
+		"iso2": "TO",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Tuscany",
+		"iso2": "52",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Udine",
+		"iso2": "UD",
+		"type": "decentralized regional entity",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Umbria",
+		"iso2": "55",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Varese",
+		"iso2": "VA",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Veneto",
+		"iso2": "34",
+		"type": "region",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Venice",
+		"iso2": "VE",
+		"type": "metropolitan city",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Verbano-Cusio-Ossola",
+		"iso2": "VB",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Vercelli",
+		"iso2": "VC",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Verona",
+		"iso2": "VR",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Vibo Valentia",
+		"iso2": "VV",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Vicenza",
+		"iso2": "VI",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	},
+	{
+		"name": "Viterbo",
+		"iso2": "VT",
+		"type": "province",
+		"timezone": "Europe/Rome"
+	}
+]

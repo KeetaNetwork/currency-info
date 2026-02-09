@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Gilbert",
+		"iso2": "G",
+		"type": "island",
+		"timezone": "Pacific/Enderbury"
+	},
+	{
+		"name": "Line",
+		"iso2": "L",
+		"type": "island",
+		"timezone": "Pacific/Enderbury"
+	},
+	{
+		"name": "Phoenix",
+		"iso2": "P",
+		"type": "island",
+		"timezone": "Pacific/Enderbury"
+	}
+]

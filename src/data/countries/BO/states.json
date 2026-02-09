@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Beni",
+		"iso2": "B",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "Chuquisaca",
+		"iso2": "H",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "Cochabamba",
+		"iso2": "C",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "La Paz",
+		"iso2": "L",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "Oruro",
+		"iso2": "O",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "Pando",
+		"iso2": "N",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "Potosí",
+		"iso2": "P",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "Santa Cruz",
+		"iso2": "S",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	},
+	{
+		"name": "Tarija",
+		"iso2": "T",
+		"type": "department",
+		"timezone": "America/La_Paz"
+	}
+]

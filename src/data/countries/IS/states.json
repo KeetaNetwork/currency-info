@@ -1,0 +1,434 @@
+[
+	{
+		"name": "Akranes",
+		"iso2": "AKN",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Akureyri",
+		"iso2": "AKU",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Árborg",
+		"iso2": "SFA",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Árneshreppur",
+		"iso2": "ARN",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Ásahreppur",
+		"iso2": "ASA",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Bláskógabyggð",
+		"iso2": "BLA",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Bolungarvík",
+		"iso2": "BOL",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Borgarbyggð",
+		"iso2": "BOG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Capital",
+		"iso2": "1",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Dalabyggð",
+		"iso2": "DAB",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Dalvíkurbyggð",
+		"iso2": "DAV",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Eastern",
+		"iso2": "7",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Eyja- og Miklaholtshreppur",
+		"iso2": "EOM",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Eyjafjarðarsveit",
+		"iso2": "EYF",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Fjallabyggð",
+		"iso2": "FJL",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Fjarðabyggð",
+		"iso2": "FJD",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Fljótsdalshreppur",
+		"iso2": "FLR",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Flóahreppur",
+		"iso2": "FLA",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Garðabær",
+		"iso2": "GAR",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Grímsnes- og Grafningshreppur",
+		"iso2": "GOG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Grindavík",
+		"iso2": "GRN",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Grundarfjörður",
+		"iso2": "GRU",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Grýtubakkahreppur",
+		"iso2": "GRY",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Hafnarfjörður",
+		"iso2": "HAF",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Hörðarsveit",
+		"iso2": "HRG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Hornafjörður",
+		"iso2": "SHF",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Hrunamannahreppur",
+		"iso2": "HRU",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Húnabyggð",
+		"iso2": "HUG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Húnaþing vestra",
+		"iso2": "HUV",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Hvalfjarðarsveit",
+		"iso2": "HVA",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Hveragerði",
+		"iso2": "HVE",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Ísafjörður",
+		"iso2": "ISA",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Kaldrananeshreppur",
+		"iso2": "KAL",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Kjósarhreppur",
+		"iso2": "KJO",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Kópavogur",
+		"iso2": "KOP",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Langanesbyggð",
+		"iso2": "LAN",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Mosfellsbær",
+		"iso2": "MOS",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Múlaþing",
+		"iso2": "MUL",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Mýrdalshreppur",
+		"iso2": "MYR",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Norðurþing",
+		"iso2": "NOR",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Northeastern",
+		"iso2": "6",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Northwestern",
+		"iso2": "5",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Ölfus",
+		"iso2": "SOL",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Rangárþing eystra",
+		"iso2": "RGE",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Rangárþing ytra",
+		"iso2": "RGY",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Reykhólahreppur",
+		"iso2": "RHH",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Reykjanesbær",
+		"iso2": "RKN",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Reykjavík",
+		"iso2": "RKV",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Seltjarnarnes",
+		"iso2": "SEL",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Skaftárhreppur",
+		"iso2": "SKF",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Skagabyggð",
+		"iso2": "SKG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Skagafjörður",
+		"iso2": "SKR",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Skagaströnd",
+		"iso2": "SSS",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Skeiða- og Gnúpverjahreppur",
+		"iso2": "SOG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Skorradalshreppur",
+		"iso2": "SKO",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Snæfellsbær",
+		"iso2": "SNF",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Southern",
+		"iso2": "8",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Southern Peninsula",
+		"iso2": "2",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Strandabyggð",
+		"iso2": "STR",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Stykkishólmur",
+		"iso2": "STY",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Súðavík",
+		"iso2": "SDV",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Suðurnesjabær",
+		"iso2": "SDN",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Svalbardsstrandarhreppur",
+		"iso2": "SBT",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Tálknafjarðarhreppur",
+		"iso2": "TAL",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Tjörneshreppur",
+		"iso2": "TJO",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Vestmannaeyjar",
+		"iso2": "VEM",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Vesturbyggð",
+		"iso2": "VER",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Vogar",
+		"iso2": "SVG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Vopnafjarðarhreppur",
+		"iso2": "VOP",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Western",
+		"iso2": "3",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Westfjords",
+		"iso2": "4",
+		"type": "region",
+		"timezone": "Atlantic/Reykjavik"
+	},
+	{
+		"name": "Þingeyjarsveit",
+		"iso2": "THG",
+		"type": "municipality",
+		"timezone": "Atlantic/Reykjavik"
+	}
+]

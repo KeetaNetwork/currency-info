@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Capital",
+		"iso2": "13",
+		"type": "governorate",
+		"timezone": "Asia/Bahrain"
+	},
+	{
+		"name": "Muharraq",
+		"iso2": "15",
+		"type": "governorate",
+		"timezone": "Asia/Bahrain"
+	},
+	{
+		"name": "Northern",
+		"iso2": "17",
+		"type": "governorate",
+		"timezone": "Asia/Bahrain"
+	},
+	{
+		"name": "Southern",
+		"iso2": "14",
+		"type": "governorate",
+		"timezone": "Asia/Bahrain"
+	}
+]

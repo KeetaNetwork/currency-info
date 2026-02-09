@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Greater Poland",
+		"iso2": "30",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Holy Cross",
+		"iso2": "26",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Kuyavia-Pomerania",
+		"iso2": "04",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Lesser Poland",
+		"iso2": "12",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Lower Silesia",
+		"iso2": "02",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Lublin",
+		"iso2": "06",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Lubusz",
+		"iso2": "08",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Łódź",
+		"iso2": "10",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Mazovia",
+		"iso2": "14",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Podlaskie",
+		"iso2": "20",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Pomerania",
+		"iso2": "22",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Silesia",
+		"iso2": "24",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Subcarpathia",
+		"iso2": "18",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Upper Silesia",
+		"iso2": "16",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "Warmia-Masuria",
+		"iso2": "28",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	},
+	{
+		"name": "West Pomerania",
+		"iso2": "32",
+		"type": "voivodship",
+		"timezone": "Europe/Warsaw"
+	}
+]

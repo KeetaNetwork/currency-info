@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Berea",
+		"iso2": "D",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Butha-Buthe",
+		"iso2": "B",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Leribe",
+		"iso2": "C",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Mafeteng",
+		"iso2": "E",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Maseru",
+		"iso2": "A",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Mohale's Hoek",
+		"iso2": "F",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Mokhotlong",
+		"iso2": "J",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Qacha's Nek",
+		"iso2": "H",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Quthing",
+		"iso2": "G",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	},
+	{
+		"name": "Thaba-Tseka",
+		"iso2": "K",
+		"type": "district",
+		"timezone": "Africa/Maseru"
+	}
+]

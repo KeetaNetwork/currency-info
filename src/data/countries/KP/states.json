@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Chagang",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "Kaesong",
+		"iso2": "15",
+		"type": "metropolitan city",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "Kangwon",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "Nampho",
+		"iso2": "14",
+		"type": "metropolitan city",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "North Hamgyong",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "North Hwanghae",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "North Pyongan",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "Pyongyang",
+		"iso2": "01",
+		"type": "capital city",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "Rason",
+		"iso2": "13",
+		"type": "special city",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "Ryanggang",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "South Hamgyong",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "South Hwanghae",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	},
+	{
+		"name": "South Pyongan",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Asia/Pyongyang"
+	}
+]

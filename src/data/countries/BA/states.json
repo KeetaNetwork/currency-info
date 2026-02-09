@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Brčko",
+		"iso2": "BRC",
+		"type": "district",
+		"timezone": "Europe/Sarajevo"
+	},
+	{
+		"name": "Federation of Bosnia and Herzegovina",
+		"iso2": "BIH",
+		"type": "entity",
+		"timezone": "Europe/Sarajevo"
+	},
+	{
+		"name": "Republika Srpska",
+		"iso2": "SRP",
+		"type": "entity",
+		"timezone": "Europe/Sarajevo"
+	}
+]

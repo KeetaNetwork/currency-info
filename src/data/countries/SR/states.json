@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Brokopondo",
+		"iso2": "BR",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Commewijne",
+		"iso2": "CM",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Coronie",
+		"iso2": "CR",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Marowijne",
+		"iso2": "MA",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Nickerie",
+		"iso2": "NI",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Para",
+		"iso2": "PR",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Paramaribo",
+		"iso2": "PM",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Saramacca",
+		"iso2": "SA",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Sipaliwini",
+		"iso2": "SI",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	},
+	{
+		"name": "Wanica",
+		"iso2": "WA",
+		"type": "district",
+		"timezone": "America/Paramaribo"
+	}
+]

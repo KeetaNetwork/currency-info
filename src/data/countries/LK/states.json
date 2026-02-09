@@ -1,0 +1,206 @@
+[
+	{
+		"name": "Ampara",
+		"iso2": "52",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Anuradhapura",
+		"iso2": "71",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Badulla",
+		"iso2": "81",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Batticaloa",
+		"iso2": "51",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Central",
+		"iso2": "2",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Colombo",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Eastern",
+		"iso2": "5",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Galle",
+		"iso2": "31",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Gampaha",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Hambantota",
+		"iso2": "33",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Jaffna",
+		"iso2": "41",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Kalutara",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Kandy",
+		"iso2": "21",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Kegalle",
+		"iso2": "92",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Kilinochchi",
+		"iso2": "42",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Kurunegala",
+		"iso2": "61",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Mannar",
+		"iso2": "43",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Matale",
+		"iso2": "22",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Matara",
+		"iso2": "32",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Monaragala",
+		"iso2": "82",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Mullaitivu",
+		"iso2": "45",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "North Central",
+		"iso2": "7",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "North Western",
+		"iso2": "6",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Northern",
+		"iso2": "4",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Nuwara Eliya",
+		"iso2": "23",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Polonnaruwa",
+		"iso2": "72",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Puttalam",
+		"iso2": "62",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Ratnapura",
+		"iso2": "91",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Sabaragamuwa",
+		"iso2": "9",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Southern",
+		"iso2": "3",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Trincomalee",
+		"iso2": "53",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Uva",
+		"iso2": "8",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Vavuniya",
+		"iso2": "44",
+		"type": "district",
+		"timezone": "Asia/Colombo"
+	},
+	{
+		"name": "Western",
+		"iso2": "1",
+		"type": "province",
+		"timezone": "Asia/Colombo"
+	}
+]

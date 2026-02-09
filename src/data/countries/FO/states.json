@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Eysturoy",
+		"iso2": "EY",
+		"type": "region",
+		"timezone": "Atlantic/Faroe"
+	},
+	{
+		"name": "Northern Isles",
+		"iso2": "NO",
+		"type": "region",
+		"timezone": "Atlantic/Faroe"
+	},
+	{
+		"name": "Sandoy",
+		"iso2": "SA",
+		"type": "region",
+		"timezone": "Atlantic/Faroe"
+	},
+	{
+		"name": "Streymoy",
+		"iso2": "ST",
+		"type": "region",
+		"timezone": "Atlantic/Faroe"
+	},
+	{
+		"name": "Suðuroy",
+		"iso2": "SU",
+		"type": "region",
+		"timezone": "Atlantic/Faroe"
+	},
+	{
+		"name": "Vágar",
+		"iso2": "VA",
+		"type": "region",
+		"timezone": "Atlantic/Faroe"
+	}
+]

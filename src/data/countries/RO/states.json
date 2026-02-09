@@ -1,0 +1,254 @@
+[
+	{
+		"name": "Alba",
+		"iso2": "AB",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Arad",
+		"iso2": "AR",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Arges",
+		"iso2": "AG",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Bacău",
+		"iso2": "BC",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Bihor",
+		"iso2": "BH",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Bistrița-Năsăud",
+		"iso2": "BN",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Botoșani",
+		"iso2": "BT",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Braila",
+		"iso2": "BR",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Brașov",
+		"iso2": "BV",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Bucharest",
+		"iso2": "B",
+		"type": "municipality",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Buzău",
+		"iso2": "BZ",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Călărași",
+		"iso2": "CL",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Caraș-Severin",
+		"iso2": "CS",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Cluj",
+		"iso2": "CJ",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Constanța",
+		"iso2": "CT",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Covasna",
+		"iso2": "CV",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Dâmbovița",
+		"iso2": "DB",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Dolj",
+		"iso2": "DJ",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Galați",
+		"iso2": "GL",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Giurgiu",
+		"iso2": "GR",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Gorj",
+		"iso2": "GJ",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Harghita",
+		"iso2": "HR",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Hunedoara",
+		"iso2": "HD",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Ialomița",
+		"iso2": "IL",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Iași",
+		"iso2": "IS",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Ilfov",
+		"iso2": "IF",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Maramureș",
+		"iso2": "MM",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Mehedinți",
+		"iso2": "MH",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Mureș",
+		"iso2": "MS",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Neamț",
+		"iso2": "NT",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Olt",
+		"iso2": "OT",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Prahova",
+		"iso2": "PH",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Sălaj",
+		"iso2": "SJ",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Satu Mare",
+		"iso2": "SM",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Sibiu",
+		"iso2": "SB",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Suceava",
+		"iso2": "SV",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Teleorman",
+		"iso2": "TR",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Timiș",
+		"iso2": "TM",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Tulcea",
+		"iso2": "TL",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Vâlcea",
+		"iso2": "VL",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Vaslui",
+		"iso2": "VS",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	},
+	{
+		"name": "Vrancea",
+		"iso2": "VN",
+		"type": "department",
+		"timezone": "Europe/Bucharest"
+	}
+]
