@@ -209,6 +209,7 @@ export class Country implements CountryInformation {
 	}
 
 	static findByCurrencyCode(currencyCode: ISOCurrencyCode): Country[] {
+		this.#updateCache();
 		const countryCodes = this.#currencyToCountriesCache[currencyCode];
 		if (!countryCodes) {
 			throw(new Error(`No countries found for currency code: ${currencyCode}`));
