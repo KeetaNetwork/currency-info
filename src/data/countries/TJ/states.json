@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Dushanbe",
+		"iso2": "DU",
+		"type": "capital territory",
+		"timezone": "Asia/Dushanbe"
+	},
+	{
+		"name": "Gorno-Badakhshan",
+		"iso2": "GB",
+		"type": "autonomous region",
+		"timezone": "Asia/Dushanbe"
+	},
+	{
+		"name": "Khatlon",
+		"iso2": "KT",
+		"type": "region",
+		"timezone": "Asia/Dushanbe"
+	},
+	{
+		"name": "Nohiyahoi Tobei Jumhurí ",
+		"iso2": "RA",
+		"type": "districts under republic administration",
+		"timezone": "Asia/Dushanbe"
+	},
+	{
+		"name": "Sughd ",
+		"iso2": "SU",
+		"type": "region",
+		"timezone": "Asia/Dushanbe"
+	}
+]

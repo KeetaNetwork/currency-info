@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Ariana",
+		"iso2": "12",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Béja",
+		"iso2": "31",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Ben Arous",
+		"iso2": "13",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Bizerte",
+		"iso2": "23",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Gabès",
+		"iso2": "81",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Gafsa",
+		"iso2": "71",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Jendouba",
+		"iso2": "32",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Kairouan",
+		"iso2": "41",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Kasserine",
+		"iso2": "42",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Kebili",
+		"iso2": "73",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Kef",
+		"iso2": "33",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Mahdia",
+		"iso2": "53",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Manouba",
+		"iso2": "14",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Medenine",
+		"iso2": "82",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Monastir",
+		"iso2": "52",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Nabeul",
+		"iso2": "21",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Sfax",
+		"iso2": "61",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Sidi Bouzid",
+		"iso2": "43",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Siliana",
+		"iso2": "34",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Sousse",
+		"iso2": "51",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Tataouine",
+		"iso2": "83",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Tozeur",
+		"iso2": "72",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Tunis",
+		"iso2": "11",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	},
+	{
+		"name": "Zaghouan",
+		"iso2": "22",
+		"type": "governorate",
+		"timezone": "Africa/Tunis"
+	}
+]

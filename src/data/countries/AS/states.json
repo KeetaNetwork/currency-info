@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Eastern",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Pacific/Pago_Pago"
+	},
+	{
+		"name": "Manuʻa",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Pacific/Pago_Pago"
+	},
+	{
+		"name": "Rose",
+		"iso2": "05",
+		"type": "atoll",
+		"timezone": "Pacific/Pago_Pago"
+	},
+	{
+		"name": "Swains",
+		"iso2": "04",
+		"type": "atoll",
+		"timezone": "Pacific/Pago_Pago"
+	},
+	{
+		"name": "Western",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Pacific/Pago_Pago"
+	}
+]

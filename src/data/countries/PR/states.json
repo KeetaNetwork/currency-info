@@ -1,0 +1,470 @@
+[
+	{
+		"name": "Adjuntas",
+		"iso2": "001",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Aguada",
+		"iso2": "003",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Aguadilla",
+		"iso2": "005",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Aguas Buenas",
+		"iso2": "007",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Aibonito",
+		"iso2": "009",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Añasco",
+		"iso2": "011",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Arecibo",
+		"iso2": "AR",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Arroyo",
+		"iso2": "015",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Barceloneta",
+		"iso2": "017",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Barranquitas",
+		"iso2": "019",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Bayamon",
+		"iso2": "BY",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Cabo Rojo",
+		"iso2": "023",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Caguas",
+		"iso2": "CG",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Camuy",
+		"iso2": "027",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Canóvanas",
+		"iso2": "029",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Carolina",
+		"iso2": "CL",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Cataño",
+		"iso2": "033",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Cayey",
+		"iso2": "035",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Ceiba",
+		"iso2": "037",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Ciales",
+		"iso2": "039",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Cidra",
+		"iso2": "041",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Coamo",
+		"iso2": "043",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Comerío",
+		"iso2": "045",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Corozal",
+		"iso2": "047",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Culebra",
+		"iso2": "049",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Dorado",
+		"iso2": "051",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Fajardo",
+		"iso2": "053",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Florida",
+		"iso2": "054",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Guánica",
+		"iso2": "055",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Guayama",
+		"iso2": "057",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Guayanilla",
+		"iso2": "059",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Guaynabo",
+		"iso2": "GN",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Gurabo",
+		"iso2": "063",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Hatillo",
+		"iso2": "065",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Hormigueros",
+		"iso2": "067",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Humacao",
+		"iso2": "069",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Isabela",
+		"iso2": "071",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Jayuya",
+		"iso2": "073",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Juana Díaz",
+		"iso2": "075",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Juncos",
+		"iso2": "077",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Lajas",
+		"iso2": "079",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Lares",
+		"iso2": "081",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Las Marías",
+		"iso2": "083",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Las Piedras",
+		"iso2": "085",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Loíza",
+		"iso2": "087",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Luquillo",
+		"iso2": "089",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Manatí",
+		"iso2": "091",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Maricao",
+		"iso2": "093",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Maunabo",
+		"iso2": "095",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Mayagüez",
+		"iso2": "MG",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Moca",
+		"iso2": "099",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Morovis",
+		"iso2": "101",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Naguabo",
+		"iso2": "103",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Naranjito",
+		"iso2": "105",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Orocovis",
+		"iso2": "107",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Patillas",
+		"iso2": "109",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Peñuelas",
+		"iso2": "111",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Ponce",
+		"iso2": "PO",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Quebradillas",
+		"iso2": "115",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Rincón",
+		"iso2": "117",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Río Grande",
+		"iso2": "119",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Sabana Grande",
+		"iso2": "121",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Salinas",
+		"iso2": "123",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "San Germán",
+		"iso2": "125",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "San Juan",
+		"iso2": "SJ",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "San Lorenzo",
+		"iso2": "129",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "San Sebastián",
+		"iso2": "131",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Santa Isabel",
+		"iso2": "133",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Toa Alta",
+		"iso2": "135",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Toa Baja",
+		"iso2": "TB",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Trujillo Alto",
+		"iso2": "TA",
+		"type": "region",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Utuado",
+		"iso2": "141",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Vega Alta",
+		"iso2": "143",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Vega Baja",
+		"iso2": "145",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Vieques",
+		"iso2": "147",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Villalba",
+		"iso2": "149",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Yabucoa",
+		"iso2": "151",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	},
+	{
+		"name": "Yauco",
+		"iso2": "153",
+		"type": "municipality",
+		"timezone": "America/Puerto_Rico"
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Annobón",
+		"iso2": "AN",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Bioko Norte",
+		"iso2": "BN",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Bioko Sur",
+		"iso2": "BS",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Centro Sur",
+		"iso2": "CS",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Djibloho",
+		"iso2": "DJ",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Insular",
+		"iso2": "I",
+		"type": "region",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Kié-Ntem",
+		"iso2": "KN",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Litoral",
+		"iso2": "LI",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Río Muni",
+		"iso2": "C",
+		"type": "region",
+		"timezone": "Africa/Malabo"
+	},
+	{
+		"name": "Wele-Nzas",
+		"iso2": "WN",
+		"type": "province",
+		"timezone": "Africa/Malabo"
+	}
+]

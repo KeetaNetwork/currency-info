@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Blowing Point",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "East End",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "George Hill",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "Island Harbour",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "North Hill",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "North Side",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "Sandy Ground",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "Sandy Hill",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "South Hill",
+		"iso2": "09",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "Stoney Ground",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "The Farrington",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "The Quarter",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "The Valley",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	},
+	{
+		"name": "West End",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "America/Anguilla"
+	}
+]

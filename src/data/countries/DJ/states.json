@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Ali Sabieh",
+		"iso2": "AS",
+		"type": "region",
+		"timezone": "Africa/Djibouti"
+	},
+	{
+		"name": "Arta",
+		"iso2": "AR",
+		"type": "region",
+		"timezone": "Africa/Djibouti"
+	},
+	{
+		"name": "Dikhil",
+		"iso2": "DI",
+		"type": "region",
+		"timezone": "Africa/Djibouti"
+	},
+	{
+		"name": "Djibouti",
+		"iso2": "DJ",
+		"type": "city",
+		"timezone": "Africa/Djibouti"
+	},
+	{
+		"name": "Obock",
+		"iso2": "OB",
+		"type": "region",
+		"timezone": "Africa/Djibouti"
+	},
+	{
+		"name": "Tadjourah",
+		"iso2": "TA",
+		"type": "region",
+		"timezone": "Africa/Djibouti"
+	}
+]

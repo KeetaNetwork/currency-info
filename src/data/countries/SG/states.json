@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Central Singapore",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Asia/Singapore"
+	},
+	{
+		"name": "North East",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Asia/Singapore"
+	},
+	{
+		"name": "North West",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Asia/Singapore"
+	},
+	{
+		"name": "South East",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Asia/Singapore"
+	},
+	{
+		"name": "South West",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Asia/Singapore"
+	}
+]

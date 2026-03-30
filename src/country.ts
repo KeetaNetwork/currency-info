@@ -4,6 +4,8 @@ import type { UnionKeyObject } from "./utils/types";
 import { Currency } from "./currency";
 import countries from "./data/countries";
 import { getFlagSvg } from "./flags";
+import { getStates } from "./states";
+import type { State } from "./states";
 
 interface SingleCountryRegionInformation {
 	name: string;
@@ -137,6 +139,10 @@ export class Country implements CountryInformation {
 
 	async getFlag(): Promise<string> {
 		return(await getFlagSvg(this.code));
+	}
+
+	async getStates(): Promise<State[]> {
+		return(await getStates(this.code));
 	}
 
 	get currency(): Currency {

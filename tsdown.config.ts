@@ -1,5 +1,5 @@
-import { defineConfig } from 'tsdown';
-import { generateFlagsFile } from './scripts/generate-flags-file';
+import { defineConfig } from "tsdown";
+import { generateFlagsFile } from "./scripts/generate-flags-file";
 import Raw from "unplugin-raw/rollup";
 import path from "node:path";
 import fs from "node:fs";
@@ -18,21 +18,16 @@ function genFlagsPlugin() {
 }
 
 export default defineConfig({
-	entry: ['./src/index.ts'],
+	entry: ["./src/index.ts"],
 	platform: "neutral",
 	clean: true,
-	format: ['esm', 'cjs'],
+	format: ["esm", "cjs"],
 	minify: true,
 	dts: true,
-	outDir: './dist',
-	copy: [
-		{ from: 'src/data/flags/flags.css', to: 'dist/flags.css' },
-	],
-	plugins: [
-		genFlagsPlugin(),
-		Raw({ include: ["**/*.svg"] }),
-	],
+	outDir: "./dist",
+	copy: [{ from: "src/data/flags/flags.css", to: "dist/flags.css" }],
+	plugins: [genFlagsPlugin(), Raw({ include: ["**/*.svg"] })],
 	outputOptions: {
-		chunkFileNames: 'chunks/[name].[hash].js',
-	}
+		chunkFileNames: "chunks/[name].[hash].js",
+	},
 });

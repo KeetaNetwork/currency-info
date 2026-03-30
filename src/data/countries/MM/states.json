@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Ayeyarwady",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Bago",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Chin",
+		"iso2": "14",
+		"type": "state",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Kachin",
+		"iso2": "11",
+		"type": "state",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Kayah",
+		"iso2": "12",
+		"type": "state",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Kayin",
+		"iso2": "13",
+		"type": "state",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Magway",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Mandalay",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Mon State",
+		"iso2": "15",
+		"type": "state",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Naypyidaw",
+		"iso2": "18",
+		"type": "union territory",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Rakhine",
+		"iso2": "16",
+		"type": "state",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Sagaing",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Shan",
+		"iso2": "17",
+		"type": "state",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Tanintharyi",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Asia/Yangon"
+	},
+	{
+		"name": "Yangon",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Asia/Yangon"
+	}
+]

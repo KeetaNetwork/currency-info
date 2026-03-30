@@ -1,0 +1,158 @@
+[
+	{
+		"name": "Amazonas",
+		"iso2": "AMA",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Áncash",
+		"iso2": "ANC",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Apurímac",
+		"iso2": "APU",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Arequipa",
+		"iso2": "ARE",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Ayacucho",
+		"iso2": "AYA",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Cajamarca",
+		"iso2": "CAJ",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Callao",
+		"iso2": "CAL",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Cusco",
+		"iso2": "CUS",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Huancavelica",
+		"iso2": "HUV",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Huanuco",
+		"iso2": "HUC",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Ica",
+		"iso2": "ICA",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Junín",
+		"iso2": "JUN",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "La Libertad",
+		"iso2": "LAL",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Lambayeque",
+		"iso2": "LAM",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Lima",
+		"iso2": "LIM",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Loreto",
+		"iso2": "LOR",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Madre de Dios",
+		"iso2": "MDD",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Moquegua",
+		"iso2": "MOQ",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Municipalidad Metropolitana de Lima",
+		"iso2": "LMA",
+		"type": "municipality",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Pasco",
+		"iso2": "PAS",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Piura",
+		"iso2": "PIU",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Puno",
+		"iso2": "PUN",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "San Martín",
+		"iso2": "SAM",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Tacna",
+		"iso2": "TAC",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Tumbes",
+		"iso2": "TUM",
+		"type": "region",
+		"timezone": "America/Lima"
+	},
+	{
+		"name": "Ucayali",
+		"iso2": "UCA",
+		"type": "region",
+		"timezone": "America/Lima"
+	}
+]

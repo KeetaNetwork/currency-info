@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Addis Ababa",
+		"iso2": "AA",
+		"type": "administration",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Afar",
+		"iso2": "AF",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Amhara",
+		"iso2": "AM",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Benishangul-Gumuz",
+		"iso2": "BE",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Dire Dawa",
+		"iso2": "DD",
+		"type": "administration",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Gambela",
+		"iso2": "GA",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Harari",
+		"iso2": "HA",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Oromia",
+		"iso2": "OR",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Sidama",
+		"iso2": "SI",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Somali",
+		"iso2": "SO",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Southern Nations, Nationalities, and Peoples",
+		"iso2": "SN",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Southwest Ethiopia Peoples",
+		"iso2": "SW",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	},
+	{
+		"name": "Tigray",
+		"iso2": "TI",
+		"type": "region",
+		"timezone": "Africa/Addis_Ababa"
+	}
+]

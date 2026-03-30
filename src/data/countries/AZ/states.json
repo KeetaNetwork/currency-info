@@ -1,0 +1,470 @@
+[
+	{
+		"name": "Absheron",
+		"iso2": "ABS",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Agdam",
+		"iso2": "AGM",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Agdash",
+		"iso2": "AGS",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Aghjabadi",
+		"iso2": "AGC",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Agstafa",
+		"iso2": "AGA",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Agsu",
+		"iso2": "AGU",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Astara",
+		"iso2": "AST",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Babek",
+		"iso2": "BAB",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Baku",
+		"iso2": "BA",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Balakan",
+		"iso2": "BAL",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Barda",
+		"iso2": "BAR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Beylagan",
+		"iso2": "BEY",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Bilasuvar",
+		"iso2": "BIL",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Dashkasan",
+		"iso2": "DAS",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Fizuli",
+		"iso2": "FUZ",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Ganja",
+		"iso2": "GA",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Gədəbəy",
+		"iso2": "GAD",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Gobustan",
+		"iso2": "QOB",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Goranboy",
+		"iso2": "GOR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Goychay",
+		"iso2": "GOY",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Goygol",
+		"iso2": "GYG",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Hajigabul",
+		"iso2": "HAC",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Imishli",
+		"iso2": "IMI",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Ismailli",
+		"iso2": "ISM",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Jabrayil",
+		"iso2": "CAB",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Jalilabad",
+		"iso2": "CAL",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Julfa",
+		"iso2": "CUL",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Kalbajar",
+		"iso2": "KAL",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Kangarli",
+		"iso2": "KAN",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Khachmaz",
+		"iso2": "XAC",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Khankendi",
+		"iso2": "XA",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Khizi",
+		"iso2": "XIZ",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Khojali",
+		"iso2": "XCI",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Kurdamir",
+		"iso2": "KUR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Lachin",
+		"iso2": "LAC",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Lankaran",
+		"iso2": "LAN",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Lankaran",
+		"iso2": "LA",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Lerik",
+		"iso2": "LER",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Martuni",
+		"iso2": "XVD",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Masally",
+		"iso2": "MAS",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Mingachevir",
+		"iso2": "MI",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Naftalan",
+		"iso2": "NA",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Nakhchivan",
+		"iso2": "NV",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Nakhchivan",
+		"iso2": "NX",
+		"type": "autonomous republic",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Neftchala",
+		"iso2": "NEF",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Oghuz",
+		"iso2": "OGU",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Ordubad",
+		"iso2": "ORD",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Qabala",
+		"iso2": "QAB",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Qakh",
+		"iso2": "QAX",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Qazakh",
+		"iso2": "QAZ",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Quba",
+		"iso2": "QBA",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Qubadli",
+		"iso2": "QBI",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Qusar",
+		"iso2": "QUS",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Saatly",
+		"iso2": "SAT",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Sabirabad",
+		"iso2": "SAB",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Sadarak",
+		"iso2": "SAD",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Salyan",
+		"iso2": "SAL",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Samukh",
+		"iso2": "SMX",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shabran",
+		"iso2": "SBN",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shahbuz",
+		"iso2": "SAH",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shaki",
+		"iso2": "SA",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shaki",
+		"iso2": "SAK",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shamakhi",
+		"iso2": "SMI",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shamkir",
+		"iso2": "SKR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Sharur",
+		"iso2": "SAR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shirvan",
+		"iso2": "SR",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Shusha",
+		"iso2": "SUS",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Siazan",
+		"iso2": "SIY",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Sumqayit",
+		"iso2": "SM",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Tartar",
+		"iso2": "TAR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Tovuz",
+		"iso2": "TOV",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Ujar",
+		"iso2": "UCA",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Yardymli",
+		"iso2": "YAR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Yevlakh",
+		"iso2": "YEV",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Yevlakh",
+		"iso2": "YE",
+		"type": "municipality",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Zangilan",
+		"iso2": "ZAN",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Zaqatala",
+		"iso2": "ZAQ",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	},
+	{
+		"name": "Zardab",
+		"iso2": "ZAR",
+		"type": "district",
+		"timezone": "Asia/Baku"
+	}
+]

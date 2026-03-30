@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Antananarivo",
+		"iso2": "T",
+		"type": "province",
+		"timezone": "Indian/Antananarivo"
+	},
+	{
+		"name": "Antsiranana",
+		"iso2": "D",
+		"type": "province",
+		"timezone": "Indian/Antananarivo"
+	},
+	{
+		"name": "Fianarantsoa",
+		"iso2": "F",
+		"type": "province",
+		"timezone": "Indian/Antananarivo"
+	},
+	{
+		"name": "Mahajanga",
+		"iso2": "M",
+		"type": "province",
+		"timezone": "Indian/Antananarivo"
+	},
+	{
+		"name": "Toamasina",
+		"iso2": "A",
+		"type": "province",
+		"timezone": "Indian/Antananarivo"
+	},
+	{
+		"name": "Toliara",
+		"iso2": "U",
+		"type": "province",
+		"timezone": "Indian/Antananarivo"
+	}
+]

@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Al Jazirah",
+		"iso2": "GZ",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Al Qadarif",
+		"iso2": "GD",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Blue Nile",
+		"iso2": "NB",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Central Darfur",
+		"iso2": "DC",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "East Darfur",
+		"iso2": "DE",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Kassala",
+		"iso2": "KA",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Khartoum",
+		"iso2": "KH",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "North Darfur",
+		"iso2": "DN",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "North Kordofan",
+		"iso2": "KN",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Northern",
+		"iso2": "NO",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Red Sea",
+		"iso2": "RS",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "River Nile",
+		"iso2": "NR",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "Sennar",
+		"iso2": "SI",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "South Darfur",
+		"iso2": "DS",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "South Kordofan",
+		"iso2": "KS",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "West Darfur",
+		"iso2": "DW",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "West Kordofan",
+		"iso2": "GK",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	},
+	{
+		"name": "White Nile",
+		"iso2": "NW",
+		"type": "state",
+		"timezone": "Africa/Khartoum"
+	}
+]

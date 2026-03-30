@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Água Grande",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Africa/Sao_Tome"
+	},
+	{
+		"name": "Cantagalo",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Africa/Sao_Tome"
+	},
+	{
+		"name": "Caué",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Africa/Sao_Tome"
+	},
+	{
+		"name": "Lemba",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Africa/Sao_Tome"
+	},
+	{
+		"name": "Lobata",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Africa/Sao_Tome"
+	},
+	{
+		"name": "Mé-Zóchi",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Africa/Sao_Tome"
+	},
+	{
+		"name": "Príncipe",
+		"iso2": "P",
+		"type": "autonomous region",
+		"timezone": "Africa/Sao_Tome"
+	}
+]

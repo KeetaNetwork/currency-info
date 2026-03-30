@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Bumthang ",
+		"iso2": "33",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Chukha ",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Dagana ",
+		"iso2": "22",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Gasa ",
+		"iso2": "GA",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Haa ",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Lhuntse ",
+		"iso2": "44",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Mongar ",
+		"iso2": "42",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Paro ",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Pemagatshel ",
+		"iso2": "43",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Punakha ",
+		"iso2": "23",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Samdrup Jongkhar ",
+		"iso2": "45",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Samtse ",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Sarpang ",
+		"iso2": "31",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Thimphu ",
+		"iso2": "15",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Trashi Yangtse\t",
+		"iso2": "TY",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Trashigang ",
+		"iso2": "41",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Trongsa ",
+		"iso2": "32",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Tsirang ",
+		"iso2": "21",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Wangdue Phodrang ",
+		"iso2": "24",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	},
+	{
+		"name": "Zhemgang ",
+		"iso2": "34",
+		"type": "district",
+		"timezone": "Asia/Thimphu"
+	}
+]

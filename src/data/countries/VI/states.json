@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Saint Croix",
+		"iso2": "SC",
+		"type": "district",
+		"timezone": "America/St_Thomas"
+	},
+	{
+		"name": "Saint John",
+		"iso2": "SJ",
+		"type": "district",
+		"timezone": "America/St_Thomas"
+	},
+	{
+		"name": "Saint Thomas",
+		"iso2": "ST",
+		"type": "district",
+		"timezone": "America/St_Thomas"
+	}
+]

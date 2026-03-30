@@ -1,0 +1,542 @@
+[
+	{
+		"name": "Benešov",
+		"iso2": "201",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Beroun",
+		"iso2": "202",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Blansko",
+		"iso2": "641",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Břeclav",
+		"iso2": "644",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Brno-město",
+		"iso2": "642",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Brno-venkov",
+		"iso2": "643",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Bruntál",
+		"iso2": "801",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Česká Lípa",
+		"iso2": "511",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "České Budějovice",
+		"iso2": "311",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Český Krumlov",
+		"iso2": "312",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Cheb",
+		"iso2": "411",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Chomutov",
+		"iso2": "422",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Chrudim",
+		"iso2": "531",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Děčín",
+		"iso2": "421",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Domažlice",
+		"iso2": "321",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Frýdek-Místek",
+		"iso2": "802",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Havlíčkův Brod",
+		"iso2": "631",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Hodonín",
+		"iso2": "645",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Hradec Králové",
+		"iso2": "521",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Jablonec nad Nisou",
+		"iso2": "512",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Jeseník",
+		"iso2": "711",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Jičín",
+		"iso2": "522",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Jihlava",
+		"iso2": "632",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Jihočeský kraj",
+		"iso2": "31",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Jihomoravský kraj",
+		"iso2": "64",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Jindřichův Hradec",
+		"iso2": "313",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Karlovarský kraj",
+		"iso2": "41",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Karlovy Vary",
+		"iso2": "412",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Karviná",
+		"iso2": "803",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Kladno",
+		"iso2": "203",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Klatovy",
+		"iso2": "322",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Kolín",
+		"iso2": "204",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Kraj Vysočina",
+		"iso2": "63",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Královéhradecký kraj",
+		"iso2": "52",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Kroměříž",
+		"iso2": "721",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Kutná Hora",
+		"iso2": "205",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Liberec",
+		"iso2": "513",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Liberecký kraj",
+		"iso2": "51",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Litoměřice",
+		"iso2": "423",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Louny",
+		"iso2": "424",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Mělník",
+		"iso2": "206",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Mladá Boleslav",
+		"iso2": "207",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Moravskoslezský kraj",
+		"iso2": "80",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Most",
+		"iso2": "425",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Náchod",
+		"iso2": "523",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Nový Jičín",
+		"iso2": "804",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Nymburk",
+		"iso2": "208",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Olomouc",
+		"iso2": "712",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Olomoucký kraj",
+		"iso2": "71",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Opava",
+		"iso2": "805",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Ostrava-město",
+		"iso2": "806",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Pardubice",
+		"iso2": "532",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Pardubický kraj",
+		"iso2": "53",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Pelhřimov",
+		"iso2": "633",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Písek",
+		"iso2": "314",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Plzeň-jih",
+		"iso2": "324",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Plzeň-město",
+		"iso2": "323",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Plzeň-sever",
+		"iso2": "325",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Plzeňský kraj",
+		"iso2": "32",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Prachatice",
+		"iso2": "315",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Praha-východ",
+		"iso2": "209",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Praha-západ",
+		"iso2": "20A",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Praha, Hlavní město",
+		"iso2": "10",
+		"type": "capital city",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Přerov",
+		"iso2": "714",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Příbram",
+		"iso2": "20B",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Prostějov",
+		"iso2": "713",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Rakovník",
+		"iso2": "20C",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Rokycany",
+		"iso2": "326",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Rychnov nad Kněžnou",
+		"iso2": "524",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Semily",
+		"iso2": "514",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Sokolov",
+		"iso2": "413",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Strakonice",
+		"iso2": "316",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Středočeský kraj",
+		"iso2": "20",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Šumperk",
+		"iso2": "715",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Svitavy",
+		"iso2": "533",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Tábor",
+		"iso2": "317",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Tachov",
+		"iso2": "327",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Teplice",
+		"iso2": "426",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Třebíč",
+		"iso2": "634",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Trutnov",
+		"iso2": "525",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Uherské Hradiště",
+		"iso2": "722",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Ústecký kraj",
+		"iso2": "42",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Ústí nad Labem",
+		"iso2": "427",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Ústí nad Orlicí",
+		"iso2": "534",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Vsetín",
+		"iso2": "723",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Vyškov",
+		"iso2": "646",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Žďár nad Sázavou",
+		"iso2": "635",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Zlín",
+		"iso2": "724",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Zlínský kraj",
+		"iso2": "72",
+		"type": "region",
+		"timezone": "Europe/Prague"
+	},
+	{
+		"name": "Znojmo",
+		"iso2": "647",
+		"type": "district",
+		"timezone": "Europe/Prague"
+	}
+]

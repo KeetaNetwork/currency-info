@@ -1,0 +1,746 @@
+[
+	{
+		"name": "Ain",
+		"iso2": "01",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Aisne",
+		"iso2": "02",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Allier",
+		"iso2": "03",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Alpes-de-Haute-Provence",
+		"iso2": "04",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Alpes-Maritimes",
+		"iso2": "06",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Alsace",
+		"iso2": "6AE",
+		"type": "European collectivity",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Ardèche",
+		"iso2": "07",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Ardennes",
+		"iso2": "08",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Ariège",
+		"iso2": "09",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Aube",
+		"iso2": "10",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Aude",
+		"iso2": "11",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Auvergne-Rhône-Alpes",
+		"iso2": "ARA",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Aveyron",
+		"iso2": "12",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Bas-Rhin",
+		"iso2": "67",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Bouches-du-Rhône",
+		"iso2": "13",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Bourgogne-Franche-Comté",
+		"iso2": "BFC",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Bretagne",
+		"iso2": "BRE",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Calvados",
+		"iso2": "14",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Cantal",
+		"iso2": "15",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Centre-Val de Loire",
+		"iso2": "CVL",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Charente",
+		"iso2": "16",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Charente-Maritime",
+		"iso2": "17",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Cher",
+		"iso2": "18",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Clipperton",
+		"iso2": "CP",
+		"type": "dependency",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Corrèze",
+		"iso2": "19",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Corse",
+		"iso2": "20R",
+		"type": "metropolitan collectivity with special status",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Corse-du-Sud",
+		"iso2": "2A",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Côte-d'Or",
+		"iso2": "21",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Côtes-d'Armor",
+		"iso2": "22",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Creuse",
+		"iso2": "23",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Deux-Sèvres",
+		"iso2": "79",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Dordogne",
+		"iso2": "24",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Doubs",
+		"iso2": "25",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Drôme",
+		"iso2": "26",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Essonne",
+		"iso2": "91",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Eure",
+		"iso2": "27",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Eure-et-Loir",
+		"iso2": "28",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Finistère",
+		"iso2": "29",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "French Guiana",
+		"iso2": "973",
+		"type": "overseas region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "French Polynesia",
+		"iso2": "PF",
+		"type": "overseas collectivity",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "French Southern and Antarctic Lands",
+		"iso2": "TF",
+		"type": "overseas territory",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Gard",
+		"iso2": "30",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Gers",
+		"iso2": "32",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Gironde",
+		"iso2": "33",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Grand-Est",
+		"iso2": "GES",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Guadeloupe",
+		"iso2": "971",
+		"type": "overseas region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haut-Rhin",
+		"iso2": "68",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haute-Corse",
+		"iso2": "2B",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haute-Garonne",
+		"iso2": "31",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haute-Loire",
+		"iso2": "43",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haute-Marne",
+		"iso2": "52",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haute-Saône",
+		"iso2": "70",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haute-Savoie",
+		"iso2": "74",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Haute-Vienne",
+		"iso2": "87",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Hautes-Alpes",
+		"iso2": "05",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Hautes-Pyrénées",
+		"iso2": "65",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Hauts-de-France",
+		"iso2": "HDF",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Hauts-de-Seine",
+		"iso2": "92",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Hérault",
+		"iso2": "34",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Île-de-France",
+		"iso2": "IDF",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Ille-et-Vilaine",
+		"iso2": "35",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Indre",
+		"iso2": "36",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Indre-et-Loire",
+		"iso2": "37",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Isère",
+		"iso2": "38",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Jura",
+		"iso2": "39",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "La Réunion",
+		"iso2": "974",
+		"type": "overseas region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Landes",
+		"iso2": "40",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Loir-et-Cher",
+		"iso2": "41",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Loire",
+		"iso2": "42",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Loire-Atlantique",
+		"iso2": "44",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Loiret",
+		"iso2": "45",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Lot",
+		"iso2": "46",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Lot-et-Garonne",
+		"iso2": "47",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Lozère",
+		"iso2": "48",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Maine-et-Loire",
+		"iso2": "49",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Manche",
+		"iso2": "50",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Marne",
+		"iso2": "51",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Martinique",
+		"iso2": "972",
+		"type": "overseas region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Mayenne",
+		"iso2": "53",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Mayotte",
+		"iso2": "976",
+		"type": "overseas region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Métropole de Lyon",
+		"iso2": "69M",
+		"type": "metropolitan collectivity with special status",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Meurthe-et-Moselle",
+		"iso2": "54",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Meuse",
+		"iso2": "55",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Morbihan",
+		"iso2": "56",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Moselle",
+		"iso2": "57",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Nièvre",
+		"iso2": "58",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Nord",
+		"iso2": "59",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Normandie",
+		"iso2": "NOR",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Nouvelle-Aquitaine",
+		"iso2": "NAQ",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Nouvelle-Calédonie",
+		"iso2": "NC",
+		"type": "overseas collectivity with special status",
+		"timezone": "Pacific/Noumea"
+	},
+	{
+		"name": "Occitanie",
+		"iso2": "OCC",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Oise",
+		"iso2": "60",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Orne",
+		"iso2": "61",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Paris",
+		"iso2": "75C",
+		"type": "metropolitan collectivity with special status",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Pas-de-Calais",
+		"iso2": "62",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Pays-de-la-Loire",
+		"iso2": "PDL",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Provence-Alpes-Côte-d’Azur",
+		"iso2": "PAC",
+		"type": "metropolitan region",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Puy-de-Dôme",
+		"iso2": "63",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Pyrénées-Atlantiques",
+		"iso2": "64",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Pyrénées-Orientales",
+		"iso2": "66",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Rhône",
+		"iso2": "69",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Saint Pierre and Miquelon",
+		"iso2": "PM",
+		"type": "overseas collectivity",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Saint-Barthélemy",
+		"iso2": "BL",
+		"type": "overseas collectivity",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Saint-Martin",
+		"iso2": "MF",
+		"type": "overseas collectivity",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Saône-et-Loire",
+		"iso2": "71",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Sarthe",
+		"iso2": "72",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Savoie",
+		"iso2": "73",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Seine-et-Marne",
+		"iso2": "77",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Seine-Maritime",
+		"iso2": "76",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Seine-Saint-Denis",
+		"iso2": "93",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Somme",
+		"iso2": "80",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Tarn",
+		"iso2": "81",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Tarn-et-Garonne",
+		"iso2": "82",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Territoire de Belfort",
+		"iso2": "90",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Val-d'Oise",
+		"iso2": "95",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Val-de-Marne",
+		"iso2": "94",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Var",
+		"iso2": "83",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Vaucluse",
+		"iso2": "84",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Vendée",
+		"iso2": "85",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Vienne",
+		"iso2": "86",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Vosges",
+		"iso2": "88",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Wallis and Futuna",
+		"iso2": "WF",
+		"type": "overseas collectivity",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Yonne",
+		"iso2": "89",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	},
+	{
+		"name": "Yvelines",
+		"iso2": "78",
+		"type": "metropolitan department",
+		"timezone": "Europe/Paris"
+	}
+]

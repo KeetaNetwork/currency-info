@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Estuaire",
+		"iso2": "1",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Haut-Ogooué",
+		"iso2": "2",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Moyen-Ogooué",
+		"iso2": "3",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Ngounié",
+		"iso2": "4",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Nyanga",
+		"iso2": "5",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Ogooué-Ivindo",
+		"iso2": "6",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Ogooué-Lolo",
+		"iso2": "7",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Ogooué-Maritime",
+		"iso2": "8",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	},
+	{
+		"name": "Woleu-Ntem",
+		"iso2": "9",
+		"type": "province",
+		"timezone": "Africa/Libreville"
+	}
+]

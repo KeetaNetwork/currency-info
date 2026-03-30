@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Busan",
+		"iso2": "26",
+		"type": "metropolitan city",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Daegu",
+		"iso2": "27",
+		"type": "metropolitan city",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Daejeon",
+		"iso2": "30",
+		"type": "metropolitan city",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Gangwon",
+		"iso2": "42",
+		"type": "special self-governing province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Gwangju",
+		"iso2": "29",
+		"type": "metropolitan city",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Gyeonggi",
+		"iso2": "41",
+		"type": "province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Incheon",
+		"iso2": "28",
+		"type": "metropolitan city",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Jeju",
+		"iso2": "49",
+		"type": "special self-governing province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "North Chungcheong",
+		"iso2": "43",
+		"type": "province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "North Gyeongsang",
+		"iso2": "47",
+		"type": "province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "North Jeolla",
+		"iso2": "45",
+		"type": "province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Sejong City",
+		"iso2": "50",
+		"type": "special self-governing city",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Seoul",
+		"iso2": "11",
+		"type": "special city",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "South Chungcheong",
+		"iso2": "44",
+		"type": "province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "South Gyeongsang",
+		"iso2": "48",
+		"type": "province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "South Jeolla",
+		"iso2": "46",
+		"type": "province",
+		"timezone": "Asia/Seoul"
+	},
+	{
+		"name": "Ulsan",
+		"iso2": "31",
+		"type": "metropolitan city",
+		"timezone": "Asia/Seoul"
+	}
+]

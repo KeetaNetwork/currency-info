@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Anseba",
+		"iso2": "AN",
+		"type": "region",
+		"timezone": "Africa/Asmara"
+	},
+	{
+		"name": "Debub",
+		"iso2": "DU",
+		"type": "region",
+		"timezone": "Africa/Asmara"
+	},
+	{
+		"name": "Gash-Barka",
+		"iso2": "GB",
+		"type": "region",
+		"timezone": "Africa/Asmara"
+	},
+	{
+		"name": "Maekel",
+		"iso2": "MA",
+		"type": "region",
+		"timezone": "Africa/Asmara"
+	},
+	{
+		"name": "Northern Red Sea",
+		"iso2": "SK",
+		"type": "region",
+		"timezone": "Africa/Asmara"
+	},
+	{
+		"name": "Southern Red Sea",
+		"iso2": "DK",
+		"type": "region",
+		"timezone": "Africa/Asmara"
+	}
+]

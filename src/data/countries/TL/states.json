@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Aileu",
+		"iso2": "AL",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Ainaro",
+		"iso2": "AN",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Baucau",
+		"iso2": "BA",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Bobonaro",
+		"iso2": "BO",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Cova Lima",
+		"iso2": "CO",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Dili",
+		"iso2": "DI",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Ermera",
+		"iso2": "ER",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Lautém",
+		"iso2": "LA",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Liquiçá",
+		"iso2": "LI",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Manatuto",
+		"iso2": "MT",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Manufahi",
+		"iso2": "MF",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Oecusse",
+		"iso2": "OE",
+		"type": "special administrative region",
+		"timezone": "Asia/Dili"
+	},
+	{
+		"name": "Viqueque",
+		"iso2": "VI",
+		"type": "municipality",
+		"timezone": "Asia/Dili"
+	}
+]

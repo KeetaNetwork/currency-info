@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Blekinge",
+		"iso2": "K",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Dalarna",
+		"iso2": "W",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Gävleborg",
+		"iso2": "X",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Gotland",
+		"iso2": "I",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Halland",
+		"iso2": "N",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Jämtland",
+		"iso2": "Z",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Jönköping",
+		"iso2": "F",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Kalmar",
+		"iso2": "H",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Kronoberg",
+		"iso2": "G",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Norrbotten",
+		"iso2": "BD",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Örebro",
+		"iso2": "T",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Östergötland",
+		"iso2": "E",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Skåne",
+		"iso2": "M",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Södermanland",
+		"iso2": "D",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Stockholm",
+		"iso2": "AB",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Uppsala",
+		"iso2": "C",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Värmland",
+		"iso2": "S",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Västerbotten",
+		"iso2": "AC",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Västernorrland",
+		"iso2": "Y",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Västmanland",
+		"iso2": "U",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	},
+	{
+		"name": "Västra Götaland",
+		"iso2": "O",
+		"type": "county",
+		"timezone": "Europe/Stockholm"
+	}
+]

@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Al Bahah",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Al Jawf",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Al Madinah",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Al-Qassim",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Asir",
+		"iso2": "14",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Eastern Province",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Ha'il",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Jizan",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Makkah",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Najran",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Northern Borders",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Riyadh",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	},
+	{
+		"name": "Tabuk",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Asia/Riyadh"
+	}
+]

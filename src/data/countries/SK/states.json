@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Banská Bystrica",
+		"iso2": "BC",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	},
+	{
+		"name": "Bratislava",
+		"iso2": "BL",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	},
+	{
+		"name": "Košice",
+		"iso2": "KI",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	},
+	{
+		"name": "Nitra",
+		"iso2": "NI",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	},
+	{
+		"name": "Prešov",
+		"iso2": "PV",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	},
+	{
+		"name": "Trenčín",
+		"iso2": "TC",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	},
+	{
+		"name": "Trnava",
+		"iso2": "TA",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	},
+	{
+		"name": "Žilina",
+		"iso2": "ZI",
+		"type": "region",
+		"timezone": "Europe/Bratislava"
+	}
+]

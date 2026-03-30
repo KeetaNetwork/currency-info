@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Artemisa",
+		"iso2": "15",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Camagüey",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Ciego de Ávila",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Cienfuegos",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Granma",
+		"iso2": "12",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Guantánamo",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Havana",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Holguín",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Isla de la Juventud",
+		"iso2": "99",
+		"type": "special municipality",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Las Tunas",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Matanzas",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Mayabeque",
+		"iso2": "16",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Pinar del Río",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Sancti Spíritus",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Santiago de Cuba",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "America/Havana"
+	},
+	{
+		"name": "Villa Clara",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "America/Havana"
+	}
+]

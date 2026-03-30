@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Al Daayen",
+		"iso2": "ZA",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	},
+	{
+		"name": "Al Khor",
+		"iso2": "KH",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	},
+	{
+		"name": "Al Rayyan",
+		"iso2": "RA",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	},
+	{
+		"name": "Al Wakrah",
+		"iso2": "WA",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	},
+	{
+		"name": "Al-Shahaniya",
+		"iso2": "SH",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	},
+	{
+		"name": "Doha",
+		"iso2": "DA",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	},
+	{
+		"name": "Madinat ash Shamal",
+		"iso2": "MS",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	},
+	{
+		"name": "Umm Salal",
+		"iso2": "US",
+		"type": "municipality",
+		"timezone": "Asia/Qatar"
+	}
+]

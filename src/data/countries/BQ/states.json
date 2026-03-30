@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Bonaire",
+		"iso2": "BQ1",
+		"type": "special municipality",
+		"timezone": "America/Curacao"
+	},
+	{
+		"name": "Saba",
+		"iso2": "BQ2",
+		"type": "special municipality",
+		"timezone": "America/Curacao"
+	},
+	{
+		"name": "Sint Eustatius",
+		"iso2": "BQ3",
+		"type": "special municipality",
+		"timezone": "America/Curacao"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Fort-de-France",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "America/Martinique"
+	},
+	{
+		"name": "La Trinité",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "America/Martinique"
+	},
+	{
+		"name": "Le Marin",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "America/Martinique"
+	},
+	{
+		"name": "Saint-Pierre",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "America/Martinique"
+	}
+]

@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Alta Verapaz ",
+		"iso2": "16",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Baja Verapaz ",
+		"iso2": "15",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Chimaltenango ",
+		"iso2": "04",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Chiquimula ",
+		"iso2": "20",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "El Progreso ",
+		"iso2": "02",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Escuintla ",
+		"iso2": "05",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Guatemala ",
+		"iso2": "01",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Huehuetenango ",
+		"iso2": "13",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Izabal ",
+		"iso2": "18",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Jalapa ",
+		"iso2": "21",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Jutiapa ",
+		"iso2": "22",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Petén ",
+		"iso2": "17",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Quetzaltenango ",
+		"iso2": "09",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Quiché ",
+		"iso2": "14",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Retalhuleu ",
+		"iso2": "11",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Sacatepéquez ",
+		"iso2": "03",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "San Marcos ",
+		"iso2": "12",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Santa Rosa ",
+		"iso2": "06",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Sololá ",
+		"iso2": "07",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Suchitepéquez ",
+		"iso2": "10",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Totonicapán ",
+		"iso2": "08",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	},
+	{
+		"name": "Zacapa",
+		"iso2": "19",
+		"type": "department",
+		"timezone": "America/Guatemala"
+	}
+]

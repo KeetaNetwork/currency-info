@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Aiwo",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Anabar",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Anetan",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Anibare",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Baiti",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Boe",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Buada",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Denigomodu",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Ewa",
+		"iso2": "09",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Ijuw",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Meneng",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Nibok",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Uaboe",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	},
+	{
+		"name": "Yaren",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "Pacific/Nauru"
+	}
+]

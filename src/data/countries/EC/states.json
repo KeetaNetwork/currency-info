@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Azuay",
+		"iso2": "A",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Bolívar",
+		"iso2": "B",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Cañar",
+		"iso2": "F",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Carchi",
+		"iso2": "C",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Chimborazo",
+		"iso2": "H",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Cotopaxi",
+		"iso2": "X",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "El Oro",
+		"iso2": "O",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Esmeraldas",
+		"iso2": "E",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Galápagos",
+		"iso2": "W",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Guayas",
+		"iso2": "G",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Imbabura",
+		"iso2": "I",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Loja",
+		"iso2": "L",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Los Ríos",
+		"iso2": "R",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Manabí",
+		"iso2": "M",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Morona-Santiago",
+		"iso2": "S",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Napo",
+		"iso2": "N",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Orellana",
+		"iso2": "D",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Pastaza",
+		"iso2": "Y",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Pichincha",
+		"iso2": "P",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Santa Elena",
+		"iso2": "SE",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Santo Domingo de los Tsáchilas",
+		"iso2": "SD",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Sucumbíos",
+		"iso2": "U",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Tungurahua",
+		"iso2": "T",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	},
+	{
+		"name": "Zamora Chinchipe",
+		"iso2": "Z",
+		"type": "province",
+		"timezone": "America/Guayaquil"
+	}
+]

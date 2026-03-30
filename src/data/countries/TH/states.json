@@ -1,0 +1,470 @@
+[
+	{
+		"name": "Amnat Charoen",
+		"iso2": "37",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Ang Thong",
+		"iso2": "15",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Bangkok",
+		"iso2": "10",
+		"type": "metropolitan administration",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Bueng Kan",
+		"iso2": "38",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Buri Ram",
+		"iso2": "31",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chachoengsao",
+		"iso2": "24",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chai Nat",
+		"iso2": "18",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chaiyaphum",
+		"iso2": "36",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chanthaburi",
+		"iso2": "22",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chiang Mai",
+		"iso2": "50",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chiang Rai",
+		"iso2": "57",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chon Buri",
+		"iso2": "20",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Chumphon",
+		"iso2": "86",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Kalasin",
+		"iso2": "46",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Kamphaeng Phet",
+		"iso2": "62",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Kanchanaburi",
+		"iso2": "71",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Khon Kaen",
+		"iso2": "40",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Krabi",
+		"iso2": "81",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Lampang",
+		"iso2": "52",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Lamphun",
+		"iso2": "51",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Loei",
+		"iso2": "42",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Lop Buri",
+		"iso2": "16",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Mae Hong Son",
+		"iso2": "58",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Maha Sarakham",
+		"iso2": "44",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Mukdahan",
+		"iso2": "49",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nakhon Nayok",
+		"iso2": "26",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nakhon Pathom",
+		"iso2": "73",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nakhon Phanom",
+		"iso2": "48",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nakhon Ratchasima",
+		"iso2": "30",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nakhon Sawan",
+		"iso2": "60",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nakhon Si Thammarat",
+		"iso2": "80",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nan",
+		"iso2": "55",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Narathiwat",
+		"iso2": "96",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nong Bua Lam Phu",
+		"iso2": "39",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nong Khai",
+		"iso2": "43",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Nonthaburi",
+		"iso2": "12",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Pathum Thani",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Pattani",
+		"iso2": "94",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Pattaya",
+		"iso2": "S",
+		"type": "metropolitan administration",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phangnga",
+		"iso2": "82",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phatthalung",
+		"iso2": "93",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phayao",
+		"iso2": "56",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phetchabun",
+		"iso2": "67",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phetchaburi",
+		"iso2": "76",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phichit",
+		"iso2": "66",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phitsanulok",
+		"iso2": "65",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phra Nakhon Si Ayutthaya",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phrae",
+		"iso2": "54",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Phuket",
+		"iso2": "83",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Prachin Buri",
+		"iso2": "25",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Prachuap Khiri Khan",
+		"iso2": "77",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Ranong",
+		"iso2": "85",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Ratchaburi",
+		"iso2": "70",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Rayong",
+		"iso2": "21",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Roi Et",
+		"iso2": "45",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Sa Kaeo",
+		"iso2": "27",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Sakon Nakhon",
+		"iso2": "47",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Samut Prakan",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Samut Sakhon",
+		"iso2": "74",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Samut Songkhram",
+		"iso2": "75",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Saraburi",
+		"iso2": "19",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Satun",
+		"iso2": "91",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Si Sa Ket",
+		"iso2": "33",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Sing Buri",
+		"iso2": "17",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Songkhla",
+		"iso2": "90",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Sukhothai",
+		"iso2": "64",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Suphan Buri",
+		"iso2": "72",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Surat Thani",
+		"iso2": "84",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Surin",
+		"iso2": "32",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Tak",
+		"iso2": "63",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Trang",
+		"iso2": "92",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Trat",
+		"iso2": "23",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Ubon Ratchathani",
+		"iso2": "34",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Udon Thani",
+		"iso2": "41",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Uthai Thani",
+		"iso2": "61",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Uttaradit",
+		"iso2": "53",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Yala",
+		"iso2": "95",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	},
+	{
+		"name": "Yasothon",
+		"iso2": "35",
+		"type": "province",
+		"timezone": "Asia/Bangkok"
+	}
+]

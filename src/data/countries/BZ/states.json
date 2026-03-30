@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Belize",
+		"iso2": "BZ",
+		"type": "district",
+		"timezone": "America/Belize"
+	},
+	{
+		"name": "Cayo",
+		"iso2": "CY",
+		"type": "district",
+		"timezone": "America/Belize"
+	},
+	{
+		"name": "Corozal",
+		"iso2": "CZL",
+		"type": "district",
+		"timezone": "America/Belize"
+	},
+	{
+		"name": "Orange Walk",
+		"iso2": "OW",
+		"type": "district",
+		"timezone": "America/Belize"
+	},
+	{
+		"name": "Stann Creek",
+		"iso2": "SC",
+		"type": "district",
+		"timezone": "America/Belize"
+	},
+	{
+		"name": "Toledo",
+		"iso2": "TOL",
+		"type": "district",
+		"timezone": "America/Belize"
+	}
+]

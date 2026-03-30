@@ -1,0 +1,182 @@
+[
+	{
+		"name": "Carlow",
+		"iso2": "CW",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Cavan",
+		"iso2": "CN",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Clare",
+		"iso2": "CE",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Connacht",
+		"iso2": "C",
+		"type": "province",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Cork",
+		"iso2": "CO",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Donegal",
+		"iso2": "DL",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Dublin",
+		"iso2": "D",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Galway",
+		"iso2": "G",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Kerry",
+		"iso2": "KY",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Kildare",
+		"iso2": "KE",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Kilkenny",
+		"iso2": "KK",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Laois",
+		"iso2": "LS",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Leinster",
+		"iso2": "L",
+		"type": "province",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Leitrim",
+		"iso2": "LM",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Limerick",
+		"iso2": "LK",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Longford",
+		"iso2": "LD",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Louth",
+		"iso2": "LH",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Mayo",
+		"iso2": "MO",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Meath",
+		"iso2": "MH",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Monaghan",
+		"iso2": "MN",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Munster",
+		"iso2": "M",
+		"type": "province",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Offaly",
+		"iso2": "OY",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Roscommon",
+		"iso2": "RN",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Sligo",
+		"iso2": "SO",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Tipperary",
+		"iso2": "TA",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Ulster",
+		"iso2": "U",
+		"type": "province",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Waterford",
+		"iso2": "WD",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Westmeath",
+		"iso2": "WH",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Wexford",
+		"iso2": "WX",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	},
+	{
+		"name": "Wicklow",
+		"iso2": "WW",
+		"type": "county",
+		"timezone": "Europe/Dublin"
+	}
+]

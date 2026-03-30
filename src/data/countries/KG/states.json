@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Batken",
+		"iso2": "B",
+		"type": "region",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Bishkek",
+		"iso2": "GB",
+		"type": "city",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Chuy",
+		"iso2": "C",
+		"type": "region",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Issyk-Kul",
+		"iso2": "Y",
+		"type": "region",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Jalal-Abad",
+		"iso2": "J",
+		"type": "region",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Naryn",
+		"iso2": "N",
+		"type": "region",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Osh",
+		"iso2": "GO",
+		"type": "city",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Osh",
+		"iso2": "O",
+		"type": "region",
+		"timezone": "Asia/Bishkek"
+	},
+	{
+		"name": "Talas",
+		"iso2": "T",
+		"type": "region",
+		"timezone": "Asia/Bishkek"
+	}
+]

@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Abai",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Akmola",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Aktobe",
+		"iso2": "15",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Almaty",
+		"iso2": "19",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Almaty",
+		"iso2": "75",
+		"type": "city",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Astana",
+		"iso2": "71",
+		"type": "city",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Atyrau",
+		"iso2": "23",
+		"type": "region",
+		"timezone": "Asia/Atyrau"
+	},
+	{
+		"name": "East Kazakhstan",
+		"iso2": "63",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Jambyl",
+		"iso2": "31",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Jetisu",
+		"iso2": "33",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Karaganda",
+		"iso2": "35",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Kostanay",
+		"iso2": "39",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Kyzylorda",
+		"iso2": "43",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Mangystau",
+		"iso2": "47",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "North Kazakhstan",
+		"iso2": "59",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Pavlodar",
+		"iso2": "55",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Shymkent",
+		"iso2": "79",
+		"type": "city",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Turkistan",
+		"iso2": "61",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "Ulytau",
+		"iso2": "62",
+		"type": "region",
+		"timezone": "Asia/Almaty"
+	},
+	{
+		"name": "West Kazakhstan",
+		"iso2": "27",
+		"type": "region",
+		"timezone": "Asia/Oral"
+	}
+]

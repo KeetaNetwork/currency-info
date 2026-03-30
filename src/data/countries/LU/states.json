@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Capellen",
+		"iso2": "CA",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Clervaux",
+		"iso2": "CL",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Diekirch",
+		"iso2": "DI",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Echternach",
+		"iso2": "EC",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Esch-sur-Alzette",
+		"iso2": "ES",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Grevenmacher",
+		"iso2": "G",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Luxembourg ",
+		"iso2": "L",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Mersch",
+		"iso2": "ME",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Redange",
+		"iso2": "RD",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Remich",
+		"iso2": "RM",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Vianden",
+		"iso2": "VD",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	},
+	{
+		"name": "Wiltz",
+		"iso2": "WI",
+		"type": "canton",
+		"timezone": "Europe/Luxembourg"
+	}
+]

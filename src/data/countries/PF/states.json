@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Austral Islands",
+		"iso2": "01",
+		"type": "division",
+		"timezone": "Pacific/Gambier"
+	},
+	{
+		"name": "Leeward Islands",
+		"iso2": "02",
+		"type": "division",
+		"timezone": "Pacific/Gambier"
+	},
+	{
+		"name": "Marquesas Islands",
+		"iso2": "03",
+		"type": "division",
+		"timezone": "Pacific/Marquesas"
+	},
+	{
+		"name": "Tuamotu-Gambier",
+		"iso2": "04",
+		"type": "division",
+		"timezone": "Pacific/Gambier"
+	},
+	{
+		"name": "Windward Islands",
+		"iso2": "05",
+		"type": "division",
+		"timezone": "Pacific/Gambier"
+	}
+]

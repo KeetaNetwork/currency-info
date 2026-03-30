@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Famagusta (Mağusa)",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Asia/Famagusta"
+	},
+	{
+		"name": "Kyrenia (Keryneia)",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Asia/Famagusta"
+	},
+	{
+		"name": "Larnaca (Larnaka)",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Asia/Famagusta"
+	},
+	{
+		"name": "Limassol (Leymasun)",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Asia/Famagusta"
+	},
+	{
+		"name": "Nicosia (Lefkoşa)",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Asia/Famagusta"
+	},
+	{
+		"name": "Paphos (Pafos)",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Asia/Famagusta"
+	}
+]

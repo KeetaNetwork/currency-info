@@ -1,0 +1,188 @@
+[
+	{
+		"name": "Arusha",
+		"iso2": "01",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Dar es Salaam",
+		"iso2": "02",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Dodoma",
+		"iso2": "03",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Geita",
+		"iso2": "27",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Iringa",
+		"iso2": "04",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Kagera",
+		"iso2": "05",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Katavi",
+		"iso2": "28",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Kigoma",
+		"iso2": "08",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Kilimanjaro",
+		"iso2": "09",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Lindi",
+		"iso2": "12",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Manyara",
+		"iso2": "26",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Mara",
+		"iso2": "13",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Mbeya",
+		"iso2": "14",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Morogoro",
+		"iso2": "16",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Mtwara",
+		"iso2": "17",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Mwanza",
+		"iso2": "18",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Njombe",
+		"iso2": "29",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Pemba North",
+		"iso2": "06",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Pemba South",
+		"iso2": "10",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Pwani",
+		"iso2": "19",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Rukwa",
+		"iso2": "20",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Ruvuma",
+		"iso2": "21",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Shinyanga",
+		"iso2": "22",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Simiyu",
+		"iso2": "30",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Singida",
+		"iso2": "23",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Songwe",
+		"iso2": "31",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Tabora",
+		"iso2": "24",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Tanga",
+		"iso2": "25",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Zanzibar North",
+		"iso2": "07",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Zanzibar South",
+		"iso2": "11",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	},
+	{
+		"name": "Zanzibar West",
+		"iso2": "15",
+		"type": "region",
+		"timezone": "Africa/Dar_es_Salaam"
+	}
+]

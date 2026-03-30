@@ -1,0 +1,194 @@
+[
+	{
+		"name": "Aguascalientes",
+		"iso2": "AGU",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Baja California",
+		"iso2": "BCN",
+		"type": "state",
+		"timezone": "America/Tijuana"
+	},
+	{
+		"name": "Baja California Sur",
+		"iso2": "BCS",
+		"type": "state",
+		"timezone": "America/Mazatlan"
+	},
+	{
+		"name": "Campeche",
+		"iso2": "CAM",
+		"type": "state",
+		"timezone": "America/Merida"
+	},
+	{
+		"name": "Chiapas",
+		"iso2": "CHP",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Chihuahua",
+		"iso2": "CHH",
+		"type": "state",
+		"timezone": "America/Chihuahua"
+	},
+	{
+		"name": "Ciudad de México",
+		"iso2": "CMX",
+		"type": "federal district",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Coahuila de Zaragoza",
+		"iso2": "COA",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Colima",
+		"iso2": "COL",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Durango",
+		"iso2": "DUR",
+		"type": "state",
+		"timezone": "America/Monterrey"
+	},
+	{
+		"name": "Estado de México",
+		"iso2": "MEX",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Guanajuato",
+		"iso2": "GUA",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Guerrero",
+		"iso2": "GRO",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Hidalgo",
+		"iso2": "HID",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Jalisco",
+		"iso2": "JAL",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Michoacán de Ocampo",
+		"iso2": "MIC",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Morelos",
+		"iso2": "MOR",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Nayarit",
+		"iso2": "NAY",
+		"type": "state",
+		"timezone": "America/Mazatlan"
+	},
+	{
+		"name": "Nuevo León",
+		"iso2": "NLE",
+		"type": "state",
+		"timezone": "America/Monterrey"
+	},
+	{
+		"name": "Oaxaca",
+		"iso2": "OAX",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Puebla",
+		"iso2": "PUE",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Querétaro",
+		"iso2": "QUE",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Quintana Roo",
+		"iso2": "ROO",
+		"type": "state",
+		"timezone": "America/Cancun"
+	},
+	{
+		"name": "San Luis Potosí",
+		"iso2": "SLP",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Sinaloa",
+		"iso2": "SIN",
+		"type": "state",
+		"timezone": "America/Mazatlan"
+	},
+	{
+		"name": "Sonora",
+		"iso2": "SON",
+		"type": "state",
+		"timezone": "America/Hermosillo"
+	},
+	{
+		"name": "Tabasco",
+		"iso2": "TAB",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Tamaulipas",
+		"iso2": "TAM",
+		"type": "state",
+		"timezone": "America/Matamoros"
+	},
+	{
+		"name": "Tlaxcala",
+		"iso2": "TLA",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Veracruz de Ignacio de la Llave",
+		"iso2": "VER",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	},
+	{
+		"name": "Yucatán",
+		"iso2": "YUC",
+		"type": "state",
+		"timezone": "America/Merida"
+	},
+	{
+		"name": "Zacatecas",
+		"iso2": "ZAC",
+		"type": "state",
+		"timezone": "America/Mexico_City"
+	}
+]

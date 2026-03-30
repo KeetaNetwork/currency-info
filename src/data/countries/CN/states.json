@@ -1,0 +1,206 @@
+[
+	{
+		"name": "Anhui",
+		"iso2": "AH",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Beijing",
+		"iso2": "BJ",
+		"type": "municipality",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Chongqing",
+		"iso2": "CQ",
+		"type": "municipality",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Fujian",
+		"iso2": "FJ",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Gansu",
+		"iso2": "GS",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Guangdong",
+		"iso2": "GD",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Guangxi",
+		"iso2": "GX",
+		"type": "autonomous region",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Guizhou",
+		"iso2": "GZ",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Hainan",
+		"iso2": "HI",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Hebei",
+		"iso2": "HE",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Heilongjiang",
+		"iso2": "HL",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Henan",
+		"iso2": "HA",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Hong Kong SAR",
+		"iso2": "HK",
+		"type": "special administrative region",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Hubei",
+		"iso2": "HB",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Hunan",
+		"iso2": "HN",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Inner Mongolia",
+		"iso2": "NM",
+		"type": "autonomous region",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Jiangsu",
+		"iso2": "JS",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Jiangxi",
+		"iso2": "JX",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Jilin",
+		"iso2": "JL",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Liaoning",
+		"iso2": "LN",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Macau SAR",
+		"iso2": "MO",
+		"type": "special administrative region",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Ningxia",
+		"iso2": "NX",
+		"type": "autonomous region",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Qinghai",
+		"iso2": "QH",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Shaanxi",
+		"iso2": "SN",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Shandong",
+		"iso2": "SD",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Shanghai",
+		"iso2": "SH",
+		"type": "municipality",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Shanxi",
+		"iso2": "SX",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Sichuan",
+		"iso2": "SC",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Taiwan",
+		"iso2": "TW",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Tianjin",
+		"iso2": "TJ",
+		"type": "municipality",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Tibet",
+		"iso2": "XZ",
+		"type": "autonomous region",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Xinjiang",
+		"iso2": "XJ",
+		"type": "autonomous region",
+		"timezone": "Asia/Urumqi"
+	},
+	{
+		"name": "Yunnan",
+		"iso2": "YN",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	},
+	{
+		"name": "Zhejiang",
+		"iso2": "ZJ",
+		"type": "province",
+		"timezone": "Asia/Shanghai"
+	}
+]

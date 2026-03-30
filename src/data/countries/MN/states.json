@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Arkhangai",
+		"iso2": "073",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Bayan-Ölgii",
+		"iso2": "071",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Bayankhongor",
+		"iso2": "069",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Bulgan",
+		"iso2": "067",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Darkhan-Uul",
+		"iso2": "037",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Dornod",
+		"iso2": "061",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Dornogovi",
+		"iso2": "063",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Dundgovi",
+		"iso2": "059",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Govi-Altai",
+		"iso2": "065",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Govisümber",
+		"iso2": "064",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Khentii",
+		"iso2": "039",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Khovd",
+		"iso2": "043",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Khövsgöl",
+		"iso2": "041",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Ömnögovi",
+		"iso2": "053",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Orkhon",
+		"iso2": "035",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Övörkhangai",
+		"iso2": "055",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Selenge",
+		"iso2": "049",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Sükhbaatar",
+		"iso2": "051",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Töv",
+		"iso2": "047",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Ulaanbaatar",
+		"iso2": "001",
+		"type": "capital city",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Uvs",
+		"iso2": "046",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	},
+	{
+		"name": "Zavkhan",
+		"iso2": "057",
+		"type": "province",
+		"timezone": "Asia/Choibalsan"
+	}
+]

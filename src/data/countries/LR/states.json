@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Bomi",
+		"iso2": "BM",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Bong",
+		"iso2": "BG",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Gbarpolu",
+		"iso2": "GP",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Grand Bassa",
+		"iso2": "GB",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Grand Cape Mount",
+		"iso2": "CM",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Grand Gedeh",
+		"iso2": "GG",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Grand Kru",
+		"iso2": "GK",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Lofa",
+		"iso2": "LO",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Margibi",
+		"iso2": "MG",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Maryland",
+		"iso2": "MY",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Montserrado",
+		"iso2": "MO",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Nimba",
+		"iso2": "NI",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "River Cess",
+		"iso2": "RI",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "River Gee",
+		"iso2": "RG",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	},
+	{
+		"name": "Sinoe",
+		"iso2": "SI",
+		"type": "county",
+		"timezone": "Africa/Monrovia"
+	}
+]

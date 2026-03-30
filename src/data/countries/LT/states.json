@@ -1,0 +1,422 @@
+[
+	{
+		"name": "Akmenė",
+		"iso2": "01",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Alytus",
+		"iso2": "03",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Alytus",
+		"iso2": "02",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Alytus",
+		"iso2": "AL",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Anykščiai",
+		"iso2": "04",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Birštonas",
+		"iso2": "05",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Biržai",
+		"iso2": "06",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Druskininkai",
+		"iso2": "07",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Elektrėnai",
+		"iso2": "08",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Ignalina",
+		"iso2": "09",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Jonava",
+		"iso2": "10",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Joniškis",
+		"iso2": "11",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Jurbarkas",
+		"iso2": "12",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kaišiadorys",
+		"iso2": "13",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kalvarija",
+		"iso2": "14",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kaunas",
+		"iso2": "KU",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kaunas",
+		"iso2": "16",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kaunas",
+		"iso2": "15",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kazlų Rūda",
+		"iso2": "17",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kėdainiai",
+		"iso2": "18",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kelmė",
+		"iso2": "19",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Klaipėda",
+		"iso2": "KL",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Klaipėda",
+		"iso2": "21",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Klaipėdos miestas",
+		"iso2": "20",
+		"type": "city municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kretinga",
+		"iso2": "22",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Kupiškis",
+		"iso2": "23",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Lazdijai",
+		"iso2": "24",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Marijampolė",
+		"iso2": "25",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Marijampolė",
+		"iso2": "MR",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Mažeikiai",
+		"iso2": "26",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Molėtai",
+		"iso2": "27",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Neringa",
+		"iso2": "28",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Pagėgiai",
+		"iso2": "29",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Pakruojis",
+		"iso2": "30",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Palanga",
+		"iso2": "31",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Panevėžio miestas",
+		"iso2": "32",
+		"type": "city municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Panevėžys",
+		"iso2": "33",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Panevėžys",
+		"iso2": "PN",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Pasvalys",
+		"iso2": "34",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Plungė",
+		"iso2": "35",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Prienai",
+		"iso2": "36",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Radviliškis",
+		"iso2": "37",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Raseiniai",
+		"iso2": "38",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Rietavas",
+		"iso2": "39",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Rokiškis",
+		"iso2": "40",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Šakiai",
+		"iso2": "41",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Šalčininkai",
+		"iso2": "42",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Šiauliai",
+		"iso2": "SA",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Šiauliai",
+		"iso2": "43",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Šiauliai",
+		"iso2": "44",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Šilalė ",
+		"iso2": "45",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Šilutė",
+		"iso2": "46",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Širvintos",
+		"iso2": "47",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Skuodas",
+		"iso2": "48",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Švenčionys",
+		"iso2": "49",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Tauragė",
+		"iso2": "TA",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Tauragė",
+		"iso2": "50",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Telšiai",
+		"iso2": "51",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Telšiai",
+		"iso2": "TE",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Trakai",
+		"iso2": "52",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Ukmergė",
+		"iso2": "53",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Utena",
+		"iso2": "54",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Utena",
+		"iso2": "UT",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Varėna",
+		"iso2": "55",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Vilkaviškis",
+		"iso2": "56",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Vilnius",
+		"iso2": "58",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Vilnius",
+		"iso2": "57",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Vilnius",
+		"iso2": "VL",
+		"type": "county",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Visaginas",
+		"iso2": "59",
+		"type": "municipality",
+		"timezone": "Europe/Vilnius"
+	},
+	{
+		"name": "Zarasai",
+		"iso2": "60",
+		"type": "district municipality",
+		"timezone": "Europe/Vilnius"
+	}
+]

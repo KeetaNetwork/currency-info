@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Bouenza",
+		"iso2": "11",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Brazzaville",
+		"iso2": "BZV",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Cuvette",
+		"iso2": "8",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Cuvette-Ouest",
+		"iso2": "15",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Kouilou",
+		"iso2": "5",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Lékoumou",
+		"iso2": "2",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Likouala",
+		"iso2": "7",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Niari",
+		"iso2": "9",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Plateaux",
+		"iso2": "14",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Pointe-Noire",
+		"iso2": "16",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Pool",
+		"iso2": "12",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	},
+	{
+		"name": "Sangha",
+		"iso2": "13",
+		"type": "department",
+		"timezone": "Africa/Brazzaville"
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Abidjan",
+		"iso2": "AB",
+		"type": "autonomous district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Bas-Sassandra",
+		"iso2": "BS",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Comoé",
+		"iso2": "CM",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Denguélé",
+		"iso2": "DN",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Gôh-Djiboua",
+		"iso2": "GD",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Lacs",
+		"iso2": "LC",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Lagunes",
+		"iso2": "LG",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Montagnes",
+		"iso2": "MG",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Sassandra-Marahoué",
+		"iso2": "SM",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Savanes",
+		"iso2": "SV",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Vallée du Bandama",
+		"iso2": "VB",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Woroba",
+		"iso2": "WR",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Yamoussoukro",
+		"iso2": "YM",
+		"type": "autonomous district",
+		"timezone": "Africa/Abidjan"
+	},
+	{
+		"name": "Zanzan",
+		"iso2": "ZZ",
+		"type": "district",
+		"timezone": "Africa/Abidjan"
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Bulawayo",
+		"iso2": "BU",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Harare",
+		"iso2": "HA",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Manicaland",
+		"iso2": "MA",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Mashonaland Central",
+		"iso2": "MC",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Mashonaland East",
+		"iso2": "ME",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Mashonaland West",
+		"iso2": "MW",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Masvingo",
+		"iso2": "MV",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Matabeleland North",
+		"iso2": "MN",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Matabeleland South",
+		"iso2": "MS",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	},
+	{
+		"name": "Midlands",
+		"iso2": "MI",
+		"type": "province",
+		"timezone": "Africa/Harare"
+	}
+]

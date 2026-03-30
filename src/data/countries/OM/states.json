@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Ad Dakhiliyah",
+		"iso2": "DA",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Ad Dhahirah",
+		"iso2": "ZA",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Al Batinah North",
+		"iso2": "BS",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Al Batinah South",
+		"iso2": "BJ",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Al Buraimi",
+		"iso2": "BU",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Al Wusta",
+		"iso2": "WU",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Ash Sharqiyah North",
+		"iso2": "SS",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Ash Sharqiyah South",
+		"iso2": "SJ",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Dhofar",
+		"iso2": "ZU",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Musandam",
+		"iso2": "MU",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	},
+	{
+		"name": "Muscat",
+		"iso2": "MA",
+		"type": "governorate",
+		"timezone": "Asia/Muscat"
+	}
+]

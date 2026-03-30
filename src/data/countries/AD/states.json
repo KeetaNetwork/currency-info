@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Andorra la Vella",
+		"iso2": "07",
+		"type": "parish",
+		"timezone": "Europe/Andorra"
+	},
+	{
+		"name": "Canillo",
+		"iso2": "02",
+		"type": "parish",
+		"timezone": "Europe/Andorra"
+	},
+	{
+		"name": "Encamp",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "Europe/Andorra"
+	},
+	{
+		"name": "Escaldes-Engordany",
+		"iso2": "08",
+		"type": "parish",
+		"timezone": "Europe/Andorra"
+	},
+	{
+		"name": "La Massana",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "Europe/Andorra"
+	},
+	{
+		"name": "Ordino",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "Europe/Andorra"
+	},
+	{
+		"name": "Sant Julià de Lòria",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "Europe/Andorra"
+	}
+]

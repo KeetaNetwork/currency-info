@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Addu",
+		"iso2": "01",
+		"type": "city",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Alif Alif",
+		"iso2": "02",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Alif Dhaal",
+		"iso2": "00",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Baa",
+		"iso2": "20",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Dhaalu",
+		"iso2": "17",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Faafu",
+		"iso2": "14",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Gaafu Alif",
+		"iso2": "27",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Gaafu Dhaalu",
+		"iso2": "28",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Gnaviyani",
+		"iso2": "29",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Haa Alif",
+		"iso2": "07",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Haa Dhaalu",
+		"iso2": "23",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Kaafu",
+		"iso2": "26",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Laamu",
+		"iso2": "05",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Lhaviyani",
+		"iso2": "03",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Malé",
+		"iso2": "MLE",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Meemu",
+		"iso2": "12",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Noonu",
+		"iso2": "25",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Raa",
+		"iso2": "13",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Shaviyani",
+		"iso2": "24",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Thaa",
+		"iso2": "08",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	},
+	{
+		"name": "Vaavu",
+		"iso2": "04",
+		"type": "administrative atoll",
+		"timezone": "Indian/Maldives"
+	}
+]

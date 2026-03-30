@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Agadez",
+		"iso2": "1",
+		"type": "region",
+		"timezone": "Africa/Niamey"
+	},
+	{
+		"name": "Diffa",
+		"iso2": "2",
+		"type": "region",
+		"timezone": "Africa/Niamey"
+	},
+	{
+		"name": "Dosso",
+		"iso2": "3",
+		"type": "region",
+		"timezone": "Africa/Niamey"
+	},
+	{
+		"name": "Maradi",
+		"iso2": "4",
+		"type": "region",
+		"timezone": "Africa/Niamey"
+	},
+	{
+		"name": "Niamey",
+		"iso2": "8",
+		"type": "urban community",
+		"timezone": "Africa/Niamey"
+	},
+	{
+		"name": "Tahoua",
+		"iso2": "5",
+		"type": "region",
+		"timezone": "Africa/Niamey"
+	},
+	{
+		"name": "Tillabéri",
+		"iso2": "6",
+		"type": "region",
+		"timezone": "Africa/Niamey"
+	},
+	{
+		"name": "Zinder",
+		"iso2": "7",
+		"type": "region",
+		"timezone": "Africa/Niamey"
+	}
+]

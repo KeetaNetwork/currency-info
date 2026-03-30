@@ -1,0 +1,152 @@
+[
+	{
+		"name": "Banteay Meanchey",
+		"iso2": "1",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Battambang",
+		"iso2": "2",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kampong Cham",
+		"iso2": "3",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kampong Chhnang",
+		"iso2": "4",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kampong Speu",
+		"iso2": "5",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kampong Thom",
+		"iso2": "6",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kampot",
+		"iso2": "7",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kandal",
+		"iso2": "8",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kep",
+		"iso2": "23",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Koh Kong",
+		"iso2": "9",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Kratie",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Mondulkiri",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Oddar Meanchey",
+		"iso2": "22",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Pailin",
+		"iso2": "24",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Phnom Penh",
+		"iso2": "12",
+		"type": "autonomous municipality",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Preah Vihear",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Prey Veng",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Pursat",
+		"iso2": "15",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Ratanakiri",
+		"iso2": "16",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Siem Reap",
+		"iso2": "17",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Sihanoukville",
+		"iso2": "18",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Stung Treng",
+		"iso2": "19",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Svay Rieng",
+		"iso2": "20",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Takeo",
+		"iso2": "21",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	},
+	{
+		"name": "Tboung Khmum",
+		"iso2": "25",
+		"type": "province",
+		"timezone": "Asia/Phnom_Penh"
+	}
+]

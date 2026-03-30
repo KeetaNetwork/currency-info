@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Anse la Raye",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Canaries",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Castries",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Choiseul",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Dennery",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Gros Islet",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Laborie",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Micoud",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Soufrière",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	},
+	{
+		"name": "Vieux Fort",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "America/St_Lucia"
+	}
+]

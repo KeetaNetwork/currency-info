@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Bagmati",
+		"iso2": "P3",
+		"type": "province",
+		"timezone": "Asia/Kathmandu"
+	},
+	{
+		"name": "Gandaki",
+		"iso2": "P4",
+		"type": "province",
+		"timezone": "Asia/Kathmandu"
+	},
+	{
+		"name": "Karnali",
+		"iso2": "P6",
+		"type": "province",
+		"timezone": "Asia/Kathmandu"
+	},
+	{
+		"name": "Koshi",
+		"iso2": "P1",
+		"type": "province",
+		"timezone": "Asia/Kathmandu"
+	},
+	{
+		"name": "Lumbini",
+		"iso2": "P5",
+		"type": "province",
+		"timezone": "Asia/Kathmandu"
+	},
+	{
+		"name": "Madhesh",
+		"iso2": "P2",
+		"type": "province",
+		"timezone": "Asia/Kathmandu"
+	},
+	{
+		"name": "Sudurpashchim",
+		"iso2": "P7",
+		"type": "province",
+		"timezone": "Asia/Kathmandu"
+	}
+]

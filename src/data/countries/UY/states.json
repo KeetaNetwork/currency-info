@@ -1,0 +1,116 @@
+[
+	{
+		"name": "Artigas",
+		"iso2": "AR",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Canelones",
+		"iso2": "CA",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Cerro Largo",
+		"iso2": "CL",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Colonia",
+		"iso2": "CO",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Durazno",
+		"iso2": "DU",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Flores",
+		"iso2": "FS",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Florida",
+		"iso2": "FD",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Lavalleja",
+		"iso2": "LA",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Maldonado",
+		"iso2": "MA",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Montevideo",
+		"iso2": "MO",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Paysandú",
+		"iso2": "PA",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Río Negro",
+		"iso2": "RN",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Rivera",
+		"iso2": "RV",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Rocha",
+		"iso2": "RO",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Salto",
+		"iso2": "SA",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "San José",
+		"iso2": "SJ",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Soriano",
+		"iso2": "SO",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Tacuarembó",
+		"iso2": "TA",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	},
+	{
+		"name": "Treinta y Tres",
+		"iso2": "TT",
+		"type": "department",
+		"timezone": "America/Montevideo"
+	}
+]

@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Agder",
+		"iso2": "42",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Akershus",
+		"iso2": "32",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Buskerud",
+		"iso2": "33",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Finnmark",
+		"iso2": "56",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Innlandet",
+		"iso2": "34",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Jan Mayen",
+		"iso2": "22",
+		"type": "arctic region",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Møre og Romsdal",
+		"iso2": "15",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Nordland",
+		"iso2": "18",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Oslo",
+		"iso2": "03",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Østfold",
+		"iso2": "31",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Rogaland",
+		"iso2": "11",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Svalbard",
+		"iso2": "21",
+		"type": "arctic region",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Telemark",
+		"iso2": "40",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Troms",
+		"iso2": "55",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Trøndelag",
+		"iso2": "50",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Vestfold",
+		"iso2": "39",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	},
+	{
+		"name": "Vestland",
+		"iso2": "46",
+		"type": "county",
+		"timezone": "Europe/Oslo"
+	}
+]

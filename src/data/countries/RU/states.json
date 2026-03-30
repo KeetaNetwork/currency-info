@@ -1,0 +1,500 @@
+[
+	{
+		"name": "Adygea",
+		"iso2": "AD",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Altai",
+		"iso2": "ALT",
+		"type": "administrative territory",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Altai",
+		"iso2": "AL",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Amur",
+		"iso2": "AMU",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Arkhangelsk",
+		"iso2": "ARK",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Astrakhan",
+		"iso2": "AST",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Bashkortostan",
+		"iso2": "BA",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Belgorod",
+		"iso2": "BEL",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Bryansk",
+		"iso2": "BRY",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Buryatia",
+		"iso2": "BU",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Chechen",
+		"iso2": "CE",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Chelyabinsk",
+		"iso2": "CHE",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Chukotka",
+		"iso2": "CHU",
+		"type": "autonomous district",
+		"timezone": "Asia/Anadyr"
+	},
+	{
+		"name": "Chuvash",
+		"iso2": "CU",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Dagestan",
+		"iso2": "DA",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Ingushetia",
+		"iso2": "IN",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Irkutsk",
+		"iso2": "IRK",
+		"type": "administrative region",
+		"timezone": "Asia/Irkutsk"
+	},
+	{
+		"name": "Ivanovo",
+		"iso2": "IVA",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Jewish",
+		"iso2": "YEV",
+		"type": "autonomous region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kabardino-Balkar",
+		"iso2": "KB",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kaliningrad",
+		"iso2": "KGD",
+		"type": "administrative region",
+		"timezone": "Europe/Kaliningrad"
+	},
+	{
+		"name": "Kalmykia",
+		"iso2": "KL",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kaluga",
+		"iso2": "KLU",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kamchatka",
+		"iso2": "KAM",
+		"type": "administrative territory",
+		"timezone": "Asia/Kamchatka"
+	},
+	{
+		"name": "Karachay-Cherkess",
+		"iso2": "KC",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Karelia",
+		"iso2": "KR",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kemerovo",
+		"iso2": "KEM",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Khabarovsk",
+		"iso2": "KHA",
+		"type": "administrative territory",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Khakassia",
+		"iso2": "KK",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Khanty-Mansi",
+		"iso2": "KHM",
+		"type": "autonomous district",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kirov",
+		"iso2": "KIR",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Komi",
+		"iso2": "KO",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kostroma",
+		"iso2": "KOS",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Krasnodar",
+		"iso2": "KDA",
+		"type": "administrative territory",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Krasnoyarsk",
+		"iso2": "KYA",
+		"type": "administrative territory",
+		"timezone": "Asia/Krasnoyarsk"
+	},
+	{
+		"name": "Kurgan",
+		"iso2": "KGN",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Kursk",
+		"iso2": "KRS",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Leningrad",
+		"iso2": "LEN",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Lipetsk",
+		"iso2": "LIP",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Magadan",
+		"iso2": "MAG",
+		"type": "administrative region",
+		"timezone": "Asia/Magadan"
+	},
+	{
+		"name": "Mari El",
+		"iso2": "ME",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Mordovia",
+		"iso2": "MO",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Moscow",
+		"iso2": "MOS",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Moscow",
+		"iso2": "MOW",
+		"type": "autonomous city",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Murmansk",
+		"iso2": "MUR",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Nenets",
+		"iso2": "NEN",
+		"type": "autonomous city",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Nizhny Novgorod",
+		"iso2": "NIZ",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "North Ossetia-Alania",
+		"iso2": "SE",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Novgorod",
+		"iso2": "NGR",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Novosibirsk",
+		"iso2": "NVS",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Omsk",
+		"iso2": "OMS",
+		"type": "administrative region",
+		"timezone": "Asia/Omsk"
+	},
+	{
+		"name": "Orenburg",
+		"iso2": "ORE",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Oryol",
+		"iso2": "ORL",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Penza",
+		"iso2": "PNZ",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Perm",
+		"iso2": "PER",
+		"type": "administrative territory",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Primorsky",
+		"iso2": "PRI",
+		"type": "administrative territory",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Pskov",
+		"iso2": "PSK",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Rostov",
+		"iso2": "ROS",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Ryazan",
+		"iso2": "RYA",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Saint Petersburg",
+		"iso2": "SPE",
+		"type": "autonomous city",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Sakha",
+		"iso2": "SA",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Sakhalin",
+		"iso2": "SAK",
+		"type": "administrative region",
+		"timezone": "Asia/Sakhalin"
+	},
+	{
+		"name": "Samara",
+		"iso2": "SAM",
+		"type": "administrative region",
+		"timezone": "Europe/Samara"
+	},
+	{
+		"name": "Saratov",
+		"iso2": "SAR",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Smolensk",
+		"iso2": "SMO",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Stavropol",
+		"iso2": "STA",
+		"type": "administrative territory",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Sverdlovsk",
+		"iso2": "SVE",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Tambov",
+		"iso2": "TAM",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Tatarstan",
+		"iso2": "TA",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Tomsk",
+		"iso2": "TOM",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Tula",
+		"iso2": "TUL",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Tuva",
+		"iso2": "TY",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Tver",
+		"iso2": "TVE",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Tyumen",
+		"iso2": "TYU",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Udmurt",
+		"iso2": "UD",
+		"type": "republic",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Ulyanovsk",
+		"iso2": "ULY",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Vladimir",
+		"iso2": "VLA",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Volgograd Oblast",
+		"iso2": "VGG",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Vologda",
+		"iso2": "VLG",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Voronezh",
+		"iso2": "VOR",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Yamalo-Nenets",
+		"iso2": "YAN",
+		"type": "autonomous district",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Yaroslavl",
+		"iso2": "YAR",
+		"type": "administrative region",
+		"timezone": "Europe/Moscow"
+	},
+	{
+		"name": "Zabaykalsky",
+		"iso2": "ZAB",
+		"type": "administrative territory",
+		"timezone": "Europe/Moscow"
+	}
+]

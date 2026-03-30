@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Johor",
+		"iso2": "01",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Kedah",
+		"iso2": "02",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Kelantan",
+		"iso2": "03",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Kuala Lumpur",
+		"iso2": "14",
+		"type": "federal territory",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Labuan",
+		"iso2": "15",
+		"type": "federal territory",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Malacca",
+		"iso2": "04",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Negeri Sembilan",
+		"iso2": "05",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Pahang",
+		"iso2": "06",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Penang",
+		"iso2": "07",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Perak",
+		"iso2": "08",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Perlis",
+		"iso2": "09",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Putrajaya",
+		"iso2": "16",
+		"type": "federal territory",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Sabah",
+		"iso2": "12",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Sarawak",
+		"iso2": "13",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Selangor",
+		"iso2": "10",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	},
+	{
+		"name": "Terengganu",
+		"iso2": "11",
+		"type": "state",
+		"timezone": "Asia/Kuala_Lumpur"
+	}
+]

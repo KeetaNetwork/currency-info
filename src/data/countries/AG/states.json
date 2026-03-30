@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Barbuda",
+		"iso2": "10",
+		"type": "dependency",
+		"timezone": "America/Antigua"
+	},
+	{
+		"name": "Redonda",
+		"iso2": "11",
+		"type": "dependency",
+		"timezone": "America/Antigua"
+	},
+	{
+		"name": "Saint George",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "America/Antigua"
+	},
+	{
+		"name": "Saint John",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "America/Antigua"
+	},
+	{
+		"name": "Saint Mary",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "America/Antigua"
+	},
+	{
+		"name": "Saint Paul",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "America/Antigua"
+	},
+	{
+		"name": "Saint Peter",
+		"iso2": "07",
+		"type": "parish",
+		"timezone": "America/Antigua"
+	},
+	{
+		"name": "Saint Philip",
+		"iso2": "08",
+		"type": "parish",
+		"timezone": "America/Antigua"
+	}
+]

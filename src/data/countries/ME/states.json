@@ -1,0 +1,152 @@
+[
+	{
+		"name": "Andrijevica",
+		"iso2": "01",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Bar",
+		"iso2": "02",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Berane",
+		"iso2": "03",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Bijelo Polje",
+		"iso2": "04",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Budva",
+		"iso2": "05",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Danilovgrad",
+		"iso2": "07",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Gusinje",
+		"iso2": "22",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Herceg-Novi",
+		"iso2": "08",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Kolašin",
+		"iso2": "09",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Kotor",
+		"iso2": "10",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Mojkovac",
+		"iso2": "11",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Nikšić",
+		"iso2": "12",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Old Royal Capital Cetinje",
+		"iso2": "06",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Petnjica",
+		"iso2": "23",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Plav",
+		"iso2": "13",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Pljevlja",
+		"iso2": "14",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Plužine",
+		"iso2": "15",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Podgorica",
+		"iso2": "16",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Rožaje",
+		"iso2": "17",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Šavnik",
+		"iso2": "18",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Tivat",
+		"iso2": "19",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Tuzi",
+		"iso2": "24",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Ulcinj",
+		"iso2": "20",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Žabljak",
+		"iso2": "21",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	},
+	{
+		"name": "Zeta",
+		"iso2": "25",
+		"type": "municipality",
+		"timezone": "Europe/Podgorica"
+	}
+]

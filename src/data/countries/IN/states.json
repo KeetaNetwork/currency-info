@@ -1,0 +1,218 @@
+[
+	{
+		"name": "Andaman and Nicobar Islands",
+		"iso2": "AN",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Andhra Pradesh",
+		"iso2": "AP",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Arunachal Pradesh",
+		"iso2": "AR",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Assam",
+		"iso2": "AS",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Bihar",
+		"iso2": "BR",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Chandigarh",
+		"iso2": "CH",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Chhattisgarh",
+		"iso2": "CT",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Dadra and Nagar Haveli and Daman and Diu",
+		"iso2": "DH",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Delhi",
+		"iso2": "DL",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Goa",
+		"iso2": "GA",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Gujarat",
+		"iso2": "GJ",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Haryana",
+		"iso2": "HR",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Himachal Pradesh",
+		"iso2": "HP",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Jammu and Kashmir",
+		"iso2": "JK",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Jharkhand",
+		"iso2": "JH",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Karnataka",
+		"iso2": "KA",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Kerala",
+		"iso2": "KL",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Ladakh",
+		"iso2": "LA",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Lakshadweep",
+		"iso2": "LD",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Madhya Pradesh",
+		"iso2": "MP",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Maharashtra",
+		"iso2": "MH",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Manipur",
+		"iso2": "MN",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Meghalaya",
+		"iso2": "ML",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Mizoram",
+		"iso2": "MZ",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Nagaland",
+		"iso2": "NL",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Odisha",
+		"iso2": "OR",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Puducherry",
+		"iso2": "PY",
+		"type": "union territory",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Punjab",
+		"iso2": "PB",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Rajasthan",
+		"iso2": "RJ",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Sikkim",
+		"iso2": "SK",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Tamil Nadu",
+		"iso2": "TN",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Telangana",
+		"iso2": "TG",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Tripura",
+		"iso2": "TR",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Uttar Pradesh",
+		"iso2": "UP",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "Uttarakhand",
+		"iso2": "UK",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	},
+	{
+		"name": "West Bengal",
+		"iso2": "WB",
+		"type": "state",
+		"timezone": "Asia/Kolkata"
+	}
+]

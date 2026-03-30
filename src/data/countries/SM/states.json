@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Acquaviva",
+		"iso2": "01",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "Borgo Maggiore",
+		"iso2": "06",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "Chiesanuova",
+		"iso2": "02",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "Domagnano",
+		"iso2": "03",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "Faetano",
+		"iso2": "04",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "Fiorentino",
+		"iso2": "05",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "Montegiardino",
+		"iso2": "08",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "San Marino",
+		"iso2": "07",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	},
+	{
+		"name": "Serravalle",
+		"iso2": "09",
+		"type": "municipality",
+		"timezone": "Europe/San_Marino"
+	}
+]

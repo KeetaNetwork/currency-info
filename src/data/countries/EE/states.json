@@ -1,0 +1,566 @@
+[
+	{
+		"name": "Alutaguse",
+		"iso2": "130",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Anija",
+		"iso2": "141",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Antsla",
+		"iso2": "142",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Elva",
+		"iso2": "171",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Häädemeeste",
+		"iso2": "214",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Haapsalu",
+		"iso2": "184",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Haljala",
+		"iso2": "191",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Harju",
+		"iso2": "37",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Harku",
+		"iso2": "198",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Hiiu",
+		"iso2": "39",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Hiiumaa",
+		"iso2": "205",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Ida-Viru",
+		"iso2": "45",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Järva",
+		"iso2": "52",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Järva",
+		"iso2": "255",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Joelähtme",
+		"iso2": "245",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Jõgeva",
+		"iso2": "50",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Jõgeva",
+		"iso2": "247",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Jõhvi",
+		"iso2": "251",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kadrina",
+		"iso2": "272",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kambja",
+		"iso2": "283",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kanepi",
+		"iso2": "284",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kastre",
+		"iso2": "291",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kehtna",
+		"iso2": "293",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Keila",
+		"iso2": "296",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kihnu",
+		"iso2": "303",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kiili",
+		"iso2": "305",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kohila",
+		"iso2": "317",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kohtla-Järve",
+		"iso2": "321",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kose",
+		"iso2": "338",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Kuusalu",
+		"iso2": "353",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Lääne",
+		"iso2": "56",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Lääne-Harju",
+		"iso2": "430",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Lääne-Nigula",
+		"iso2": "441",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Lääne-Viru",
+		"iso2": "60",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Lääneranna",
+		"iso2": "431",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Loksa",
+		"iso2": "424",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Lüganuse",
+		"iso2": "442",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Luunja",
+		"iso2": "432",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Maardu",
+		"iso2": "446",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Märjamaa",
+		"iso2": "503",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Muhu",
+		"iso2": "478",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Mulgi",
+		"iso2": "480",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Mustvee",
+		"iso2": "486",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Narva",
+		"iso2": "511",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Narva-Jõesuu",
+		"iso2": "514",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Noo",
+		"iso2": "528",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Otepää",
+		"iso2": "557",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Paide",
+		"iso2": "567",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Pärnu",
+		"iso2": "68",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Pärnu",
+		"iso2": "624",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Peipsiääre",
+		"iso2": "586",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Põhja-Pärnu",
+		"iso2": "638",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Põhja-Sakala",
+		"iso2": "615",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Poltsamaa",
+		"iso2": "618",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Põlva",
+		"iso2": "622",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Põlva",
+		"iso2": "64",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Raasiku",
+		"iso2": "651",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Rae",
+		"iso2": "653",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Rakvere",
+		"iso2": "663",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Rakvere",
+		"iso2": "661",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Räpina",
+		"iso2": "708",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Rapla",
+		"iso2": "668",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Rapla",
+		"iso2": "71",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Rõuge",
+		"iso2": "698",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Ruhnu",
+		"iso2": "689",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Saarde",
+		"iso2": "712",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Saare",
+		"iso2": "74",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Saaremaa",
+		"iso2": "714",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Saku",
+		"iso2": "719",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Saue",
+		"iso2": "726",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Setomaa",
+		"iso2": "732",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Sillamäe",
+		"iso2": "735",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Tallinn",
+		"iso2": "784",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Tapa",
+		"iso2": "792",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Tartu",
+		"iso2": "793",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Tartu",
+		"iso2": "79",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Tartu",
+		"iso2": "796",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Toila",
+		"iso2": "803",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Tori",
+		"iso2": "809",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Tõrva",
+		"iso2": "824",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Türi",
+		"iso2": "834",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Väike-Maarja",
+		"iso2": "928",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Valga",
+		"iso2": "855",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Valga",
+		"iso2": "81",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Viimsi",
+		"iso2": "890",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Viljandi",
+		"iso2": "897",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Viljandi",
+		"iso2": "84",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Viljandi",
+		"iso2": "899",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Vinni",
+		"iso2": "901",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Viru-Nigula",
+		"iso2": "903",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Vormsi",
+		"iso2": "907",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Võru",
+		"iso2": "917",
+		"type": "rural municipality",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Võru",
+		"iso2": "87",
+		"type": "county",
+		"timezone": "Europe/Tallinn"
+	},
+	{
+		"name": "Võru",
+		"iso2": "919",
+		"type": "urban municipality",
+		"timezone": "Europe/Tallinn"
+	}
+]

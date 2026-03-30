@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Fontvieille",
+		"iso2": "FO",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Jardin Exotique",
+		"iso2": "JE",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "La Colle",
+		"iso2": "CL",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "La Condamine",
+		"iso2": "CO",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "La Gare",
+		"iso2": "GA",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "La Source",
+		"iso2": "SO",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Larvotto",
+		"iso2": "LA",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Malbousquet",
+		"iso2": "MA",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Monaco-Ville",
+		"iso2": "MO",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Moneghetti",
+		"iso2": "MG",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Monte-Carlo",
+		"iso2": "MC",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Moulins",
+		"iso2": "MU",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Port-Hercule",
+		"iso2": "PH",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Saint-Roman",
+		"iso2": "SR",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Sainte-Dévote",
+		"iso2": "SD",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Spélugues",
+		"iso2": "SP",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	},
+	{
+		"name": "Vallon de la Rousse",
+		"iso2": "VR",
+		"type": "quarter",
+		"timezone": "Europe/Monaco"
+	}
+]

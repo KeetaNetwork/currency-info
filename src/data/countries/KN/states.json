@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Christ Church Nichola Town",
+		"iso2": "01",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Nevis",
+		"iso2": "N",
+		"type": "state",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Anne Sandy Point",
+		"iso2": "02",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint George Basseterre",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint George Gingerland",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint James Windward",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint John Capisterre",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint John Figtree",
+		"iso2": "07",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Kitts",
+		"iso2": "K",
+		"type": "state",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Mary Cayon",
+		"iso2": "08",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Paul Capisterre",
+		"iso2": "09",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Paul Charlestown",
+		"iso2": "10",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Peter Basseterre",
+		"iso2": "11",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Thomas Lowland",
+		"iso2": "12",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Saint Thomas Middle Island",
+		"iso2": "13",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	},
+	{
+		"name": "Trinity Palmetto Point",
+		"iso2": "15",
+		"type": "parish",
+		"timezone": "America/St_Kitts"
+	}
+]

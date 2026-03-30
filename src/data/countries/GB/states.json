@@ -1,0 +1,1328 @@
+[
+	{
+		"name": "Aberdeen",
+		"iso2": "ABE",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Aberdeenshire",
+		"iso2": "ABD",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Angus",
+		"iso2": "ANS",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Antrim and Newtownabbey",
+		"iso2": "ANN",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Ards and North Down",
+		"iso2": "AND",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Argyll and Bute",
+		"iso2": "AGB",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Armagh, Banbridge and Craigavon",
+		"iso2": "ABC",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Barking and Dagenham",
+		"iso2": "BDG",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Barnet",
+		"iso2": "BNE",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Barnsley",
+		"iso2": "BNS",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bath and North East Somerset",
+		"iso2": "BAS",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bedford",
+		"iso2": "BDF",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Belfast",
+		"iso2": "BFS",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bexley",
+		"iso2": "BEX",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Birmingham",
+		"iso2": "BIR",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Blackburn with Darwen",
+		"iso2": "BBD",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Blackpool",
+		"iso2": "BPL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Blaenau Gwent",
+		"iso2": "BGW",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bolton",
+		"iso2": "BOL",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bournemouth, Christchurch and Poole",
+		"iso2": "BCP",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bracknell Forest",
+		"iso2": "BRC",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bradford",
+		"iso2": "BRD",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Brent",
+		"iso2": "BEN",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bridgend",
+		"iso2": "BGE",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Brighton and Hove",
+		"iso2": "BNH",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bristol",
+		"iso2": "BST",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bromley",
+		"iso2": "BRY",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Buckinghamshire",
+		"iso2": "BKM",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Bury",
+		"iso2": "BUR",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Caerphilly",
+		"iso2": "CAY",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Calderdale",
+		"iso2": "CLD",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Cambridgeshire",
+		"iso2": "CAM",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Camden",
+		"iso2": "CMD",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Cardiff",
+		"iso2": "CRF",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Carmarthenshire",
+		"iso2": "CMN",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Causeway Coast and Glens",
+		"iso2": "CCG",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Central Bedfordshire",
+		"iso2": "CBF",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Ceredigion",
+		"iso2": "CGN",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Cheshire East",
+		"iso2": "CHE",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Cheshire West and Chester",
+		"iso2": "CHW",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "City of Kingston upon Hull",
+		"iso2": "KHL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "City of Southampton",
+		"iso2": "STH",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Clackmannanshire",
+		"iso2": "CLK",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Conwy",
+		"iso2": "CWY",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Cornwall",
+		"iso2": "CON",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Coventry",
+		"iso2": "COV",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Croydon",
+		"iso2": "CRY",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Cumbria",
+		"iso2": "CMA",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Darlington",
+		"iso2": "DAL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Denbighshire",
+		"iso2": "DEN",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Derby",
+		"iso2": "DER",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Derbyshire",
+		"iso2": "DBY",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Derry City and Strabane",
+		"iso2": "DRS",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Devon",
+		"iso2": "DEV",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Doncaster",
+		"iso2": "DNC",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Dorset",
+		"iso2": "DOR",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Dudley",
+		"iso2": "DUD",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Dumfries and Galloway",
+		"iso2": "DGY",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Dundee",
+		"iso2": "DND",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Durham",
+		"iso2": "DUR",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Ealing",
+		"iso2": "EAL",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "East Ayrshire",
+		"iso2": "EAY",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "East Dunbartonshire",
+		"iso2": "EDU",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "East Lothian",
+		"iso2": "ELN",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "East Renfrewshire",
+		"iso2": "ERW",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "East Riding of Yorkshire",
+		"iso2": "ERY",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "East Sussex",
+		"iso2": "ESX",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Edinburgh",
+		"iso2": "EDH",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Enfield",
+		"iso2": "ENF",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "England",
+		"iso2": "ENG",
+		"type": "country",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Essex",
+		"iso2": "ESS",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Falkirk",
+		"iso2": "FAL",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Fermanagh and Omagh",
+		"iso2": "FMO",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Fife",
+		"iso2": "FIF",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Flintshire",
+		"iso2": "FLN",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Gateshead",
+		"iso2": "GAT",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Glasgow",
+		"iso2": "GLG",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Gloucestershire",
+		"iso2": "GLS",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Greenwich",
+		"iso2": "GRE",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Gwynedd",
+		"iso2": "GWN",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Hackney",
+		"iso2": "HCK",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Halton",
+		"iso2": "HAL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Hammersmith and Fulham",
+		"iso2": "HMF",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Hampshire",
+		"iso2": "HAM",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Haringey",
+		"iso2": "HRY",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Harrow",
+		"iso2": "HRW",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Hartlepool",
+		"iso2": "HPL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Havering",
+		"iso2": "HAV",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Herefordshire",
+		"iso2": "HEF",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Hertfordshire",
+		"iso2": "HRT",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Highland",
+		"iso2": "HLD",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Hillingdon",
+		"iso2": "HIL",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Hounslow",
+		"iso2": "HNS",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Inverclyde",
+		"iso2": "IVC",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Isle of Anglesey",
+		"iso2": "AGY",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Isle of Wight",
+		"iso2": "IOW",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Isles of Scilly",
+		"iso2": "IOS",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Islington",
+		"iso2": "ISL",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Kensington and Chelsea",
+		"iso2": "KEC",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Kent",
+		"iso2": "KEN",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Kingston upon Thames",
+		"iso2": "KTT",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Kirklees",
+		"iso2": "KIR",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Knowsley",
+		"iso2": "KWL",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Lambeth",
+		"iso2": "LBH",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Lancashire",
+		"iso2": "LAN",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Leeds",
+		"iso2": "LDS",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Leicester",
+		"iso2": "LCE",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Leicestershire",
+		"iso2": "LEC",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Lewisham",
+		"iso2": "LEW",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Lincolnshire",
+		"iso2": "LIN",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Lisburn and Castlereagh",
+		"iso2": "LBC",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Liverpool",
+		"iso2": "LIV",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "London",
+		"iso2": "LND",
+		"type": "city",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Luton",
+		"iso2": "LUT",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Manchester",
+		"iso2": "MAN",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Medway",
+		"iso2": "MDW",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Merthyr Tydfil",
+		"iso2": "MTY",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Merton",
+		"iso2": "MRT",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Mid and East Antrim",
+		"iso2": "MEA",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Mid Ulster",
+		"iso2": "MUL",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Middlesbrough",
+		"iso2": "MDB",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Midlothian",
+		"iso2": "MLN",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Milton Keynes",
+		"iso2": "MIK",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Monmouthshire",
+		"iso2": "MON",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Moray",
+		"iso2": "MRY",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Neath Port Talbot",
+		"iso2": "NTL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Newcastle upon Tyne",
+		"iso2": "NET",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Newham",
+		"iso2": "NWM",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Newport",
+		"iso2": "NWP",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Newry, Mourne and Down",
+		"iso2": "NMD",
+		"type": "district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Norfolk",
+		"iso2": "NFK",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North Ayrshire",
+		"iso2": "NAY",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North East Lincolnshire",
+		"iso2": "NEL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North Lanarkshire",
+		"iso2": "NLK",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North Lincolnshire",
+		"iso2": "NLN",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North Northamptonshire",
+		"iso2": "NNH",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North Somerset",
+		"iso2": "NSM",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North Tyneside",
+		"iso2": "NTY",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "North Yorkshire",
+		"iso2": "NYK",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Northern Ireland",
+		"iso2": "NIR",
+		"type": "province",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Northumberland",
+		"iso2": "NBL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Nottingham",
+		"iso2": "NGM",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Nottinghamshire",
+		"iso2": "NTT",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Oldham",
+		"iso2": "OLD",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Orkney Islands",
+		"iso2": "ORK",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Outer Hebrides",
+		"iso2": "ELS",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Oxfordshire",
+		"iso2": "OXF",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Pembrokeshire",
+		"iso2": "PEM",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Perth and Kinross",
+		"iso2": "PKN",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Peterborough",
+		"iso2": "PTE",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Plymouth",
+		"iso2": "PLY",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Portsmouth",
+		"iso2": "POR",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Powys",
+		"iso2": "POW",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Reading",
+		"iso2": "RDG",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Redbridge",
+		"iso2": "RDB",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Redcar and Cleveland",
+		"iso2": "RCC",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Renfrewshire",
+		"iso2": "RFW",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Rhondda Cynon Taf",
+		"iso2": "RCT",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Richmond upon Thames",
+		"iso2": "RIC",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Rochdale",
+		"iso2": "RCH",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Rotherham",
+		"iso2": "ROT",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Rutland",
+		"iso2": "RUT",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Salford",
+		"iso2": "SLF",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Sandwell",
+		"iso2": "SAW",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Scotland",
+		"iso2": "SCT",
+		"type": "country",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Scottish Borders",
+		"iso2": "SCB",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Sefton",
+		"iso2": "SFT",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Sheffield",
+		"iso2": "SHF",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Shetland Islands",
+		"iso2": "ZET",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Shropshire",
+		"iso2": "SHR",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Slough",
+		"iso2": "SLG",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Solihull",
+		"iso2": "SOL",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Somerset",
+		"iso2": "SOM",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "South Ayrshire",
+		"iso2": "SAY",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "South Gloucestershire",
+		"iso2": "SGC",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "South Lanarkshire",
+		"iso2": "SLK",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "South Tyneside",
+		"iso2": "STY",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Southend-on-Sea",
+		"iso2": "SOS",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Southwark",
+		"iso2": "SWK",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "St Helens",
+		"iso2": "SHN",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Staffordshire",
+		"iso2": "STS",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Stirling",
+		"iso2": "STG",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Stockport",
+		"iso2": "SKP",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Stockton-on-Tees",
+		"iso2": "STT",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Stoke-on-Trent",
+		"iso2": "STE",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Suffolk",
+		"iso2": "SFK",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Sunderland",
+		"iso2": "SND",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Surrey",
+		"iso2": "SRY",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Sutton",
+		"iso2": "STN",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Swansea",
+		"iso2": "SWA",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Swindon",
+		"iso2": "SWD",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Tameside",
+		"iso2": "TAM",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Telford and Wrekin",
+		"iso2": "TFW",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Thurrock",
+		"iso2": "THR",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Torbay",
+		"iso2": "TOB",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Torfaen",
+		"iso2": "TOF",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Tower Hamlets",
+		"iso2": "TWH",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Trafford",
+		"iso2": "TRF",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Vale of Glamorgan",
+		"iso2": "VGL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wakefield",
+		"iso2": "WKF",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wales",
+		"iso2": "WLS",
+		"type": "country",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Walsall",
+		"iso2": "WLL",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Waltham Forest",
+		"iso2": "WFT",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wandsworth",
+		"iso2": "WND",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Warrington",
+		"iso2": "WRT",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Warwickshire",
+		"iso2": "WAR",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "West Berkshire",
+		"iso2": "WBK",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "West Dunbartonshire",
+		"iso2": "WDU",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "West Lothian",
+		"iso2": "WLN",
+		"type": "council area",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "West Northamptonshire",
+		"iso2": "WNH",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "West Sussex",
+		"iso2": "WSX",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Westminster",
+		"iso2": "WSM",
+		"type": "london borough",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wigan",
+		"iso2": "WGN",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wiltshire",
+		"iso2": "WIL",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Windsor and Maidenhead",
+		"iso2": "WNM",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wirral",
+		"iso2": "WRL",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wokingham",
+		"iso2": "WOK",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wolverhampton",
+		"iso2": "WLV",
+		"type": "metropolitan district",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Worcestershire",
+		"iso2": "WOR",
+		"type": "two-tier county",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "Wrexham",
+		"iso2": "WRX",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	},
+	{
+		"name": "York",
+		"iso2": "YOR",
+		"type": "unitary authority",
+		"timezone": "Europe/London"
+	}
+]

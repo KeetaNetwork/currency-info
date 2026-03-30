@@ -1,0 +1,272 @@
+[
+	{
+		"name": "Aceh",
+		"iso2": "AC",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Bali",
+		"iso2": "BA",
+		"type": "province",
+		"timezone": "Asia/Makassar"
+	},
+	{
+		"name": "Banten",
+		"iso2": "BT",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Bengkulu",
+		"iso2": "BE",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "DI Yogyakarta",
+		"iso2": "YO",
+		"type": "Special region",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "DKI Jakarta",
+		"iso2": "JK",
+		"type": "capital district",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Gorontalo",
+		"iso2": "GO",
+		"type": "province",
+		"timezone": "Asia/Makassar"
+	},
+	{
+		"name": "Jambi",
+		"iso2": "JA",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Jawa",
+		"iso2": "JW",
+		"type": "geographical unit",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Jawa Barat",
+		"iso2": "JB",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Jawa Tengah",
+		"iso2": "JT",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Jawa Timur",
+		"iso2": "JI",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kalimantan",
+		"iso2": "KA",
+		"type": "geographical unit",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kalimantan Barat",
+		"iso2": "KB",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kalimantan Selatan",
+		"iso2": "KS",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kalimantan Tengah",
+		"iso2": "KT",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kalimantan Timur",
+		"iso2": "KI",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kalimantan Utara",
+		"iso2": "KU",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kepulauan Bangka Belitung",
+		"iso2": "BB",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Kepulauan Riau",
+		"iso2": "KR",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Lampung",
+		"iso2": "LA",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Maluku",
+		"iso2": "ML",
+		"type": "geographical unit",
+		"timezone": "Asia/Jayapura"
+	},
+	{
+		"name": "Maluku",
+		"iso2": "MA",
+		"type": "province",
+		"timezone": "Asia/Jayapura"
+	},
+	{
+		"name": "Maluku Utara",
+		"iso2": "MU",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Nusa Tenggara",
+		"iso2": "NU",
+		"type": "geographical unit",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Nusa Tenggara Barat",
+		"iso2": "NB",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Nusa Tenggara Timur",
+		"iso2": "NT",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Papua",
+		"iso2": "PA",
+		"type": "province",
+		"timezone": "Asia/Jayapura"
+	},
+	{
+		"name": "Papua",
+		"iso2": "PP",
+		"type": "geographical unit",
+		"timezone": "Asia/Jayapura"
+	},
+	{
+		"name": "Papua Barat",
+		"iso2": "PB",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Papua Barat Daya",
+		"iso2": "PD",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Papua Pegunungan",
+		"iso2": "PE",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Papua Selatan",
+		"iso2": "PS",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Papua Tengah",
+		"iso2": "PT",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Riau",
+		"iso2": "RI",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sulawesi",
+		"iso2": "SL",
+		"type": "geographical unit",
+		"timezone": "Asia/Makassar"
+	},
+	{
+		"name": "Sulawesi Barat",
+		"iso2": "SR",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sulawesi Selatan",
+		"iso2": "SN",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sulawesi Tengah",
+		"iso2": "ST",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sulawesi Tenggara",
+		"iso2": "SG",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sulawesi Utara",
+		"iso2": "SA",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sumatera",
+		"iso2": "SM",
+		"type": "geographical unit",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sumatera Barat",
+		"iso2": "SB",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sumatera Selatan",
+		"iso2": "SS",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	},
+	{
+		"name": "Sumatera Utara",
+		"iso2": "SU",
+		"type": "province",
+		"timezone": "Asia/Jakarta"
+	}
+]

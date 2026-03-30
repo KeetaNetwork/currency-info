@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Carriacou",
+		"iso2": "10",
+		"type": "dependency",
+		"timezone": "America/Grenada"
+	},
+	{
+		"name": "Saint Andrew",
+		"iso2": "01",
+		"type": "parish",
+		"timezone": "America/Grenada"
+	},
+	{
+		"name": "Saint David",
+		"iso2": "02",
+		"type": "parish",
+		"timezone": "America/Grenada"
+	},
+	{
+		"name": "Saint George",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "America/Grenada"
+	},
+	{
+		"name": "Saint John",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "America/Grenada"
+	},
+	{
+		"name": "Saint Mark",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "America/Grenada"
+	},
+	{
+		"name": "Saint Patrick",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "America/Grenada"
+	}
+]

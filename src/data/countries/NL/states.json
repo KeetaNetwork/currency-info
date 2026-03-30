@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Drenthe",
+		"iso2": "DR",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Flevoland",
+		"iso2": "FL",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Friesland",
+		"iso2": "FR",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Gelderland",
+		"iso2": "GE",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Groningen",
+		"iso2": "GR",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Limburg",
+		"iso2": "LI",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "North Brabant",
+		"iso2": "NB",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "North Holland",
+		"iso2": "NH",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Overijssel",
+		"iso2": "OV",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "South Holland",
+		"iso2": "ZH",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Utrecht",
+		"iso2": "UT",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	},
+	{
+		"name": "Zeeland",
+		"iso2": "ZE",
+		"type": "province",
+		"timezone": "Europe/Amsterdam"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Grand Turk",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "America/Grand_Turk"
+	},
+	{
+		"name": "Middle Caicos",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "America/Grand_Turk"
+	},
+	{
+		"name": "North Caicos",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "America/Grand_Turk"
+	},
+	{
+		"name": "Providenciales",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "America/Grand_Turk"
+	},
+	{
+		"name": "Salt Cay",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "America/Grand_Turk"
+	},
+	{
+		"name": "South Caicos",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "America/Grand_Turk"
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Achaea",
+		"iso2": "13",
+		"type": "regional unit",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Attica",
+		"iso2": "I",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Central Greece",
+		"iso2": "H",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Central Macedonia",
+		"iso2": "B",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Crete",
+		"iso2": "M",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "East Attica",
+		"iso2": "A2",
+		"type": "regional unit",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "East Macedonia and Thrace",
+		"iso2": "A",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Epirus",
+		"iso2": "D",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Ionian Islands",
+		"iso2": "F",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "North Aegean",
+		"iso2": "K",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Peloponnese",
+		"iso2": "J",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "South Aegean",
+		"iso2": "L",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "Thessaly",
+		"iso2": "E",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "West Greece",
+		"iso2": "G",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	},
+	{
+		"name": "West Macedonia",
+		"iso2": "C",
+		"type": "administrative region",
+		"timezone": "Europe/Athens"
+	}
+]

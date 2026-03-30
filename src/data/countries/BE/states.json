@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Antwerp",
+		"iso2": "VAN",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Brussels-Capital ",
+		"iso2": "BRU",
+		"type": "region",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "East Flanders",
+		"iso2": "VOV",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Flanders",
+		"iso2": "VLG",
+		"type": "region",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Flemish Brabant",
+		"iso2": "VBR",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Hainaut",
+		"iso2": "WHT",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Liège",
+		"iso2": "WLG",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Limburg",
+		"iso2": "VLI",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Luxembourg",
+		"iso2": "WLX",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Namur",
+		"iso2": "WNA",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Wallonia",
+		"iso2": "WAL",
+		"type": "region",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "Walloon Brabant",
+		"iso2": "WBR",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	},
+	{
+		"name": "West Flanders",
+		"iso2": "VWV",
+		"type": "province",
+		"timezone": "Europe/Brussels"
+	}
+]

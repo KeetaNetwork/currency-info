@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Abkhazia",
+		"iso2": "AB",
+		"type": "autonomous republic",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Adjara",
+		"iso2": "AJ",
+		"type": "autonomous republic",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Guria",
+		"iso2": "GU",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Imereti",
+		"iso2": "IM",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Kakheti",
+		"iso2": "KA",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Kvemo Kartli",
+		"iso2": "KK",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Mtskheta-Mtianeti",
+		"iso2": "MM",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Racha-Lechkhumi and Kvemo Svaneti",
+		"iso2": "RL",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Samegrelo-Zemo Svaneti",
+		"iso2": "SZ",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Samtskhe-Javakheti",
+		"iso2": "SJ",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Shida Kartli",
+		"iso2": "SK",
+		"type": "region",
+		"timezone": "Asia/Tbilisi"
+	},
+	{
+		"name": "Tbilisi",
+		"iso2": "TB",
+		"type": "city",
+		"timezone": "Asia/Tbilisi"
+	}
+]

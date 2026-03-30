@@ -1,0 +1,254 @@
+[
+	{
+		"name": "Azua",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Baoruco",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Barahona",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Cibao Nordeste",
+		"iso2": "33",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Cibao Noroeste",
+		"iso2": "34",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Cibao Norte",
+		"iso2": "35",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Cibao Sur",
+		"iso2": "36",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Dajabón",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Distrito Nacional",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Duarte",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "El Seibo",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "El Valle",
+		"iso2": "37",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Elías Piña",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Enriquillo",
+		"iso2": "38",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Espaillat",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Hato Mayor",
+		"iso2": "30",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Hermanas Mirabal",
+		"iso2": "19",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Higuamo",
+		"iso2": "39",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Independencia",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "La Altagracia",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "La Romana",
+		"iso2": "12",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "La Vega",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "María Trinidad Sánchez",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Monseñor Nouel",
+		"iso2": "28",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Monte Cristi",
+		"iso2": "15",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Monte Plata",
+		"iso2": "29",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Ozama",
+		"iso2": "40",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Pedernales",
+		"iso2": "16",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Peravia",
+		"iso2": "17",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Puerto Plata",
+		"iso2": "18",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Samaná",
+		"iso2": "20",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "San Cristóbal",
+		"iso2": "21",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "San José de Ocoa",
+		"iso2": "31",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "San Juan",
+		"iso2": "22",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "San Pedro de Macorís",
+		"iso2": "23",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Sánchez Ramírez",
+		"iso2": "24",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Santiago",
+		"iso2": "25",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Santiago Rodríguez",
+		"iso2": "26",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Santo Domingo",
+		"iso2": "32",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Valdesia",
+		"iso2": "41",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Valverde",
+		"iso2": "27",
+		"type": "province",
+		"timezone": "America/Santo_Domingo"
+	},
+	{
+		"name": "Yuma",
+		"iso2": "42",
+		"type": "region",
+		"timezone": "America/Santo_Domingo"
+	}
+]

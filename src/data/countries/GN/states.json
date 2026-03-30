@@ -1,0 +1,248 @@
+[
+	{
+		"name": "Beyla",
+		"iso2": "BE",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Boffa",
+		"iso2": "BF",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Boké",
+		"iso2": "B",
+		"type": "administrative region",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Boké",
+		"iso2": "BK",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Conakry",
+		"iso2": "C",
+		"type": "governorate",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Coyah",
+		"iso2": "CO",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Dabola",
+		"iso2": "DB",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Dalaba",
+		"iso2": "DL",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Dinguiraye",
+		"iso2": "DI",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Dubréka",
+		"iso2": "DU",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Faranah",
+		"iso2": "F",
+		"type": "administrative region",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Faranah",
+		"iso2": "FA",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Forécariah",
+		"iso2": "FO",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Fria",
+		"iso2": "FR",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Gaoual",
+		"iso2": "GA",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Guéckédou",
+		"iso2": "GU",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Kankan",
+		"iso2": "KA",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Kankan",
+		"iso2": "K",
+		"type": "administrative region",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Kérouané",
+		"iso2": "KE",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Kindia",
+		"iso2": "D",
+		"type": "administrative region",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Kindia",
+		"iso2": "KD",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Kissidougou",
+		"iso2": "KS",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Koubia",
+		"iso2": "KB",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Koundara",
+		"iso2": "KN",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Kouroussa",
+		"iso2": "KO",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Labé",
+		"iso2": "LA",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Labé",
+		"iso2": "L",
+		"type": "administrative region",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Lélouma",
+		"iso2": "LE",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Lola",
+		"iso2": "LO",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Macenta",
+		"iso2": "MC",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Mali",
+		"iso2": "ML",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Mamou",
+		"iso2": "M",
+		"type": "administrative region",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Mamou",
+		"iso2": "MM",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Mandiana",
+		"iso2": "MD",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Nzérékoré",
+		"iso2": "N",
+		"type": "administrative region",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Nzérékoré",
+		"iso2": "NZ",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Pita",
+		"iso2": "PI",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Siguiri",
+		"iso2": "SI",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Télimélé",
+		"iso2": "TE",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Tougué",
+		"iso2": "TO",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	},
+	{
+		"name": "Yomou",
+		"iso2": "YO",
+		"type": "prefecture",
+		"timezone": "Africa/Conakry"
+	}
+]

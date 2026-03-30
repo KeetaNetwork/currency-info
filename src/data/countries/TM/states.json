@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Ahal",
+		"iso2": "A",
+		"type": "region",
+		"timezone": "Asia/Ashgabat"
+	},
+	{
+		"name": "Ashgabat",
+		"iso2": "S",
+		"type": "city",
+		"timezone": "Asia/Ashgabat"
+	},
+	{
+		"name": "Balkan",
+		"iso2": "B",
+		"type": "region",
+		"timezone": "Asia/Ashgabat"
+	},
+	{
+		"name": "Daşoguz",
+		"iso2": "D",
+		"type": "region",
+		"timezone": "Asia/Ashgabat"
+	},
+	{
+		"name": "Lebap",
+		"iso2": "L",
+		"type": "region",
+		"timezone": "Asia/Ashgabat"
+	},
+	{
+		"name": "Mary",
+		"iso2": "M",
+		"type": "region",
+		"timezone": "Asia/Ashgabat"
+	}
+]

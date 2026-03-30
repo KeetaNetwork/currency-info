@@ -1,0 +1,206 @@
+[
+	{
+		"name": "An Giang",
+		"iso2": "44",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Bắc Ninh",
+		"iso2": "56",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Cà Mau",
+		"iso2": "59",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Cần Thơ",
+		"iso2": "CT",
+		"type": "municipality",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Cao Bằng",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Đà Nẵng",
+		"iso2": "DN",
+		"type": "municipality",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Đắk Lắk",
+		"iso2": "33",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Điện Biên",
+		"iso2": "71",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Đồng Nai",
+		"iso2": "39",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Đồng Tháp",
+		"iso2": "45",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Gia Lai",
+		"iso2": "30",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Hà Nội",
+		"iso2": "HN",
+		"type": "municipality",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Hà Tĩnh",
+		"iso2": "23",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Hải Phòng",
+		"iso2": "HP",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Hồ Chí Minh",
+		"iso2": "SG",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Hưng Yên",
+		"iso2": "66",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Khánh Hòa",
+		"iso2": "34",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Lai Châu",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Lâm Đồng",
+		"iso2": "35",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Lạng Sơn",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Lào Cai",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Nghệ An",
+		"iso2": "22",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Ninh Bình",
+		"iso2": "18",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Phú Thọ",
+		"iso2": "68",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Quảng Ngãi",
+		"iso2": "29",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Quảng Ninh",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Quảng Trị",
+		"iso2": "25",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Sơn La",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Tây Ninh",
+		"iso2": "37",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Thái Nguyên",
+		"iso2": "69",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Thanh Hóa",
+		"iso2": "21",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Thừa Thiên-Huế",
+		"iso2": "26",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Tuyên Quang",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	},
+	{
+		"name": "Vĩnh Long",
+		"iso2": "49",
+		"type": "province",
+		"timezone": "Asia/Ho_Chi_Minh"
+	}
+]

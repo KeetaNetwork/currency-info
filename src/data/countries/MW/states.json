@@ -1,0 +1,188 @@
+[
+	{
+		"name": "Balaka",
+		"iso2": "BA",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Blantyre",
+		"iso2": "BL",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Central",
+		"iso2": "C",
+		"type": "region",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Chikwawa",
+		"iso2": "CK",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Chiradzulu",
+		"iso2": "CR",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Chitipa",
+		"iso2": "CT",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Dedza",
+		"iso2": "DE",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Dowa",
+		"iso2": "DO",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Karonga",
+		"iso2": "KR",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Kasungu",
+		"iso2": "KS",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Likoma",
+		"iso2": "LK",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Lilongwe",
+		"iso2": "LI",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Machinga",
+		"iso2": "MH",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Mangochi",
+		"iso2": "MG",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Mchinji",
+		"iso2": "MC",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Mulanje",
+		"iso2": "MU",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Mwanza",
+		"iso2": "MW",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Mzimba",
+		"iso2": "MZ",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Neno",
+		"iso2": "NE",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Nkhata Bay",
+		"iso2": "NB",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Nkhotakota",
+		"iso2": "NK",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Northern",
+		"iso2": "N",
+		"type": "region",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Nsanje",
+		"iso2": "NS",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Ntcheu",
+		"iso2": "NU",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Ntchisi",
+		"iso2": "NI",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Phalombe",
+		"iso2": "PH",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Rumphi",
+		"iso2": "RU",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Salima",
+		"iso2": "SA",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Southern",
+		"iso2": "S",
+		"type": "region",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Thyolo",
+		"iso2": "TH",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	},
+	{
+		"name": "Zomba",
+		"iso2": "ZO",
+		"type": "district",
+		"timezone": "Africa/Blantyre"
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Andijan",
+		"iso2": "AN",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Bukhara",
+		"iso2": "BU",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Fergana",
+		"iso2": "FA",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Jizzakh",
+		"iso2": "JI",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Karakalpakstan",
+		"iso2": "QR",
+		"type": "republic",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Namangan",
+		"iso2": "NG",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Navoiy",
+		"iso2": "NW",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Qashqadaryo",
+		"iso2": "QA",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Samarqand",
+		"iso2": "SA",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Sirdaryo",
+		"iso2": "SI",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Surxondaryo",
+		"iso2": "SU",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Tashkent",
+		"iso2": "TK",
+		"type": "city",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Tashkent",
+		"iso2": "TO",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	},
+	{
+		"name": "Xorazm",
+		"iso2": "XO",
+		"type": "region",
+		"timezone": "Asia/Samarkand"
+	}
+]

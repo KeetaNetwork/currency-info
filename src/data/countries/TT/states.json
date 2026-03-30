@@ -1,0 +1,104 @@
+[
+	{
+		"name": "Arima",
+		"iso2": "ARI",
+		"type": "borough",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Chaguanas",
+		"iso2": "CHA",
+		"type": "borough",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Couva-Tabaquite-Talparo",
+		"iso2": "CTT",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Diego Martin",
+		"iso2": "DMN",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Eastern Tobago",
+		"iso2": "ETO",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Penal-Debe",
+		"iso2": "PED",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Point Fortin",
+		"iso2": "PTF",
+		"type": "borough",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Port of Spain",
+		"iso2": "POS",
+		"type": "city",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Princes Town",
+		"iso2": "PRT",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Rio Claro-Mayaro",
+		"iso2": "MRC",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "San Fernando",
+		"iso2": "SFO",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "San Juan-Laventille",
+		"iso2": "SJL",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Sangre Grande",
+		"iso2": "SGE",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Siparia",
+		"iso2": "SIP",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Tobago",
+		"iso2": "TOB",
+		"type": "ward",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Tunapuna-Piarco",
+		"iso2": "TUP",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	},
+	{
+		"name": "Western Tobago",
+		"iso2": "WTO",
+		"type": "region",
+		"timezone": "America/Port_of_Spain"
+	}
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Baker Island",
+		"iso2": "81",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Howland Island",
+		"iso2": "84",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Jarvis Island",
+		"iso2": "86",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Johnston Atoll",
+		"iso2": "67",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Kingman Reef",
+		"iso2": "89",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Midway Islands",
+		"iso2": "71",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Navassa Island",
+		"iso2": "76",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Palmyra Atoll",
+		"iso2": "95",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	},
+	{
+		"name": "Wake Island",
+		"iso2": "79",
+		"type": "island",
+		"timezone": "Pacific/Midway"
+	}
+]

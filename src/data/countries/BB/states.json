@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Christ Church",
+		"iso2": "01",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint Andrew",
+		"iso2": "02",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint George",
+		"iso2": "03",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint James",
+		"iso2": "04",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint John",
+		"iso2": "05",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint Joseph",
+		"iso2": "06",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint Lucy",
+		"iso2": "07",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint Michael",
+		"iso2": "08",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint Peter",
+		"iso2": "09",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint Philip",
+		"iso2": "10",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	},
+	{
+		"name": "Saint Thomas",
+		"iso2": "11",
+		"type": "parish",
+		"timezone": "America/Barbados"
+	}
+]

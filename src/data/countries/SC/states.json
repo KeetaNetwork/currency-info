@@ -1,0 +1,164 @@
+[
+	{
+		"name": "Anse Boileau",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Anse Etoile",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Anse Royale",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Anse-aux-Pins",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Au Cap",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Baie Lazare",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Baie Sainte Anne",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Beau Vallon",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Bel Air",
+		"iso2": "09",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Bel Ombre",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Cascade",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Glacis",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Grand'Anse Mahé",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Grand'Anse Praslin",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Ile Perseverance I",
+		"iso2": "26",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Ile Perseverance II",
+		"iso2": "27",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "La Digue",
+		"iso2": "15",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "La Rivière Anglaise",
+		"iso2": "16",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Les Mamelles",
+		"iso2": "24",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Mont Buxton",
+		"iso2": "17",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Mont Fleuri",
+		"iso2": "18",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Plaisance",
+		"iso2": "19",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Pointe La Rue",
+		"iso2": "20",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Port Glaud",
+		"iso2": "21",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Roche Caiman",
+		"iso2": "25",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Saint Louis",
+		"iso2": "22",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	},
+	{
+		"name": "Takamaka",
+		"iso2": "23",
+		"type": "district",
+		"timezone": "Indian/Mahe"
+	}
+]

@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Aragatsotn",
+		"iso2": "AG",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Ararat",
+		"iso2": "AR",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Armavir",
+		"iso2": "AV",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Gegharkunik",
+		"iso2": "GR",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Kotayk",
+		"iso2": "KT",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Lori",
+		"iso2": "LO",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Shirak",
+		"iso2": "SH",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Syunik",
+		"iso2": "SU",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Tavush",
+		"iso2": "TV",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Vayots Dzor",
+		"iso2": "VD",
+		"type": "region",
+		"timezone": "Asia/Yerevan"
+	},
+	{
+		"name": "Yerevan",
+		"iso2": "ER",
+		"type": "city",
+		"timezone": "Asia/Yerevan"
+	}
+]

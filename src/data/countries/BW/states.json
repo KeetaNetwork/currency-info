@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Central",
+		"iso2": "CE",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Chobe",
+		"iso2": "CH",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Francistown",
+		"iso2": "FR",
+		"type": "city",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Gaborone",
+		"iso2": "GA",
+		"type": "city",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Ghanzi",
+		"iso2": "GH",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Jwaneng",
+		"iso2": "JW",
+		"type": "town",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Kgalagadi",
+		"iso2": "KG",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Kgatleng",
+		"iso2": "KL",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Kweneng",
+		"iso2": "KW",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Lobatse",
+		"iso2": "LO",
+		"type": "town",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "North-East",
+		"iso2": "NE",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "North-West",
+		"iso2": "NW",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Selibe Phikwe",
+		"iso2": "SP",
+		"type": "town",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "South-East",
+		"iso2": "SE",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Southern",
+		"iso2": "SO",
+		"type": "district",
+		"timezone": "Africa/Gaborone"
+	},
+	{
+		"name": "Sowa Town",
+		"iso2": "ST",
+		"type": "town",
+		"timezone": "Africa/Gaborone"
+	}
+]

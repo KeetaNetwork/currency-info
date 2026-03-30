@@ -1,0 +1,68 @@
+[
+	{
+		"name": "A'ana",
+		"iso2": "AA",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Aiga-i-le-Tai",
+		"iso2": "AL",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Atua",
+		"iso2": "AT",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Fa'asaleleaga",
+		"iso2": "FA",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Gaga'emauga",
+		"iso2": "GE",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Gaga'ifomauga",
+		"iso2": "GI",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Palauli",
+		"iso2": "PA",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Satupa'itea",
+		"iso2": "SA",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Tuamasaga",
+		"iso2": "TU",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Va'a-o-Fonoti",
+		"iso2": "VF",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	},
+	{
+		"name": "Vaisigano",
+		"iso2": "VS",
+		"type": "district",
+		"timezone": "Pacific/Apia"
+	}
+]

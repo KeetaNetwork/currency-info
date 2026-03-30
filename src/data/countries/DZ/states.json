@@ -1,0 +1,350 @@
+[
+	{
+		"name": "Adrar",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Aïn Defla",
+		"iso2": "44",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Aïn Témouchent",
+		"iso2": "46",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Algiers",
+		"iso2": "16",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Annaba",
+		"iso2": "23",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Batna",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Béchar",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Béjaïa",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Béni Abbès",
+		"iso2": "53",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Biskra",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Blida",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Bordj Baji Mokhtar",
+		"iso2": "52",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Bordj Bou Arréridj",
+		"iso2": "34",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Bouïra",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Boumerdès",
+		"iso2": "35",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Chlef",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Constantine",
+		"iso2": "25",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Djanet",
+		"iso2": "56",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Djelfa",
+		"iso2": "17",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "El Bayadh",
+		"iso2": "32",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "El M'ghair",
+		"iso2": "49",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "El Menia",
+		"iso2": "50",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "El Oued",
+		"iso2": "39",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "El Tarf",
+		"iso2": "36",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Ghardaïa",
+		"iso2": "47",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Guelma",
+		"iso2": "24",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Illizi",
+		"iso2": "33",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "In Guezzam",
+		"iso2": "58",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "In Salah",
+		"iso2": "57",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Jijel",
+		"iso2": "18",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Khenchela",
+		"iso2": "40",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Laghouat",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "M'Sila",
+		"iso2": "28",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Mascara",
+		"iso2": "29",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Médéa",
+		"iso2": "26",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Mila",
+		"iso2": "43",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Mostaganem",
+		"iso2": "27",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Naama",
+		"iso2": "45",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Oran",
+		"iso2": "31",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Ouargla",
+		"iso2": "30",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Ouled Djellal",
+		"iso2": "51",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Oum El Bouaghi",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Relizane",
+		"iso2": "48",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Saïda",
+		"iso2": "20",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Sétif",
+		"iso2": "19",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Sidi Bel Abbès",
+		"iso2": "22",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Skikda",
+		"iso2": "21",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Souk Ahras",
+		"iso2": "41",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tamanghasset",
+		"iso2": "11",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tébessa",
+		"iso2": "12",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tiaret",
+		"iso2": "14",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Timimoun",
+		"iso2": "54",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tindouf",
+		"iso2": "37",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tipasa",
+		"iso2": "42",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tissemsilt",
+		"iso2": "38",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tizi Ouzou",
+		"iso2": "15",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Tlemcen",
+		"iso2": "13",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	},
+	{
+		"name": "Touggourt",
+		"iso2": "55",
+		"type": "province",
+		"timezone": "Africa/Algiers"
+	}
+]

@@ -1,0 +1,170 @@
+[
+	{
+		"name": "Blagoevgrad",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Burgas",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Dobrich",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Gabrovo",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Haskovo",
+		"iso2": "26",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Kardzhali",
+		"iso2": "09",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Kyustendil",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Lovech",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Montana",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Pazardzhik",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Pernik",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Pleven",
+		"iso2": "15",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Plovdiv",
+		"iso2": "16",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Razgrad",
+		"iso2": "17",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Ruse",
+		"iso2": "18",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Shumen",
+		"iso2": "27",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Silistra",
+		"iso2": "19",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Sliven",
+		"iso2": "20",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Smolyan",
+		"iso2": "21",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Sofia",
+		"iso2": "23",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Sofia City",
+		"iso2": "22",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Stara Zagora",
+		"iso2": "24",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Targovishte",
+		"iso2": "25",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Varna",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Veliko Tarnovo",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Vidin",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Vratsa",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	},
+	{
+		"name": "Yambol",
+		"iso2": "28",
+		"type": "district",
+		"timezone": "Europe/Sofia"
+	}
+]

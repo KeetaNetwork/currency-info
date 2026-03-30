@@ -1,0 +1,116 @@
+[
+	{
+		"name": "Al Anbar",
+		"iso2": "AN",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Al Muthanna",
+		"iso2": "MU",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Al-Qādisiyyah",
+		"iso2": "QA",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Babylon",
+		"iso2": "BB",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Baghdad",
+		"iso2": "BG",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Basra",
+		"iso2": "BA",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Dhi Qar",
+		"iso2": "DQ",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Diyala",
+		"iso2": "DI",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Dohuk",
+		"iso2": "DA",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Erbil",
+		"iso2": "AR",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Iqlim Kurdistan",
+		"iso2": "KR",
+		"type": "region",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Karbala",
+		"iso2": "KA",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Kirkuk",
+		"iso2": "KI",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Maysan",
+		"iso2": "MA",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Najaf",
+		"iso2": "NA",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Nineveh",
+		"iso2": "NI",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Saladin",
+		"iso2": "SD",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Sulaymaniyah",
+		"iso2": "SU",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	},
+	{
+		"name": "Wasit",
+		"iso2": "WA",
+		"type": "governorate",
+		"timezone": "Asia/Baghdad"
+	}
+]

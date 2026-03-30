@@ -1,0 +1,158 @@
+[
+	{
+		"name": "Bas-Uélé",
+		"iso2": "BU",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Équateur",
+		"iso2": "EQ",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Haut-Katanga",
+		"iso2": "HK",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Haut-Lomami",
+		"iso2": "HL",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Haut-Uélé",
+		"iso2": "HU",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Ituri",
+		"iso2": "IT",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Kasaï",
+		"iso2": "KS",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Kasaï Central",
+		"iso2": "KC",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Kasaï Oriental",
+		"iso2": "KE",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Kinshasa",
+		"iso2": "KN",
+		"type": "city",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Kongo Central",
+		"iso2": "BC",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Kwango",
+		"iso2": "KG",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Kwilu",
+		"iso2": "KL",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Lomami",
+		"iso2": "LO",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Lualaba",
+		"iso2": "LU",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Mai-Ndombe",
+		"iso2": "MN",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Maniema",
+		"iso2": "MA",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Mongala",
+		"iso2": "MO",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Nord-Kivu",
+		"iso2": "NK",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Nord-Ubangi",
+		"iso2": "NU",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Sankuru",
+		"iso2": "SA",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Sud-Kivu",
+		"iso2": "SK",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Sud-Ubangi",
+		"iso2": "SU",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Tanganyika",
+		"iso2": "TA",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Tshopo",
+		"iso2": "TO",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	},
+	{
+		"name": "Tshuapa",
+		"iso2": "TU",
+		"type": "province",
+		"timezone": "Africa/Kinshasa"
+	}
+]

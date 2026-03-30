@@ -1,0 +1,836 @@
+[
+	{
+		"name": "Abim",
+		"iso2": "314",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Adjumani",
+		"iso2": "301",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Agago",
+		"iso2": "322",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Alebtong",
+		"iso2": "323",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Amolatar",
+		"iso2": "315",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Amudat",
+		"iso2": "324",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Amuria",
+		"iso2": "216",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Amuru",
+		"iso2": "316",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Apac",
+		"iso2": "302",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Arua",
+		"iso2": "303",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Budaka",
+		"iso2": "217",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bududa",
+		"iso2": "218",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bugiri",
+		"iso2": "201",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bugweri",
+		"iso2": "235",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Buhweju",
+		"iso2": "420",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Buikwe",
+		"iso2": "117",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bukedea",
+		"iso2": "219",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bukomansimbi",
+		"iso2": "118",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bukwo",
+		"iso2": "220",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bulambuli",
+		"iso2": "225",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Buliisa",
+		"iso2": "416",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bundibugyo",
+		"iso2": "401",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bunyangabu",
+		"iso2": "430",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Bushenyi",
+		"iso2": "402",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Busia",
+		"iso2": "202",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Butaleja",
+		"iso2": "221",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Butambala",
+		"iso2": "119",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Butebo",
+		"iso2": "233",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Buvuma",
+		"iso2": "120",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Buyende",
+		"iso2": "226",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Central",
+		"iso2": "C",
+		"type": "region",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Dokolo",
+		"iso2": "317",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Eastern",
+		"iso2": "E",
+		"type": "region",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Gomba",
+		"iso2": "121",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Gulu",
+		"iso2": "304",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Hoima",
+		"iso2": "403",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Ibanda",
+		"iso2": "417",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Iganga",
+		"iso2": "203",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Isingiro",
+		"iso2": "418",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Jinja",
+		"iso2": "204",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kaabong",
+		"iso2": "318",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kabale",
+		"iso2": "404",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kabarole",
+		"iso2": "405",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kaberamaido",
+		"iso2": "213",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kagadi",
+		"iso2": "427",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kakumiro",
+		"iso2": "428",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kalaki",
+		"iso2": "237",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kalangala",
+		"iso2": "101",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kaliro",
+		"iso2": "222",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kalungu",
+		"iso2": "122",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kampala",
+		"iso2": "102",
+		"type": "city",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kamuli",
+		"iso2": "205",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kamwenge",
+		"iso2": "413",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kanungu",
+		"iso2": "414",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kapchorwa",
+		"iso2": "206",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kapelebyong",
+		"iso2": "236",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Karenga",
+		"iso2": "335",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kasanda",
+		"iso2": "126",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kasese",
+		"iso2": "406",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Katakwi",
+		"iso2": "207",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kayunga",
+		"iso2": "112",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kazo",
+		"iso2": "433",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kibaale",
+		"iso2": "407",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kiboga",
+		"iso2": "103",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kibuku",
+		"iso2": "227",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kikuube",
+		"iso2": "432",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kiruhura",
+		"iso2": "419",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kiryandongo",
+		"iso2": "421",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kisoro",
+		"iso2": "408",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kitagwenda",
+		"iso2": "434",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kitgum",
+		"iso2": "305",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Koboko",
+		"iso2": "319",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kole",
+		"iso2": "325",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kotido",
+		"iso2": "306",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kumi",
+		"iso2": "208",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kwania",
+		"iso2": "333",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kween",
+		"iso2": "228",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kyankwanzi",
+		"iso2": "123",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kyegegwa",
+		"iso2": "422",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kyenjojo",
+		"iso2": "415",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Kyotera",
+		"iso2": "125",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Lamwo",
+		"iso2": "326",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Lira",
+		"iso2": "307",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Luuka",
+		"iso2": "229",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Luwero",
+		"iso2": "104",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Lwengo",
+		"iso2": "124",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Lyantonde",
+		"iso2": "114",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Madi-Okollo",
+		"iso2": "336",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Manafwa",
+		"iso2": "223",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Maracha",
+		"iso2": "320",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Masaka",
+		"iso2": "105",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Masindi",
+		"iso2": "409",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mayuge",
+		"iso2": "214",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mbale",
+		"iso2": "209",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mbarara",
+		"iso2": "410",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mitooma",
+		"iso2": "423",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mityana",
+		"iso2": "115",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Moroto",
+		"iso2": "308",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Moyo",
+		"iso2": "309",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mpigi",
+		"iso2": "106",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mubende",
+		"iso2": "107",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Mukono",
+		"iso2": "108",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Nabilatuk",
+		"iso2": "334",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Nakapiripirit",
+		"iso2": "311",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Nakaseke",
+		"iso2": "116",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Nakasongola",
+		"iso2": "109",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Namayingo",
+		"iso2": "230",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Namisindwa",
+		"iso2": "234",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Namutumba",
+		"iso2": "224",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Napak",
+		"iso2": "327",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Nebbi",
+		"iso2": "310",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Ngora",
+		"iso2": "231",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Northern",
+		"iso2": "N",
+		"type": "region",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Ntoroko",
+		"iso2": "424",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Ntungamo",
+		"iso2": "411",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Nwoya",
+		"iso2": "328",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Obongi",
+		"iso2": "337",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Omoro",
+		"iso2": "331",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Otuke",
+		"iso2": "329",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Oyam",
+		"iso2": "321",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Pader",
+		"iso2": "312",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Pakwach",
+		"iso2": "332",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Pallisa",
+		"iso2": "210",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Rakai",
+		"iso2": "110",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Rubanda",
+		"iso2": "429",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Rubirizi",
+		"iso2": "425",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Rukiga",
+		"iso2": "431",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Rukungiri",
+		"iso2": "412",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Rwampara",
+		"iso2": "435",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Sembabule",
+		"iso2": "111",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Serere",
+		"iso2": "232",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Sheema",
+		"iso2": "426",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Sironko",
+		"iso2": "215",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Soroti",
+		"iso2": "211",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Tororo",
+		"iso2": "212",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Wakiso",
+		"iso2": "113",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Western",
+		"iso2": "W",
+		"type": "region",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Yumbe",
+		"iso2": "313",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	},
+	{
+		"name": "Zombo",
+		"iso2": "330",
+		"type": "district",
+		"timezone": "Africa/Kampala"
+	}
+]

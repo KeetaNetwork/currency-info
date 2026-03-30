@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Balzers",
+		"iso2": "01",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Eschen",
+		"iso2": "02",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Gamprin",
+		"iso2": "03",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Mauren",
+		"iso2": "04",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Planken",
+		"iso2": "05",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Ruggell",
+		"iso2": "06",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Schaan",
+		"iso2": "07",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Schellenberg",
+		"iso2": "08",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Triesen",
+		"iso2": "09",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Triesenberg",
+		"iso2": "10",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	},
+	{
+		"name": "Vaduz",
+		"iso2": "11",
+		"type": "commune",
+		"timezone": "Europe/Vaduz"
+	}
+]

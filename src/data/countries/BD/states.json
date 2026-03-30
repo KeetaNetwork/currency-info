@@ -1,0 +1,434 @@
+[
+	{
+		"name": "Bagerhat",
+		"iso2": "05",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Bandarban",
+		"iso2": "01",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Barguna",
+		"iso2": "02",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Barisal ",
+		"iso2": "A",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Barishal",
+		"iso2": "06",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Bhola",
+		"iso2": "07",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Bogura",
+		"iso2": "03",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Brahmanbaria",
+		"iso2": "04",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Chandpur",
+		"iso2": "09",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Chapai Nawabganj",
+		"iso2": "45",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Chattogram",
+		"iso2": "10",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Chittagong ",
+		"iso2": "B",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Chuadanga",
+		"iso2": "12",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Cox's Bazar",
+		"iso2": "11",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Cumilla",
+		"iso2": "08",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Dhaka",
+		"iso2": "13",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Dhaka ",
+		"iso2": "C",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Dinajpur",
+		"iso2": "14",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Faridpur",
+		"iso2": "15",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Feni",
+		"iso2": "16",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Gaibandha",
+		"iso2": "19",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Gazipur",
+		"iso2": "18",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Gopalganj",
+		"iso2": "17",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Habiganj",
+		"iso2": "20",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Jamalpur",
+		"iso2": "21",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Jashore",
+		"iso2": "22",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Jhalakathi",
+		"iso2": "25",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Jhenaidah",
+		"iso2": "23",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Joypurhat",
+		"iso2": "24",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Khagrachhari",
+		"iso2": "29",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Khulna",
+		"iso2": "27",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Khulna ",
+		"iso2": "D",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Kishoreganj",
+		"iso2": "26",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Kurigram",
+		"iso2": "28",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Kushtia",
+		"iso2": "30",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Lakshmipur",
+		"iso2": "31",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Lalmonirhat",
+		"iso2": "32",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Madaripur",
+		"iso2": "36",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Magura",
+		"iso2": "37",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Manikganj",
+		"iso2": "33",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Meherpur",
+		"iso2": "39",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Moulvibazar",
+		"iso2": "38",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Munshiganj",
+		"iso2": "35",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Mymensingh",
+		"iso2": "34",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Mymensingh ",
+		"iso2": "H",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Naogaon",
+		"iso2": "48",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Narail",
+		"iso2": "43",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Narayanganj",
+		"iso2": "40",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Narsingdi",
+		"iso2": "42",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Natore",
+		"iso2": "44",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Netrakona",
+		"iso2": "41",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Nilphamari",
+		"iso2": "46",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Noakhali",
+		"iso2": "47",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Pabna",
+		"iso2": "49",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Panchagarh",
+		"iso2": "52",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Patuakhali",
+		"iso2": "51",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Pirojpur",
+		"iso2": "50",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Rajbari",
+		"iso2": "53",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Rajshahi",
+		"iso2": "54",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Rajshahi ",
+		"iso2": "E",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Rangamati",
+		"iso2": "56",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Rangpur ",
+		"iso2": "F",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Rangpur",
+		"iso2": "55",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Satkhira",
+		"iso2": "58",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Shariatpur",
+		"iso2": "62",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Sherpur",
+		"iso2": "57",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Sirajganj",
+		"iso2": "59",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Sunamganj",
+		"iso2": "61",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Sylhet ",
+		"iso2": "G",
+		"type": "division",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Sylhet",
+		"iso2": "60",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Tangail",
+		"iso2": "63",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	},
+	{
+		"name": "Thakurgaon",
+		"iso2": "64",
+		"type": "district",
+		"timezone": "Asia/Dhaka"
+	}
+]

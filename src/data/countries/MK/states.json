@@ -1,0 +1,482 @@
+[
+	{
+		"name": "Aerodrom",
+		"iso2": "801",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Aračinovo",
+		"iso2": "802",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Berovo",
+		"iso2": "201",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Bitola",
+		"iso2": "501",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Bogdanci",
+		"iso2": "401",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Bogovinje",
+		"iso2": "601",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Bosilovo",
+		"iso2": "402",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Brvenica",
+		"iso2": "602",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Butel",
+		"iso2": "803",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Čair",
+		"iso2": "815",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Čaška",
+		"iso2": "109",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Centar",
+		"iso2": "814",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Centar Župa",
+		"iso2": "313",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Češinovo-Obleševo",
+		"iso2": "210",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Čučer-Sandevo",
+		"iso2": "816",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Debar",
+		"iso2": "303",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Debarca",
+		"iso2": "304",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Delčevo",
+		"iso2": "203",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Demir Hisar",
+		"iso2": "502",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Demir Kapija",
+		"iso2": "103",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Dojran",
+		"iso2": "406",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Dolneni",
+		"iso2": "503",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Gazi Baba",
+		"iso2": "804",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Gevgelija",
+		"iso2": "405",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Gjorče Petrov",
+		"iso2": "805",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Gostivar",
+		"iso2": "604",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Gradsko",
+		"iso2": "102",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Ilinden",
+		"iso2": "807",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Jegunovce",
+		"iso2": "606",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Karbinci",
+		"iso2": "205",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Karpoš",
+		"iso2": "808",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kavadarci",
+		"iso2": "104",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kičevo",
+		"iso2": "307",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kisela Voda",
+		"iso2": "809",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kočani",
+		"iso2": "206",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Konče",
+		"iso2": "407",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kratovo",
+		"iso2": "701",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kriva Palanka",
+		"iso2": "702",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Krivogaštani",
+		"iso2": "504",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kruševo",
+		"iso2": "505",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Kumanovo",
+		"iso2": "703",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Lipkovo",
+		"iso2": "704",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Lozovo",
+		"iso2": "105",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Makedonska Kamenica",
+		"iso2": "207",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Makedonski Brod",
+		"iso2": "308",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Mavrovo and Rostuša",
+		"iso2": "607",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Mogila",
+		"iso2": "506",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Negotino",
+		"iso2": "106",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Novaci",
+		"iso2": "507",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Novo Selo",
+		"iso2": "408",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Ohrid",
+		"iso2": "310",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Pehčevo",
+		"iso2": "208",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Petrovec",
+		"iso2": "810",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Plasnica",
+		"iso2": "311",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Prilep",
+		"iso2": "508",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Probištip",
+		"iso2": "209",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Radoviš",
+		"iso2": "409",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Rankovce",
+		"iso2": "705",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Resen",
+		"iso2": "509",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Rosoman",
+		"iso2": "107",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Saraj",
+		"iso2": "811",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Sopište",
+		"iso2": "812",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Staro Nagoričane",
+		"iso2": "706",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Štip",
+		"iso2": "211",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Struga",
+		"iso2": "312",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Strumica",
+		"iso2": "410",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Studeničani",
+		"iso2": "813",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Šuto Orizari",
+		"iso2": "817",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Sveti Nikole",
+		"iso2": "108",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Tearce",
+		"iso2": "608",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Tetovo",
+		"iso2": "609",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Valandovo",
+		"iso2": "403",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Vasilevo",
+		"iso2": "404",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Veles",
+		"iso2": "101",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Vevčani",
+		"iso2": "301",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Vinica",
+		"iso2": "202",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Vrapčište",
+		"iso2": "603",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Zelenikovo",
+		"iso2": "806",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Želino",
+		"iso2": "605",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	},
+	{
+		"name": "Zrnovci",
+		"iso2": "204",
+		"type": "municipality",
+		"timezone": "Europe/Skopje"
+	}
+]

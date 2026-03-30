@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Adamawa",
+		"iso2": "AD",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "Centre",
+		"iso2": "CE",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "East",
+		"iso2": "ES",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "Far North",
+		"iso2": "EN",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "Littoral",
+		"iso2": "LT",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "North",
+		"iso2": "NO",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "Northwest",
+		"iso2": "NW",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "South",
+		"iso2": "SU",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "Southwest",
+		"iso2": "SW",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	},
+	{
+		"name": "West",
+		"iso2": "OU",
+		"type": "region",
+		"timezone": "Africa/Douala"
+	}
+]

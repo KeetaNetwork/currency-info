@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Ayre",
+		"iso2": "01",
+		"type": "sheadings",
+		"timezone": "Europe/Isle_of_Man"
+	},
+	{
+		"name": "Garff",
+		"iso2": "02",
+		"type": "sheadings",
+		"timezone": "Europe/Isle_of_Man"
+	},
+	{
+		"name": "Glenfaba",
+		"iso2": "03",
+		"type": "sheadings",
+		"timezone": "Europe/Isle_of_Man"
+	},
+	{
+		"name": "Michael",
+		"iso2": "04",
+		"type": "sheadings",
+		"timezone": "Europe/Isle_of_Man"
+	},
+	{
+		"name": "Middle",
+		"iso2": "05",
+		"type": "sheadings",
+		"timezone": "Europe/Isle_of_Man"
+	},
+	{
+		"name": "Rushen",
+		"iso2": "06",
+		"type": "sheadings",
+		"timezone": "Europe/Isle_of_Man"
+	}
+]

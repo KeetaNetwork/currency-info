@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Akkar",
+		"iso2": "AK",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	},
+	{
+		"name": "Baalbek-Hermel",
+		"iso2": "BH",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	},
+	{
+		"name": "Beirut",
+		"iso2": "BA",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	},
+	{
+		"name": "Beqaa",
+		"iso2": "BI",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	},
+	{
+		"name": "Mount Lebanon",
+		"iso2": "JL",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	},
+	{
+		"name": "Nabatieh",
+		"iso2": "NA",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	},
+	{
+		"name": "North",
+		"iso2": "AS",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	},
+	{
+		"name": "South",
+		"iso2": "JA",
+		"type": "governorate",
+		"timezone": "Asia/Beirut"
+	}
+]

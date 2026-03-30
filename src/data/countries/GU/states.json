@@ -1,0 +1,116 @@
+[
+	{
+		"name": "Agana Heights",
+		"iso2": "01",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Asan-Maina",
+		"iso2": "02",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Barrigada",
+		"iso2": "03",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Chalan Pago-Ordot",
+		"iso2": "04",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Dededo",
+		"iso2": "05",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Hågat",
+		"iso2": "06",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Hagåtña",
+		"iso2": "12",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Inarajan (Inalåhan)",
+		"iso2": "08",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Mangilao",
+		"iso2": "10",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Merizo (Malesso)",
+		"iso2": "09",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Mongmong-Toto-Maite",
+		"iso2": "11",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Piti",
+		"iso2": "13",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Santa Rita (Sånta Rita-Sumai)",
+		"iso2": "14",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Sinajana",
+		"iso2": "15",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Talofofo (Talo'fo'fo)",
+		"iso2": "16",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Tamuning",
+		"iso2": "17",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Umatac (Humåtak)",
+		"iso2": "07",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Yigo",
+		"iso2": "18",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	},
+	{
+		"name": "Yona",
+		"iso2": "19",
+		"type": "village",
+		"timezone": "Pacific/Guam"
+	}
+]

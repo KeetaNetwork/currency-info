@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Anjouan",
+		"iso2": "A",
+		"type": "island",
+		"timezone": "Indian/Comoro"
+	},
+	{
+		"name": "Grande Comore",
+		"iso2": "G",
+		"type": "island",
+		"timezone": "Indian/Comoro"
+	},
+	{
+		"name": "Mohéli",
+		"iso2": "M",
+		"type": "island",
+		"timezone": "Indian/Comoro"
+	}
+]

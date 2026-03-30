@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Baden-Württemberg",
+		"iso2": "BW",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Bavaria",
+		"iso2": "BY",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Berlin",
+		"iso2": "BE",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Brandenburg",
+		"iso2": "BB",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Bremen",
+		"iso2": "HB",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Hamburg",
+		"iso2": "HH",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Hessen",
+		"iso2": "HE",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Lower Saxony",
+		"iso2": "NI",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Mecklenburg-Vorpommern",
+		"iso2": "MV",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "North Rhine-Westphalia",
+		"iso2": "NW",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Rhineland-Palatinate",
+		"iso2": "RP",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Saarland",
+		"iso2": "SL",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Saxony",
+		"iso2": "SN",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Saxony-Anhalt",
+		"iso2": "ST",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Schleswig-Holstein",
+		"iso2": "SH",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	},
+	{
+		"name": "Thuringia",
+		"iso2": "TH",
+		"type": "land",
+		"timezone": "Europe/Berlin"
+	}
+]

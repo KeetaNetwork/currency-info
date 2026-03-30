@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Bubanza",
+		"iso2": "BB",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Bujumbura Mairie",
+		"iso2": "BM",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Bujumbura Rural",
+		"iso2": "BL",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Bururi",
+		"iso2": "BR",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Cankuzo",
+		"iso2": "CA",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Cibitoke",
+		"iso2": "CI",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Gitega",
+		"iso2": "GI",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Karuzi",
+		"iso2": "KR",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Kayanza",
+		"iso2": "KY",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Kirundo",
+		"iso2": "KI",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Makamba",
+		"iso2": "MA",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Muramvya",
+		"iso2": "MU",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Muyinga",
+		"iso2": "MY",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Mwaro",
+		"iso2": "MW",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Ngozi",
+		"iso2": "NG",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Rumonge",
+		"iso2": "RM",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Rutana",
+		"iso2": "RT",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	},
+	{
+		"name": "Ruyigi",
+		"iso2": "RY",
+		"type": "province",
+		"timezone": "Africa/Bujumbura"
+	}
+]

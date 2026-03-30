@@ -1,0 +1,260 @@
+[
+	{
+		"name": "Bács-Kiskun",
+		"iso2": "BK",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Baranya",
+		"iso2": "BA",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Békés",
+		"iso2": "BE",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Békéscsaba",
+		"iso2": "BC",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Borsod-Abaúj-Zemplén",
+		"iso2": "BZ",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Budapest",
+		"iso2": "BU",
+		"type": "capital city",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Csongrád County",
+		"iso2": "CS",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Debrecen",
+		"iso2": "DE",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Dunaújváros",
+		"iso2": "DU",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Eger",
+		"iso2": "EG",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Érd",
+		"iso2": "ER",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Fejér County",
+		"iso2": "FE",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Győr",
+		"iso2": "GY",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Győr-Moson-Sopron County",
+		"iso2": "GS",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Hajdú-Bihar County",
+		"iso2": "HB",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Heves County",
+		"iso2": "HE",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Hódmezővásárhely",
+		"iso2": "HV",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Jász-Nagykun-Szolnok County",
+		"iso2": "JN",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Kaposvár",
+		"iso2": "KV",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Kecskemét",
+		"iso2": "KM",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Komárom-Esztergom",
+		"iso2": "KE",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Miskolc",
+		"iso2": "MI",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Nagykanizsa",
+		"iso2": "NK",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Nógrád County",
+		"iso2": "NO",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Nyíregyháza",
+		"iso2": "NY",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Pécs",
+		"iso2": "PS",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Pest County",
+		"iso2": "PE",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Salgótarján",
+		"iso2": "ST",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Somogy County",
+		"iso2": "SO",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Sopron",
+		"iso2": "SN",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Szabolcs-Szatmár-Bereg County",
+		"iso2": "SZ",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Szeged",
+		"iso2": "SD",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Székesfehérvár",
+		"iso2": "SF",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Szekszárd",
+		"iso2": "SS",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Szolnok",
+		"iso2": "SK",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Szombathely",
+		"iso2": "SH",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Tatabánya",
+		"iso2": "TB",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Tolna County",
+		"iso2": "TO",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Vas County",
+		"iso2": "VA",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Veszprém",
+		"iso2": "VM",
+		"type": "city with county rights",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Veszprém County",
+		"iso2": "VE",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Zala County",
+		"iso2": "ZA",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	},
+	{
+		"name": "Zalaegerszeg",
+		"iso2": "ZE",
+		"type": "county",
+		"timezone": "Europe/Budapest"
+	}
+]

@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Changhua",
+		"iso2": "CHA",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Chiayi",
+		"iso2": "CYI",
+		"type": "city",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Chiayi County",
+		"iso2": "CYQ",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Hsinchu",
+		"iso2": "HSZ",
+		"type": "city",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Hsinchu County",
+		"iso2": "HSQ",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Hualien",
+		"iso2": "HUA",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Kaohsiung",
+		"iso2": "KHH",
+		"type": "special municipality",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Keelung",
+		"iso2": "KEE",
+		"type": "city",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Kinmen",
+		"iso2": "KIN",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Lienchiang",
+		"iso2": "LIE",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Miaoli",
+		"iso2": "MIA",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Nantou",
+		"iso2": "NAN",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "New Taipei",
+		"iso2": "NWT",
+		"type": "special municipality",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Penghu",
+		"iso2": "PEN",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Pingtung",
+		"iso2": "PIF",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Taichung",
+		"iso2": "TXG",
+		"type": "special municipality",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Tainan",
+		"iso2": "TNN",
+		"type": "special municipality",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Taipei",
+		"iso2": "TPE",
+		"type": "special municipality",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Taitung",
+		"iso2": "TTT",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Taoyuan",
+		"iso2": "TAO",
+		"type": "special municipality",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Yilan",
+		"iso2": "ILA",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	},
+	{
+		"name": "Yunlin",
+		"iso2": "YUN",
+		"type": "county",
+		"timezone": "Asia/Taipei"
+	}
+]

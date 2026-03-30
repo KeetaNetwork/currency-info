@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Central",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Copperbelt",
+		"iso2": "08",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Eastern",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Luapula",
+		"iso2": "04",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Lusaka",
+		"iso2": "09",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Muchinga",
+		"iso2": "10",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Northern",
+		"iso2": "05",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Northwestern",
+		"iso2": "06",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Southern",
+		"iso2": "07",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	},
+	{
+		"name": "Western",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "Africa/Lusaka"
+	}
+]

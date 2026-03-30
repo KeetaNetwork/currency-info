@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Loyalty Islands Province",
+		"iso2": "03",
+		"type": "province",
+		"timezone": "Pacific/Noumea"
+	},
+	{
+		"name": "North Province",
+		"iso2": "02",
+		"type": "province",
+		"timezone": "Pacific/Noumea"
+	},
+	{
+		"name": "South Province",
+		"iso2": "01",
+		"type": "province",
+		"timezone": "Pacific/Noumea"
+	}
+]

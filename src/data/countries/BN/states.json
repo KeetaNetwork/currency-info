@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Belait",
+		"iso2": "BE",
+		"type": "district",
+		"timezone": "Asia/Brunei"
+	},
+	{
+		"name": "Brunei-Muara",
+		"iso2": "BM",
+		"type": "district",
+		"timezone": "Asia/Brunei"
+	},
+	{
+		"name": "Temburong",
+		"iso2": "TE",
+		"type": "district",
+		"timezone": "Asia/Brunei"
+	},
+	{
+		"name": "Tutong",
+		"iso2": "TU",
+		"type": "district",
+		"timezone": "Asia/Brunei"
+	}
+]

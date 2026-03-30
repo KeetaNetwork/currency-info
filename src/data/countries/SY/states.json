@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Al-Hasakah",
+		"iso2": "HA",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Al-Raqqah",
+		"iso2": "RA",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Aleppo",
+		"iso2": "HL",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "As-Suwayda",
+		"iso2": "SU",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Damascus",
+		"iso2": "DI",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Daraa",
+		"iso2": "DR",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Deir ez-Zor",
+		"iso2": "DY",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Hama",
+		"iso2": "HM",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Homs",
+		"iso2": "HI",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Idlib",
+		"iso2": "ID",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Latakia",
+		"iso2": "LA",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Quneitra",
+		"iso2": "QU",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Rif Dimashq",
+		"iso2": "RD",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	},
+	{
+		"name": "Tartus",
+		"iso2": "TA",
+		"type": "province",
+		"timezone": "Asia/Damascus"
+	}
+]
