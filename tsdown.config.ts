@@ -1,8 +1,10 @@
 import { defineConfig } from 'tsdown';
-import { generateFlagsFile } from './scripts/generate-flags-file';
+import { generateFlagsFile } from './scripts/generate-flags-file.ts';
 import Raw from "unplugin-raw/rollup";
 import path from "node:path";
 import fs from "node:fs";
+
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
 function genFlagsPlugin() {
 	return {
@@ -10,7 +12,9 @@ function genFlagsPlugin() {
 		async buildStart() {
 			const dir = path.join(__dirname, "src", "data", "flags");
 			for (const f of fs.readdirSync(dir)) {
-				if (f.endsWith(".svg")) this.addWatchFile(path.join(dir, f));
+				if (f.endsWith(".svg")) {
+					this.addWatchFile(path.join(dir, f));
+				}
 			}
 			await generateFlagsFile();
 		},
