@@ -20,11 +20,14 @@
 		"dist"
 	],
 	"scripts": {
-		"tsdown": "tsdown",
 		"eslint": "eslint",
+		"tsc": "tsc",
+		"tsdown": "tsdown",
+		"tsx": "tsx",
 		"make:all": "make all",
 		"make:dist": "make dist",
 		"make:test": "make test",
+		"make:do-type-check": "make do-type-check",
 		"make:do-lint": "make do-lint",
 		"make:clean": "make clean",
 		"make:distclean": "make distclean",
@@ -32,13 +35,14 @@
 		"make:help": "make help"
 	},
 	"devDependencies": {
-		"@keetanetwork/eslint-config-typescript": "1.4.7",
-		"@types/node": "24.3.0",
+		"@keetanetwork/eslint-config-typescript": "1.4.8",
+		"@types/node": "24.19.0",
 		"tsdown": "0.12.9",
+		"tsx": "4.23.15",
 		"typescript": "5.6.3",
 		"unplugin-raw": "0.6.1"
 	},
 	"engines": {
-		"node": "20.18.0"
+		"node": "24.14.1"
 	}
 }
