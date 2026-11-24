@@ -1,0 +1,42 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Read Node Version
+        id: node_version
+        run: echo "NODE_VERSION=$(jq -crM .engines.node < package.json)" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: ${{ steps.node_version.outputs.NODE_VERSION }}
+          registry-url: "https://npm.pkg.github.com"
+
+      - name: Install Packages
+        run: make node_modules
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build Files
+        run: make dist
+
+      - name: Lint
+        run: make do-lint
+
+      - name: Pack Files
+        run: make do-npm-pack
